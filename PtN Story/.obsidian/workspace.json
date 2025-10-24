@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e48b9a97e18b2cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe89d22a092a553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e697f65a68c505",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10c6aacfa9b8f9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e240c5f29a518f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29148f6b92d9d6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce33d80cfff32dae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:arc/blood_and_iron",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5606a6e8ca2d5887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f8890a58d64d085",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d11cfc8fe5f1f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76656c9c9c1362a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-02 Surgery.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02-02 Surgery"
+            }
+          },
+          {
+            "id": "2193a49b3d7eb3a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core Crisis/01 SALVA Chaos A/01-02 Assassination.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-02 Assassination"
+            }
+          },
+          {
+            "id": "5bb11f50e9fdab70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61c3fa49dc75f8c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-02 Surgery.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02-02 Surgery"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e1e697f65a68c505",
+  "lastOpenFiles": [
+    "Locations/DisCity/West District/Syndicate.md",
+    "Arcs/Blood & Iron/Prologue/Prologue.md",
+    "Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos.md",
+    "Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt.md",
+    "Arcs/Blood & Iron/Blood & Iron.md",
+    "Arcs/Blood & Iron/Keylan Square/Keylan Square.md",
+    "Arcs/Blood & Iron/Keylan Square",
+    "Arcs/Blood & Iron/Unclaimed Crypt",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-03 Mania and the Doctor.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/RE-02-03 Promise.md",
+    "Concepts/Mania/M-Value.md",
+    "Concepts/Mania/Mania.md",
+    "Concepts/Mania/Mania Crystal.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-02 Surgery.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-01 Test.md",
+    "Arcs/Blood & Iron/Prologue/00-04 Beginning.md",
+    "Arcs/Blood & Iron/Prologue/00-03 White Beast.md",
+    "Arcs/Blood & Iron/Prologue/00-02 Shadow.md",
+    "Arcs/Blood & Iron/Prologue/00-01 Awake.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-03 Broken Puppet.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-02 Head-to-head.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-01 Support.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/RE-01-09 Reunited at SALVA.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-09 Doctor Brand.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-08 The Battle of SALVA.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-07 Hyenas on the Scent.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-06 Peacemaking.md",
+    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-05 R's Intelligence.md",
+    "Timeline/Years",
+    "Arcs/Precarious Polis/Abyssal Tentaculum",
+    "Arcs/Precarious Polis/Echoless Dive",
+    "Arcs/Precarious Polis/Embers of Long Night",
+    "Arcs/Precarious Polis/Aureata Regale",
+    "Arcs/Precarious Polis/Undercurrents",
+    "Arcs/Precarious Polis/Hella's Adventure",
+    "Arcs/Precarious Polis/Special Operations"
+  ]
+}
