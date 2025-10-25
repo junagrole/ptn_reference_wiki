@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe89d22a092a553",
+        "id": "8993cebebae32bf5",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e697f65a68c505",
+            "id": "286704f12a8e8601",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Arcs/Blood & Iron/Prologue/Prologue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prologue"
             }
           }
         ],
@@ -166,11 +170,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1e697f65a68c505",
+  "active": "286704f12a8e8601",
   "lastOpenFiles": [
+    "Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos.md",
     "Locations/DisCity/West District/Syndicate.md",
     "Arcs/Blood & Iron/Prologue/Prologue.md",
-    "Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos.md",
     "Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt.md",
     "Arcs/Blood & Iron/Blood & Iron.md",
     "Arcs/Blood & Iron/Keylan Square/Keylan Square.md",
