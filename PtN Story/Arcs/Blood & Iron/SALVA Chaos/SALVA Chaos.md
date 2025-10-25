@@ -31,3 +31,6 @@ content: chapter
 - [[02-01 Test]]
 - [[02-02 Surgery]]
 - [[02-03 Mania and the Doctor]]
+- [[RE-02-03 Promise]]
+- [[02-04 The Second Round]]
+- 
