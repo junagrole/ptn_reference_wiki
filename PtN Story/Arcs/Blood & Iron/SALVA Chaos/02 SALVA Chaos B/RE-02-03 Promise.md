@@ -1,6 +1,7 @@
 ---
 tags:
   - arc/blood_and_iron/salva_chaos
+  - meta/lore_heavy
 previous:
   - "[[02-03 Mania and the Doctor]]"
 pov:

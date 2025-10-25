@@ -7,6 +7,7 @@ tags:
   - leadership/hospital
   - meta/antagonist
   - west_district/salva
+  - meta/chapter_major
 state: stub
 content: character
 ---
