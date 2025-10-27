@@ -6,7 +6,7 @@ previous:
   - "[[02-03 Mania and the Doctor]]"
 pov:
   - Chief
-state: complete
+state: review
 content: stage
 next:
   - "[[02-04 The Second Round]]"
