@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incidents/Outland Wars/Operation Skyfall.md",
+                "file": "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-11 The Dim End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Skyfall"
+              "title": "02-11 The Dim End"
             }
           }
         ],
@@ -169,10 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "29148f6b92d9d6b0",
+  "active": "286704f12a8e8601",
   "lastOpenFiles": [
-    "Years/061-070/NF 068.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-12 Salva Chaos.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-11 The Dim End.md",
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-10 Patient and Nurse.md",
     "Incidents/Outland Wars/Operation Skyfall.md",
+    "Years/061-070/NF 068.md",
     "Incidents/Outland Wars/DisCity Mutiny.md",
     "Incidents/Outland Wars/Metropoles Crackdown.md",
     "Incidents/Outland Wars/Nuclear Strike on Nirvana Port.md",
@@ -196,16 +199,13 @@
     "Locations/DisCity/DisCity.md",
     "Locations/Farlands",
     "Templates/Incident.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-10 Patient and Nurse.md",
     "Incidents/Outland Wars",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-11 The Dim End.md",
     "Untitled 1.base",
     "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-09 Dog.md",
     "Templates/Stage.md",
     "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/RE-02-03 Promise.md",
     "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-08 Sealed Despair.md",
     "Incidents/DisSea explosion.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-07 Into the Contamination.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-06 Basement.md"
+    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-07 Into the Contamination.md"
   ]
 }
