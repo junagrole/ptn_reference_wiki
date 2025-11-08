@@ -1,9 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[SD-01-01 Support]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[SD-01-01 Support]]"
+next:
 state: complete
 content: stage
 ---

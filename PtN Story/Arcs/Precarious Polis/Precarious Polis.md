@@ -1,9 +1,8 @@
 ---
 tags:
-  - arc/precarious_polis
 starting: N.F. 113/12
 ending:
-year:
+years:
   - "[[NF 113]]"
   - "[[NF 114]]"
   - "[[NF 115]]"

@@ -1,10 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[01-02 Assassination]]"
-next: "[[01-04 Encounter Salva]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[01-02 Assassination]]"
+next: "[[01-04 Encounter Salva]]"
 state: review
 content: stage
 ---

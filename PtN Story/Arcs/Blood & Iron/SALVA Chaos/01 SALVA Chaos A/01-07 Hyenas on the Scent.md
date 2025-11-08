@@ -1,12 +1,12 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+pov:
+  - Chief
+chapter: "[[SALVA Chaos]]"
 previous: "[[01-06 Peacemaking]]"
 next:
   - "[[01-08 The Battle of SALVA]]"
   - "[[SD-01-03 Broken Puppet]]"
-pov:
-  - Chief
 state: complete
 content: stage
 ---

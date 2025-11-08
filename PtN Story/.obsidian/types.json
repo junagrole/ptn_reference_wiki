@@ -8,6 +8,7 @@
     "pov": "multitext",
     "starting": "text",
     "year": "text",
-    "arc": "multitext"
+    "arc": "multitext",
+    "years": "multitext"
   }
 }

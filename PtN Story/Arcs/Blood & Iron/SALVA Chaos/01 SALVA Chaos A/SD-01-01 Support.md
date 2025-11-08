@@ -1,11 +1,11 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+pov:
+  - Chief
+chapter: "[[SALVA Chaos]]"
 previous: "[[01-02 Assassination]]"
 next:
   - "[[SD-01-02 Head-to-head]]"
-pov:
-  - Chief
 state: complete
 content: stage
 ---

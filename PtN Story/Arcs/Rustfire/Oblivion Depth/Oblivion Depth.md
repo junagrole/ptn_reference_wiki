@@ -1,10 +1,11 @@
 ---
 tags:
-  - arc/rustfire/oblivion_depth
+  - meta/core_crisis
+  - meta/story
 arc: "[[Rustfire]]"
-year:
-  - "[[NF 113]]"
-starting: N.F. 113/03/18
+year: "[[NF 113]]"
+month: 03 March
+day: "18"
 state: tagged
 content: chapter
 ---

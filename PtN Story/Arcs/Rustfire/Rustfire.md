@@ -1,7 +1,6 @@
 ---
 tags:
-  - arc/rustfire
-year:
+years:
   - "[[NF 113]]"
 starting: N.F. 112/11
 ending: N.F. 113/11

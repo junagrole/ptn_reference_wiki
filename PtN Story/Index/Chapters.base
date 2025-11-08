@@ -4,17 +4,23 @@ filters:
     - file.folder != "Templates"
 views:
   - type: table
-    name: All
+    name: All Chapters
     order:
       - file.name
-      - starting
       - year
+      - month
+      - day
       - arc
     sort:
-      - property: starting
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
         direction: ASC
     columnSize:
-      note.starting: 140
+      note.month: 138
+      note.day: 71
   - type: table
     name: Core Crisis
     filters:
@@ -22,11 +28,16 @@ views:
         - file.tags.contains("meta/core_crisis")
     order:
       - file.name
-      - starting
       - year
+      - month
+      - day
       - arc
     sort:
-      - property: starting
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
         direction: ASC
   - type: table
     name: Eternal Nightmare
@@ -35,9 +46,14 @@ views:
         - file.tags.contains("meta/eternal_nightmare")
     order:
       - file.name
-      - starting
       - year
+      - month
+      - day
       - arc
     sort:
-      - property: starting
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
         direction: ASC

@@ -1,10 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[01-04 Encounter Salva]]"
-next: "[[01-06 Peacemaking]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[01-04 Encounter Salva]]"
+next: "[[01-06 Peacemaking]]"
 state: complete
 content: stage
 ---

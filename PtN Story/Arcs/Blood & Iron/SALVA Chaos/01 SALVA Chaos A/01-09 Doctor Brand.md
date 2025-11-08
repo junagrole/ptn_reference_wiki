@@ -1,10 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[01-08 The Battle of SALVA]]"
-next: "[[RE-01-09 Reunited at SALVA]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[01-08 The Battle of SALVA]]"
+next: "[[RE-01-09 Reunited at SALVA]]"
 state: complete
 content: stage
 ---

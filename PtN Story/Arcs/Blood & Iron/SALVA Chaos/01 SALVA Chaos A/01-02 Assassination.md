@@ -1,12 +1,12 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+pov:
+  - Chief
+chapter: "[[SALVA Chaos]]"
 previous: "[[01-01 Syndicate]]"
 next:
   - "[[01-03 Encounter Legion]]"
   - "[[SD-01-01 Support]]"
-pov:
-  - Chief
 state: review
 content: stage
 ---

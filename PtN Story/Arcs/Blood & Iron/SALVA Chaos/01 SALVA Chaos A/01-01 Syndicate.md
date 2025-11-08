@@ -1,11 +1,11 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+pov:
+  - Chief
+chapter: "[[SALVA Chaos]]"
 previous: "[[00-04 Beginning]]"
 next: "[[01-02 Assassination]]"
 state: review
-pov:
-  - Chief
 content: stage
 ---
 The chapter starts in Chiefs Office with a flashback to Chief getting briefed [[Nightingale]]. In the aftermath of the [[MBCC Riot]] many of the Sinners fled to [[Syndicate]] which caused major riots. The [[Public Security Bureau]] has confirmed that [[Subject R]] also escaped into Syndicate. They promise assistance and intelligence if the MBCC can deal with the cause of the riot first.

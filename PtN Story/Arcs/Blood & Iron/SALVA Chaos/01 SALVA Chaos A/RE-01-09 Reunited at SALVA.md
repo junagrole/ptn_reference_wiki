@@ -1,11 +1,11 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+pov:
+  - Chief
+chapter: "[[SALVA Chaos]]"
 previous: "[[01-09 Doctor Brand]]"
 next:
   - "[[02-01 Test]]"
-pov:
-  - Chief
 state: complete
 content: stage
 ---

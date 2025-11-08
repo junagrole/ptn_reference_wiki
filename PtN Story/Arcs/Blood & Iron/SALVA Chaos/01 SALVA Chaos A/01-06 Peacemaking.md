@@ -1,10 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[01-06 Peacemaking]]"
-next: "[[01-07 Hyenas on the Scent]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[01-06 Peacemaking]]"
+next: "[[01-07 Hyenas on the Scent]]"
 state: complete
 content: stage
 ---

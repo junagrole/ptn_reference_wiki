@@ -1,10 +1,10 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
-previous: "[[01-03 Encounter Legion]]"
-next: "[[01-05 R's Intelligence]]"
 pov:
   - Chief
+chapter: "[[SALVA Chaos]]"
+previous: "[[01-03 Encounter Legion]]"
+next: "[[01-05 R's Intelligence]]"
 content: stage
 state: review
 ---

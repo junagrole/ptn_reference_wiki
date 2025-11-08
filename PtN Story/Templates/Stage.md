@@ -1,7 +1,7 @@
 ---
 tags:
-chapter:
 pov:
+chapter:
 previous:
 next:
 state: tagged

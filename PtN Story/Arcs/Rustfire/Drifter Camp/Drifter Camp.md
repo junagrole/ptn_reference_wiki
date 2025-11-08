@@ -1,10 +1,11 @@
 ---
 tags:
-  - arc/rustfire/drifter_camp
+  - meta/core_crisis
+  - meta/story
 arc: "[[Rustfire]]"
-year:
-  - "[[NF 113]]"
-starting: N.F. 113/03/14
+year: "[[NF 113]]"
+month: 03 March
+day: "14"
 state: tagged
 content: chapter
 ---
