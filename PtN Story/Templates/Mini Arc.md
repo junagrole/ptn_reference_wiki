@@ -1,8 +1,7 @@
 ---
 tags:
 year:
-month:
-day:
+arc:
 state: tagged
-content: incident
+content: miniarc
 ---

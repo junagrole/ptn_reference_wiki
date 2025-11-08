@@ -1,8 +1,8 @@
 ---
 tags:
+starting:
+ending:
 year:
-month:
-day:
 state: tagged
-content: incident
+content: arc
 ---

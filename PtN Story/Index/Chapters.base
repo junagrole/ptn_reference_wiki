@@ -1,0 +1,43 @@
+filters:
+  and:
+    - content == "chapter"
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - starting
+      - year
+      - arc
+    sort:
+      - property: starting
+        direction: ASC
+    columnSize:
+      note.starting: 140
+  - type: table
+    name: Core Crisis
+    filters:
+      and:
+        - file.tags.contains("meta/core_crisis")
+    order:
+      - file.name
+      - starting
+      - year
+      - arc
+    sort:
+      - property: starting
+        direction: ASC
+  - type: table
+    name: Eternal Nightmare
+    filters:
+      and:
+        - file.tags.contains("meta/eternal_nightmare")
+    order:
+      - file.name
+      - starting
+      - year
+      - arc
+    sort:
+      - property: starting
+        direction: ASC

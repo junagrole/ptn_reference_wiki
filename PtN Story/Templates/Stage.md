@@ -1,5 +1,6 @@
 ---
 tags:
+chapter:
 pov:
 previous:
 next:

@@ -6,7 +6,7 @@ tags:
 arc: "[[Blood & Iron]]"
 year:
   - "[[NF 112]]"
-starting: N.F. 112.08.17
+starting: N.F. 112/08/17
 state: tagged
 content: chapter
 ---

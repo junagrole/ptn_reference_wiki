@@ -11,14 +11,13 @@
             "id": "286704f12a8e8601",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/RE-02-12 Choices.md",
-                "mode": "source",
-                "source": false
+                "file": "Index/Chapters.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "RE-02-12 Choices"
+              "icon": "lucide-table",
+              "title": "Chapters"
             }
           }
         ],
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-02 Surgery.md",
+                "file": "Index/Chapters.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02-02 Surgery"
+              "title": "Backlinks for Chapters"
             }
           },
           {
@@ -152,8 +151,7 @@
               "title": "Outline of 02-02 Surgery"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,41 +169,41 @@
   },
   "active": "286704f12a8e8601",
   "lastOpenFiles": [
-    "Characters/DisCity/Syndicate/Ninety-Nine.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/RE-02-12 Choices.md",
-    "Characters/DisCity/Inner Bay/Whitestone Industries/Che.md",
-    "Characters/DisCity/Inner Bay/Whitestone Industries",
-    "Characters/DisCity/Inner Bay",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-12 Salva Chaos.md",
-    "Concepts/Mania/Inheritance.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-05 Ted.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-01 Test.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-11 The Dim End.md",
-    "Arcs/Blood & Iron/SALVA Chaos/02 SALVA Chaos B/02-10 Patient and Nurse.md",
-    "Incidents/Outland Wars/Operation Skyfall.md",
-    "Years/061-070/NF 068.md",
-    "Incidents/Outland Wars/DisCity Mutiny.md",
-    "Incidents/Outland Wars/Metropoles Crackdown.md",
-    "Incidents/Outland Wars/Nuclear Strike on Nirvana Port.md",
-    "Years/061-070/NF 066.md",
-    "Incidents/Outland Wars/White Rose, Blood Stained.md",
-    "Templates/Year.md",
-    "Years/061-070/NF 061.md",
-    "Years/111-120",
-    "Years/101-110",
-    "Years/091-100",
-    "Years/081-090",
-    "Incidents/Conflict with Fraser/Whitesands Calamity Surge.md",
-    "Years/061-070",
-    "Years/001-010",
-    "Incidents/Conflict with Fraser/DisCity Anti-War Movement.md",
-    "Incidents/Conflict with Fraser",
-    "Incidents/Conflict with Fraser/Mobilisation Order Dispute.md",
-    "Incidents/Black Rings/BR005.md",
-    "Locations/Farlands/Furor.md",
-    "Locations/Farlands/Fraser.md",
-    "Locations/DisCity/DisCity.md",
-    "Locations/Farlands",
-    "Templates/Incident.md"
+    "Templates/Stage.md",
+    "Templates/Incident.md",
+    "Templates/Chapter.md",
+    "Index/Chapters.base",
+    "Arcs/Eternal Nightmare/Illusory Moon Rising/Illusory Moon Rising.md",
+    "Story Chapter.md",
+    "Arcs/Eternal Nightmare/Abyssal Tentaculum/Abyssal Tentaculum.md",
+    "Arcs/Eternal Nightmare/Echoless Dive/Echoless Dive.md",
+    "Arcs/Eternal Nightmare/Abyssal Tentaculum",
+    "Arcs/Eternal Nightmare/Echoless Dive",
+    "Arcs/Eternal Nightmare/Embers of Long Night/Embers of Long Night.md",
+    "Arcs/Eternal Nightmare/Hunting Shade/Hunting Shade.md",
+    "Arcs/Blood & Iron/Blood & Iron.md",
+    "Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt.md",
+    "Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos.md",
+    "Arcs/Blood & Iron/Prologue/Prologue.md",
+    "Arcs/Blood & Iron/Keylan Square/Keylan Square.md",
+    "Index",
+    "Arcs/Precarious Polis/Aureate Regale/Aureate Regale.md",
+    "Arcs/Eternal Nightmare/Embers of Long Night",
+    "Arcs/Precarious Polis/Undercurrents/Undercurrents.md",
+    "Arcs/Precarious Polis/Aureate Regale",
+    "Arcs/Eternal Nightmare/Heart of Eternity/Heart of Eternity.md",
+    "Arcs/Eternal Nightmare/Heart of Eternity",
+    "Arcs/Precarious Polis/Precarious Polis.md",
+    "Arcs/Precarious Polis/Undercurrents",
+    "Years/111-120/NF 114.md",
+    "Arcs/Rustfire/Towering Black/Towering Black.md",
+    "Arcs/Precarious Polis",
+    "Arcs/Rustfire/Towering Black",
+    "Arcs/Rustfire/Flora Unfurl/Flora Unfurl.md",
+    "Arcs/Rustfire/Rain Burst/Rain Burst.md",
+    "Arcs/Rustfire/Oblivion Depth/Oblivion Depth.md",
+    "Arcs/Rustfire/Drifter Camp/Drifter Camp.md",
+    "Arcs/Eternal Nightmare/Eternal Nightmare.md",
+    "Arcs/Rustfire/Rustfire.md"
   ]
 }
