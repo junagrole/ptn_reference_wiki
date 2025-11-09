@@ -1,9 +1,8 @@
 ---
 tags:
-starting: N.F. 068.10.07
-ending:
-year:
-  - "[[NF 068]]"
+year: "[[NF 068]]"
+month: 10 October
+day: "07"
 state: tagged
 content: incident
 ---

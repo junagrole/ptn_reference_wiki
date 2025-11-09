@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Index/Chapters.base",
-                "viewName": "All Chapters"
+                "file": "Years/111-120/Decade.base",
+                "viewName": "Whole Decade"
               },
               "icon": "lucide-table",
-              "title": "Chapters"
+              "title": "Decade"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Chapters.base",
+                "file": "Years/111-120/Decade.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapters"
+              "title": "Backlinks for Decade"
             }
           },
           {
@@ -169,41 +169,41 @@
   },
   "active": "286704f12a8e8601",
   "lastOpenFiles": [
-    "Templates/Year.md",
-    "Templates/Organisation.md",
-    "Templates/Location.md",
-    "Index/Chapters.base",
-    "Arcs/Precarious Polis/Undercurrents/Undercurrents.md",
-    "Arcs/Precarious Polis/Aureate Regale/Aureate Regale.md",
-    "Arcs/Eternal Nightmare/Eternal Nightmare.md",
-    "Arcs/Precarious Polis/Precarious Polis.md",
-    "Arcs/Eternal Nightmare/Illusory Moon Rising/Illusory Moon Rising.md",
-    "Arcs/Eternal Nightmare/Hunting Shade/Hunting Shade.md",
-    "Arcs/Eternal Nightmare/Heart of Eternity/Heart of Eternity.md",
-    "Arcs/Eternal Nightmare/Embers of Long Night/Embers of Long Night.md",
-    "Arcs/Eternal Nightmare/Echoless Dive/Echoless Dive.md",
-    "Arcs/Eternal Nightmare/Abyssal Tentaculum/Abyssal Tentaculum.md",
-    "Arcs/Blood & Iron/Carnival/Carnival.md",
-    "Arcs/Blood & Iron/Keylan Square/Keylan Square.md",
+    "Arcs/Blood & Iron/Blood & Iron.md",
+    "Years/111-120/Decade.base",
+    "Years/111-120/NF 112.md",
+    "Years/111-120/NF 112.base",
+    "Incidents/West District Management Regulations.md",
+    "Incidents/Black Rings/BR000.md",
+    "Incidents/Nightfall.md",
+    "Incidents/MBCC Riot.md",
     "Arcs/Blood & Iron/Prologue/Prologue.md",
-    "Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos.md",
-    "Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-03 Broken Puppet.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-02 Head-to-head.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/SD-01-01 Support.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/RE-01-09 Reunited at SALVA.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-09 Doctor Brand.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-08 The Battle of SALVA.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-07 Hyenas on the Scent.md",
-    "Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-06 Peacemaking.md",
+    "Incidents/Eclipse Operation.md",
+    "Incidents/DisSea explosion.md",
+    "Incidents/Outland Wars/White Rose, Blood Stained.md",
+    "Incidents/Outland Wars/Operation Skyfall.md",
+    "Incidents/Outland Wars/Nuclear Strike on Nirvana Port.md",
+    "Incidents/Outland Wars/Metropoles Crackdown.md",
+    "Incidents/Outland Wars/Independence Declaration.md",
+    "Incidents/Outland Wars/Freezing Catherine.md",
+    "Incidents/Outland Wars/DisCity Mutiny.md",
+    "Incidents/Conflict with Fraser/Whitesands Calamity Surge.md",
+    "Incidents/Conflict with Fraser/Mobilisation Order Dispute.md",
+    "Incidents/Conflict with Fraser/DisCity Anti-War Movement.md",
+    "Incidents/Black Rings/BR005.md",
+    "Incidents/Black Rings/BR004.md",
+    "Incidents/Black Rings/BR003.md",
+    "Incidents/Black Rings/BR001.md",
+    "Incidents/Black Rings/BR002.md",
+    "Incidents/Black Rings/BR002 Tower Ring.md",
+    "Locations/DisCity/Rust/Carnival.md",
+    "Years/071-080",
+    "Index/Chapters.base",
     "Arcs/Blood & Iron/Carnival",
     "Arcs/Eternal Nightmare/Abyssal Tentaculum",
     "Arcs/Eternal Nightmare/Echoless Dive",
     "Index",
     "Arcs/Eternal Nightmare/Embers of Long Night",
-    "Arcs/Precarious Polis/Aureate Regale",
-    "Arcs/Eternal Nightmare/Heart of Eternity",
-    "Arcs/Precarious Polis/Undercurrents",
-    "Arcs/Precarious Polis"
+    "Arcs/Precarious Polis/Aureate Regale"
   ]
 }

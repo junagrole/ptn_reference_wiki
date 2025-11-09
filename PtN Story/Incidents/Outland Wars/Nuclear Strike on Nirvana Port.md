@@ -1,9 +1,9 @@
 ---
 tags:
-starting: N.F. 066.06.13
-ending:
-year:
-  - "[[NF 066]]"
+  - discity
+year: "[[NF 066]]"
+month: 06 June
+day: "13"
 state: tagged
 content: incident
 ---

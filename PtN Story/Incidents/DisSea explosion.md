@@ -2,8 +2,9 @@
 tags:
   - metaphysics/black_ring
   - meta/mystery
-year:
-  - "[[NF 084]]"
+year: "[[NF 084]]"
+month: 12 December
+day: "22"
 state: stub
 content: incident
 ---

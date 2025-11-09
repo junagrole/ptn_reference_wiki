@@ -1,10 +1,9 @@
 ---
 tags:
   - discity/city_council
-starting: N.F. 115.07.27
-ending:
-year:
-  - "[[NF 115]]"
+year: "[[NF 115]]"
+month: 07 July
+day: "27"
 state: tagged
 content: incident
 ---

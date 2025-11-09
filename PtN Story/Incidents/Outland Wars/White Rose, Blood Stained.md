@@ -1,9 +1,8 @@
 ---
 tags:
-starting: NF 061.12.25
-ending:
-year:
-  - "[[NF 061]]"
+year: "[[NF 061]]"
+month: 12 December
+day: "25"
 state: tagged
 content: incident
 ---

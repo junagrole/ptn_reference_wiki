@@ -3,10 +3,9 @@ tags:
   - fraser
   - discity/fac
   - discity/city_council
-starting: N.F. 115.08.03
-ending:
-year:
-  - "[[NF 115]]"
+year: "[[NF 115]]"
+month: 08 August
+day: "03"
 state: tagged
 content: incident
 ---

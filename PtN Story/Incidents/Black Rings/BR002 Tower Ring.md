@@ -1,11 +1,11 @@
 ---
 tags:
+  - west_district
   - metaphysics/black_ring
-  - meta/resolved
-  - west_district/drifter_camp
-year: "[[NF 104]]"
+year: "[[NF 114]]"
 month:
 day:
 state: tagged
 content: incident
 ---
+Second time [[BR002]] broke out.

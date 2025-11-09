@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/eternal_nightmare
   - meta/core_crisis
+  - meta/eternal_nightmare
 arc:
   - "[[Rustfire]]"
   - "[[Eternal Nightmare]]"
