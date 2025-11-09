@@ -1,8 +1,9 @@
 ---
 tags:
+  - independence_war
 year: "[[NF 061]]"
 month: 12 December
-day: "25"
+day: "26"
 state: tagged
 content: incident
 ---

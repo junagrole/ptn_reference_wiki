@@ -29,7 +29,6 @@ views:
       - year
       - month
       - day
-      - content
       - tags
     sort:
       - property: year
@@ -38,6 +37,10 @@ views:
         direction: ASC
       - property: day
         direction: ASC
+    columnSize:
+      file.name: 242
+      note.month: 106
+      note.day: 68
   - type: table
     name: N.F. 112
     filters:

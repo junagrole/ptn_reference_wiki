@@ -1,5 +1,6 @@
 ---
 tags:
+short:
 year:
 month:
 day:

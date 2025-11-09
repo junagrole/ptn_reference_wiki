@@ -1,6 +1,7 @@
 ---
 tags:
   - discity
+  - independence_war
 year: "[[NF 066]]"
 month: 08 August
 day: "27"

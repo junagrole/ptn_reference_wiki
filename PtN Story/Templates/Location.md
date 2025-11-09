@@ -1,5 +1,6 @@
 ---
 tags:
+short:
 region:
 type:
 state: tagged

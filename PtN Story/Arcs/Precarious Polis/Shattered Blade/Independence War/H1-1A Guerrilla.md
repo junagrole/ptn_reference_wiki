@@ -1,8 +1,7 @@
 ---
 tags:
-short:
 pov:
-chapter:
+chapter: "[[Shattered Blade]]"
 previous:
 next:
 state: tagged

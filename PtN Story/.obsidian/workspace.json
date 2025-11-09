@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8993cebebae32bf5",
+        "id": "2c894f696821ed62",
         "type": "tabs",
         "children": [
           {
-            "id": "286704f12a8e8601",
+            "id": "818702d64722dcfa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Years/111-120/Decade.base",
-                "viewName": "Whole Decade"
+                "file": "Characters/DisCity/Historical/Brock.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Decade"
+              "icon": "lucide-file",
+              "title": "Brock"
             }
           }
         ],
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Years/111-120/Decade.base",
+                "file": "Characters/DisCity/Historical/Brock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decade"
+              "title": "Backlinks for Brock"
             }
           },
           {
@@ -167,43 +168,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "286704f12a8e8601",
+  "active": "818702d64722dcfa",
   "lastOpenFiles": [
-    "Arcs/Blood & Iron/Blood & Iron.md",
-    "Years/111-120/Decade.base",
-    "Years/111-120/NF 112.md",
-    "Years/111-120/NF 112.base",
-    "Incidents/West District Management Regulations.md",
-    "Incidents/Black Rings/BR000.md",
-    "Incidents/Nightfall.md",
-    "Incidents/MBCC Riot.md",
-    "Arcs/Blood & Iron/Prologue/Prologue.md",
-    "Incidents/Eclipse Operation.md",
-    "Incidents/DisSea explosion.md",
-    "Incidents/Outland Wars/White Rose, Blood Stained.md",
+    "Characters/DisCity/Historical/Catherine Augustus Andohar.md",
+    "Characters/DisCity/Historical/Brock.md",
+    "Locations/Metropoles/Metropoles.md",
+    "Locations/Metropoles",
+    "Templates/Arc.md",
+    "Templates/Chapter.md",
+    "Templates/Character.md",
+    "Templates/Concept.md",
+    "Templates/Incident.md",
+    "Templates/Location.md",
+    "Templates/Year.md",
+    "Templates/Stage.md",
+    "Templates/Organisation.md",
+    "Templates/Character 1.md",
+    "Incidents/Outland Wars/EDGE Contact.md",
+    "Characters/DisCity/Historical",
+    "Characters/Paradeisos/EDGE/Helena.md",
+    "Characters/Paradeisos/EDGE/EDGE 01.md",
+    "Years/061-070/NF 064.md",
+    "Arcs/Precarious Polis/Shattered Blade/Independence War/H1-1A Guerrilla.md",
+    "Arcs/Precarious Polis/Shattered Blade/Shattered Blade.md",
+    "Arcs/Precarious Polis/Shattered Blade/Independence War",
+    "Incidents/Outland Wars/Speaker Assassination.md",
+    "Arcs/Precarious Polis/Shattered Blade",
+    "Incidents/Outland Wars/Guerrilla Raid.md",
+    "Years/061-070/NF 062.md",
+    "Index/Incidents.base",
     "Incidents/Outland Wars/Operation Skyfall.md",
     "Incidents/Outland Wars/Nuclear Strike on Nirvana Port.md",
     "Incidents/Outland Wars/Metropoles Crackdown.md",
     "Incidents/Outland Wars/Independence Declaration.md",
-    "Incidents/Outland Wars/Freezing Catherine.md",
-    "Incidents/Outland Wars/DisCity Mutiny.md",
-    "Incidents/Conflict with Fraser/Whitesands Calamity Surge.md",
-    "Incidents/Conflict with Fraser/Mobilisation Order Dispute.md",
-    "Incidents/Conflict with Fraser/DisCity Anti-War Movement.md",
-    "Incidents/Black Rings/BR005.md",
-    "Incidents/Black Rings/BR004.md",
-    "Incidents/Black Rings/BR003.md",
-    "Incidents/Black Rings/BR001.md",
-    "Incidents/Black Rings/BR002.md",
-    "Incidents/Black Rings/BR002 Tower Ring.md",
-    "Locations/DisCity/Rust/Carnival.md",
+    "Years/101-110/Decade.base",
+    "Years/111-120/Decade.base",
+    "Years/111-120/NF 112.base",
     "Years/071-080",
-    "Index/Chapters.base",
-    "Arcs/Blood & Iron/Carnival",
-    "Arcs/Eternal Nightmare/Abyssal Tentaculum",
-    "Arcs/Eternal Nightmare/Echoless Dive",
-    "Index",
-    "Arcs/Eternal Nightmare/Embers of Long Night",
-    "Arcs/Precarious Polis/Aureate Regale"
+    "Index/Chapters.base"
   ]
 }

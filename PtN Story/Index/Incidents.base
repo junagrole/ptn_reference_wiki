@@ -1,0 +1,62 @@
+filters:
+  and:
+    - content == "incident"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: All Incidents
+    order:
+      - file.name
+      - year
+      - month
+      - day
+      - tags
+    sort:
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+  - type: table
+    name: Independece War
+    filters:
+      and:
+        - file.tags.contains("independence_war")
+    order:
+      - file.name
+      - year
+      - month
+      - day
+      - tags
+    sort:
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.month: 133
+      note.day: 79
+  - type: table
+    name: Black Rings
+    filters:
+      and:
+        - file.tags.contains("metaphysics/black_ring")
+    order:
+      - file.name
+      - year
+      - month
+      - day
+      - tags
+    sort:
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.month: 133
+      note.day: 79

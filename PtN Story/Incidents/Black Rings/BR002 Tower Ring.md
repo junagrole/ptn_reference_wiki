@@ -3,7 +3,7 @@ tags:
   - west_district
   - metaphysics/black_ring
 year: "[[NF 114]]"
-month:
+month: 03 March
 day:
 state: tagged
 content: incident
