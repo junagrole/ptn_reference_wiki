@@ -11,6 +11,7 @@ short: Stoic battle hardened leader of the FAC, independence war hero
 sinner: false
 gender: Male
 birthplace:
+storyrole: supporting
 state: tagged
 content: character
 ---

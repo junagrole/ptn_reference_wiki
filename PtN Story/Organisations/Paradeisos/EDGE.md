@@ -5,7 +5,6 @@ tags:
   - expertise/science
   - expertise/mania
   - discity/politics
-  - meta/major
 state: tagged
 content: organisation
 ---

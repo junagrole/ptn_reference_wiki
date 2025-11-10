@@ -4,13 +4,13 @@ tags:
   - expertise/medicine
   - expertise/anti_mania
   - leadership/hospital
-  - meta/antagonist
   - west_district/salva
 short: SALVA medical director, tries to find a treatment for Mania
 sinner: true
 gender: Female
 birthplace: "[[Eastside]]"
-state: tagged
+storyrole: antagonist
+state: stub
 content: character
 ---
 >[!info] Background

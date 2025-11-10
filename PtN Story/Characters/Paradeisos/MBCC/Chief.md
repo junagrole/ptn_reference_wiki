@@ -8,7 +8,6 @@ tags:
   - expertise/investigation
   - meta/mystery
   - metaphysics/shepherd
-  - meta/protagonist
 aliases:
   - SHP-13
   - Our adorable Shepherd
@@ -18,6 +17,7 @@ short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
 sinner: false
 gender: Female
 birthplace:
+storyrole: protagonist
 state: tagged
 content: character
 ---

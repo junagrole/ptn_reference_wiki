@@ -1,6 +1,5 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
   - meta/lore_heavy
 pov:
   - Chief
@@ -8,8 +7,10 @@ previous:
   - "[[02-07 Into the Contamination]]"
 next:
   - "[[02-09 Dog]]"
-state: complete
+state: tagged
 content: stage
+short:
+chapter: "[[SALVA Chaos]]"
 ---
 The [[SALVA Hospital|basement]] is unexpectedly empty, with only a desk and a journal in the wide empty room. The isolation wards must be separated further in.
 

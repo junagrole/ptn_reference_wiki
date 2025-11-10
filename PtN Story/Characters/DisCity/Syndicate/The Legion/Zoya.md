@@ -3,12 +3,12 @@ tags:
   - leadership/gang
   - sinner/s_class
   - west_district/legion
-  - meta/major
   - expertise/combat
 short: Leader of the Legion and hero of Syndicate
 sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
+storyrole: protagonist
 state: tagged
 content: character
 ---

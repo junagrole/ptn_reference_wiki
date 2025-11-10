@@ -1,11 +1,11 @@
 ---
 tags:
-  - meta/deceased
-  - meta/antagonist
+  - deceased
 short: Abused by Ted, she was turned into a weapon. Chief was unable to save her.
 sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
+storyrole: antagonist
 state: tagged
 content: character
 ---

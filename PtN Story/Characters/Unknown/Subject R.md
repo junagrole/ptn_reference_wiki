@@ -6,6 +6,7 @@ short: A mysterious shapeshifter and summoner that attacked the MBCC before vani
 sinner: true
 gender: Female
 birthplace:
+storyrole: antagonist
 state: tagged
 content: character
 ---

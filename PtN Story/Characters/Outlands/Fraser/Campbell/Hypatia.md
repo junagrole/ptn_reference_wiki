@@ -12,6 +12,7 @@ short: The only good Campbell, genius Aurum Secretum researcher, friends with He
 sinner: true
 gender: Female
 birthplace: "[[Fraser]]"
+storyrole: supporting
 state: tagged
 content: character
 ---

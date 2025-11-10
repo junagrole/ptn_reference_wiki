@@ -4,11 +4,11 @@ tags:
   - expertise/business
   - expertise/politics
   - leadership/politics
-  - meta/major
 short: The City Council speaker, plays the fool, former tycoon and social media star
 sinner: false
 gender: Male
 birthplace: "[[Eastside]]"
+storyrole: supporting
 state: tagged
 content: character
 ---

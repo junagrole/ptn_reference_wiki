@@ -1,13 +1,13 @@
 ---
 tags:
   - west_district/salva
-  - meta/deceased
   - expertise/medicine
-  - meta/minor
+  - deceased
 short: SALVA doctor, turned into a Corruptor
 sinner: false
 gender: Male
 birthplace:
+storyrole: background
 state: tagged
 content: character
 ---

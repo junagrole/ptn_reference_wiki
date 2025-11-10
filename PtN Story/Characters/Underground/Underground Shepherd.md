@@ -3,13 +3,13 @@ tags:
   - metaphysics/shepherd
   - leadership/underground
   - expertise/mania
-  - meta/antagonist
 aliases:
   - Big Sis
 short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
 sinner: false
 gender: Female
 birthplace:
+storyrole: antagonist
 content: character
 state: tagged
 ---

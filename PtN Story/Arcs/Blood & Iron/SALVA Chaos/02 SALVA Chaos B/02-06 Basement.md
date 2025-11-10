@@ -1,12 +1,14 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
 previous:
   - "[[02-05 Ted]]"
 pov:
   - Chief
-state: complete
+state: tagged
 content: stage
+short:
+chapter: "[[SALVA Chaos]]"
+next:
 ---
 The gang members successfully delay your for close to 22 minutes, giving [[Ted]] a massive lead in the race to find [[Subject R]].
 

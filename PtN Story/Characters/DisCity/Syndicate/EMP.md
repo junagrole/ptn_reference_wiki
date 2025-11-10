@@ -6,6 +6,7 @@ short: The self proclaimed Archer Queen of Syndicate, often fights with Hella
 sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
+storyrole: background
 state: tagged
 content: character
 ---

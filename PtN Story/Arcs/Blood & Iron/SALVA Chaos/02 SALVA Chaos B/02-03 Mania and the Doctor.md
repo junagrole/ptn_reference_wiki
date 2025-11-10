@@ -1,15 +1,16 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
   - meta/lore_heavy
   - metaphysics/mania
+short:
 previous:
   - "[[02-02 Surgery]]"
 next:
   - "[[RE-02-03 Promise]]"
+chapter: "[[SALVA Chaos]]"
 pov:
   - Chief
-state: review
+state: tagged
 content: stage
 ---
 Supported by [[Dr. Iron]] and your Sinners you attempt to use your [[Shackles]] on the [[Maniacs|manic gang member]]. But the attempt fails, Maniacs are fundamentally different from [[Sinner|Sinners]].

@@ -1,7 +1,10 @@
 ---
 tags:
-  - meta/destroyed
   - discity
+  - destroyed
 state: tagged
 content: location
+short:
+region: "[[DisCity]]"
+type: Facility
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
+chapter: "[[SALVA Chaos]]"
 previous:
   - "[[02-01 Test]]"
 next:

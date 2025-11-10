@@ -1,12 +1,13 @@
 ---
 tags:
-  - meta/deceased
   - west_district/salva
   - expertise/medicine
+  - deceased
 short: SALVA Nurse, tortured by Ted and ultimately died
 sinner: false
 gender: Female
 birthplace:
+storyrole: background
 state: tagged
 content: character
 ---

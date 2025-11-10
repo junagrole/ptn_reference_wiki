@@ -1,6 +1,6 @@
 ---
 tags:
-  - arc/prologue
+chapter: "[[Prologue]]"
 next: "[[00-04 Beginning]]"
 previous: "[[00-02 Shadow]]"
 pov:

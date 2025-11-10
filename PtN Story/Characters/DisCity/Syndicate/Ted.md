@@ -2,11 +2,12 @@
 tags:
   - expertise/criminal
   - expertise/mania
-  - meta/villain
+  - scum
 short: Total scumbag, hates Sinners, might work with the underground
 sinner: false
 gender: Male
 birthplace: "[[Syndicate]]"
+storyrole: antagonist
 state: tagged
 content: character
 ---

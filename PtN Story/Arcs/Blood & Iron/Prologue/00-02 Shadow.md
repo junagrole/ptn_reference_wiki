@@ -1,6 +1,6 @@
 ---
 tags:
-  - arc/prologue
+chapter: "[[Prologue]]"
 previous: "[[00-01 Awake]]"
 next: "[[00-03 White Beast]]"
 pov:

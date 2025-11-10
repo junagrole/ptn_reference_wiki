@@ -1,15 +1,16 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
   - meta/lore_heavy
 previous:
   - "[[02-03 Mania and the Doctor]]"
 pov:
   - Chief
-state: review
+state: tagged
 content: stage
 next:
   - "[[02-04 The Second Round]]"
+short:
+chapter: "[[SALVA Chaos]]"
 ---
 Back up in the ward the [[Gray-haired Girl]] is having a mania flare up, opening her wounds again and causing her great pain. [[Anne]] does her best to calm her down, while [[Dr. Iron]] treats her.
 

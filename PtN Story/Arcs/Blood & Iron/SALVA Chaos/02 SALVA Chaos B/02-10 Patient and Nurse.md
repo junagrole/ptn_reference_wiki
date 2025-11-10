@@ -1,14 +1,15 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
 pov:
   - Chief
 previous:
   - "[[02-09 Dog]]"
 next:
   - "[[02-11 The Dim End]]"
-state: complete
+state: tagged
 content: stage
+short:
+chapter: "[[SALVA Chaos]]"
 ---
 Still blocking your way the [[Gray-haired Girl]] is determined to fight you to the end, even though she's slowly turning into a [[Corruptors|Corruptor]]. Despite her own grievous injuries [[Anne]] is only concerned with saving the abused girl.
 

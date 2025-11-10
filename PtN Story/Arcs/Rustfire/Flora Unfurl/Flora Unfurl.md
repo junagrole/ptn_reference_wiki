@@ -9,4 +9,5 @@ month: 08 August
 day: "08"
 state: tagged
 content: chapter
+short:
 ---

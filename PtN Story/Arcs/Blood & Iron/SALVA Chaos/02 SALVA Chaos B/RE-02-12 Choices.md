@@ -1,13 +1,14 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
 pov:
   - Chief
 previous:
   - "[[02-12 Salva Chaos]]"
 next:
-state: review
+state: tagged
 content: stage
+short:
+chapter: "[[SALVA Chaos]]"
 ---
 In front of the lobotomised gangsters you confront [[Dr. Iron]] about her methods. For her it's not just about people like [[Ted]], it's about treating the whole of [[Syndicate]]. As long as the violence among the gangs continues, [[Mania]] will never be contained.
 

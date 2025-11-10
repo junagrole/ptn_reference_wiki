@@ -1,14 +1,15 @@
 ---
 tags:
-  - arc/blood_and_iron/salva_chaos
 pov:
   - Chief
 previous:
   - "[[02-10 Patient and Nurse]]"
 next:
   - "[[02-12 Salva Chaos]]"
-state: complete
+state: tagged
 content: stage
+short:
+chapter: "[[SALVA Chaos]]"
 ---
 The [[Gray-haired Girl]] begs [[Anne]] to tell her the truth, is she beyond saving? But actually saying it is too much for Anne and you get a choice.
 

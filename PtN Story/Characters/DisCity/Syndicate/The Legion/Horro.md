@@ -7,6 +7,7 @@ short: Legion member and later leader. Sister of Earl.
 sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
+storyrole: supporting
 state: tagged
 content: character
 ---
