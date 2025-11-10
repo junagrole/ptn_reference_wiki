@@ -1,11 +1,14 @@
 ---
 tags:
-  - gender/female
   - paradeisos/edge
   - expertise/science
   - expertise/mania
   - expertise/anti_mania
-  - meta/major
+  - meta/supporting
+short: Senior EDGE scientist, specialises in Sinners and human modifications
+sinner: false
+gender: Female
+birthplace:
 state: tagged
 content: character
 ---

@@ -1,0 +1,33 @@
+filters:
+  and:
+    - content == "character"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: All characters
+    order:
+      - file.name
+      - sinner
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Sinners
+    filters:
+      and:
+        - sinner == true
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Non Sinners
+    filters:
+      and:
+        - sinner == false
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short

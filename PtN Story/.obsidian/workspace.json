@@ -11,14 +11,13 @@
             "id": "818702d64722dcfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Characters/DisCity/Historical/Brock.md",
-                "mode": "source",
-                "source": false
+                "file": "Index/Characters.base",
+                "viewName": "Non Sinners"
               },
-              "icon": "lucide-file",
-              "title": "Brock"
+              "icon": "lucide-table",
+              "title": "Characters"
             }
           }
         ],
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/DisCity/Historical/Brock.md",
+                "file": "Index/Characters.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brock"
+              "title": "Backlinks for Characters"
             }
           },
           {
@@ -170,41 +169,40 @@
   },
   "active": "818702d64722dcfa",
   "lastOpenFiles": [
-    "Characters/DisCity/Historical/Catherine Augustus Andohar.md",
-    "Characters/DisCity/Historical/Brock.md",
-    "Locations/Metropoles/Metropoles.md",
-    "Locations/Metropoles",
-    "Templates/Arc.md",
-    "Templates/Chapter.md",
-    "Templates/Character.md",
-    "Templates/Concept.md",
-    "Templates/Incident.md",
-    "Templates/Location.md",
-    "Templates/Year.md",
-    "Templates/Stage.md",
-    "Templates/Organisation.md",
-    "Templates/Character 1.md",
-    "Incidents/Outland Wars/EDGE Contact.md",
-    "Characters/DisCity/Historical",
-    "Characters/Paradeisos/EDGE/Helena.md",
-    "Characters/Paradeisos/EDGE/EDGE 01.md",
-    "Years/061-070/NF 064.md",
-    "Arcs/Precarious Polis/Shattered Blade/Independence War/H1-1A Guerrilla.md",
-    "Arcs/Precarious Polis/Shattered Blade/Shattered Blade.md",
-    "Arcs/Precarious Polis/Shattered Blade/Independence War",
-    "Incidents/Outland Wars/Speaker Assassination.md",
-    "Arcs/Precarious Polis/Shattered Blade",
-    "Incidents/Outland Wars/Guerrilla Raid.md",
-    "Years/061-070/NF 062.md",
     "Index/Incidents.base",
-    "Incidents/Outland Wars/Operation Skyfall.md",
-    "Incidents/Outland Wars/Nuclear Strike on Nirvana Port.md",
-    "Incidents/Outland Wars/Metropoles Crackdown.md",
-    "Incidents/Outland Wars/Independence Declaration.md",
+    "Characters/Paradeisos/MBCC/Hella.md",
+    "Index/Characters.base",
+    "Characters/Paradeisos/FAC/036.md",
+    "Characters/Paradeisos/MBCC/Chief.md",
+    "Characters/Underground/Underground Shepherd.md",
+    "Characters/Unknown/Subject R.md",
+    "Characters/Paradeisos/MBCC/Nightingale.md",
+    "Characters/Paradeisos/MBCC/Hecate.md",
+    "Characters/Paradeisos/FAC/Adrian Sterling.md",
+    "Characters/Paradeisos/EDGE/Helena.md",
+    "Characters/Paradeisos/EDGE/EDGE 07.md",
+    "Characters/Paradeisos/EDGE/EDGE 06.md",
+    "Characters/Paradeisos/EDGE/EDGE 05.md",
+    "Characters/Paradeisos/EDGE/EDGE 04.md",
+    "Characters/Paradeisos/EDGE/EDGE 03.md",
+    "Characters/Paradeisos/EDGE/EDGE 02.md",
+    "Characters/Paradeisos/EDGE/EDGE 01.md",
+    "Characters/Outlands/Fraser/Campbell/Hypatia.md",
+    "Characters/DisCity/Eastside/Politicians/Max King.md",
+    "Characters/DisCity/Inner Bay/Whitestone Industries/Che.md",
+    "Characters/DisCity/Historical/Catherine Augustus Andohar.md",
+    "Characters/DisCity/Rust/Wendy.md",
+    "Locations/DisCity/Rust/Rust.md",
+    "Characters/DisCity/Syndicate/Ted.md",
+    "Characters/DisCity/Syndicate/Ninety-Nine.md",
+    "Characters/DisCity/Syndicate/Labyrinth.md",
+    "Locations/Metropoles",
+    "Characters/DisCity/Historical",
+    "Arcs/Precarious Polis/Shattered Blade/Independence War",
+    "Arcs/Precarious Polis/Shattered Blade",
     "Years/101-110/Decade.base",
     "Years/111-120/Decade.base",
     "Years/111-120/NF 112.base",
-    "Years/071-080",
-    "Index/Chapters.base"
+    "Years/071-080"
   ]
 }

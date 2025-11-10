@@ -1,12 +1,11 @@
 ---
 tags:
-  - sinner
   - meta/deceased
-  - gender/female
-  - expertise/streets
-  - arc/blood_and_iron/salva_chaos
   - meta/antagonist
-  - meta/chapter_major
+short: Abused by Ted, she was turned into a weapon. Chief was unable to save her.
+sinner: true
+gender: Female
+birthplace: "[[Syndicate]]"
 state: tagged
 content: character
 ---

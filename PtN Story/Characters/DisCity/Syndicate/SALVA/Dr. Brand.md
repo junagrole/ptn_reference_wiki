@@ -1,11 +1,14 @@
 ---
 tags:
-  - gender/male
   - west_district/salva
   - meta/deceased
   - expertise/medicine
   - meta/minor
-state: complete
+short: SALVA doctor, turned into a Corruptor
+sinner: false
+gender: Male
+birthplace:
+state: tagged
 content: character
 ---
 A doctor at [[SALVA Hospital]]. In [[NF 112]] he led an ambulance into [[Syndicate]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[MBCC]] squad searching for [[Subject R]]. 

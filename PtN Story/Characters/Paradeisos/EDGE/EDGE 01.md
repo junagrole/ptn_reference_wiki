@@ -4,10 +4,14 @@ tags:
   - expertise/mania
   - expertise/anti_mania
   - paradeisos/edge
-  - gender/male
   - meta/supporting
+  - independence_war
 aliases:
   - EDGE intern
+short: Genius EDGE scientist that invented cryosleep and a cure for balding
+sinner: false
+gender: Male
+birthplace:
 state: tagged
 content: character
 ---

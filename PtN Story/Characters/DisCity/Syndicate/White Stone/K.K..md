@@ -1,10 +1,12 @@
 ---
 tags:
-  - gender/female
   - sinner/b_class
-  - expertise/streets
   - west_district/drifter_camp
   - mbcc/sinner
+short: Only hard working member of Whitestone, in the dark about her partners past
+sinner: true
+gender: Female
+birthplace: "[[Syndicate]]"
 state: tagged
 content: character
 ---
