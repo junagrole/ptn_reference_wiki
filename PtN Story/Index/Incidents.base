@@ -7,12 +7,12 @@ views:
     name: All Incidents
     order:
       - file.name
-      - year
+      - N.F.
       - month
       - day
       - tags
     sort:
-      - property: year
+      - property: N.F.
         direction: ASC
       - property: month
         direction: ASC

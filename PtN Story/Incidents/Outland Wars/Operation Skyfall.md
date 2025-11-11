@@ -1,9 +1,10 @@
 ---
 tags:
   - independence_war
-year: "[[NF 068]]"
-month: 10 October
-day: "07"
+short: Catherine and the Reaper unit intercept a nuclear strike headed for DisCity
+N.F.: 68
+month: 10
+day: 7
 state: tagged
 content: incident
 ---

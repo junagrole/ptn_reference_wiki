@@ -1,7 +1,7 @@
 ---
 tags:
 short:
-year:
+N.F.:
 month:
 day:
 state: tagged

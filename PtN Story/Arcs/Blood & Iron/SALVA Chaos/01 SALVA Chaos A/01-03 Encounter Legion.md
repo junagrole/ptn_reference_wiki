@@ -1,5 +1,6 @@
 ---
 tags:
+  - legion
 pov:
   - Chief
 chapter: "[[SALVA Chaos]]"

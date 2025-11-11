@@ -1,9 +1,11 @@
 ---
 tags:
   - west_district
-  - metaphysics/black_ring
-year: "[[NF 114]]"
-month: 03 March
+  - black_ring
+  - destroyed
+short: During the Rustfire riots BR002 broke out a second time with Julien as Corpseborn
+N.F.: 114
+month: 3
 day:
 state: tagged
 content: incident

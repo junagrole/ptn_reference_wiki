@@ -1,10 +1,12 @@
 ---
 tags:
-  - metaphysics/apostle
-  - discity/fac
-year: "[[NF 115]]"
-month: 08 August
-day: "05"
+  - fraser
+  - fac
+  - apostle
+short: A weaponized tide of Ashes devastates FAC outposts
+N.F.: 115
+month: 8
+day: 5
 state: tagged
 content: incident
 ---

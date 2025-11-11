@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: Review
+    filters:
+      and:
+        - state == "review"
+    order:
+      - file.name
+      - content
+      - tags
+    sort:
+      - property: content
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Stub
+    filters:
+      and:
+        - state == "stub"
+    order:
+      - file.name
+      - content
+      - tags
+    sort:
+      - property: content
+        direction: ASC
+      - property: file.name
+        direction: ASC

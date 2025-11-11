@@ -9,7 +9,7 @@ short: Whitestone member, defected from the underground
 sinner: true
 gender: Male
 birthplace: "[[Syndicate]]"
-storyrole: supporting
+storyrole: background
 state: tagged
 content: character
 ---

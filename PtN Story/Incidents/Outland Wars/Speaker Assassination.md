@@ -1,9 +1,10 @@
 ---
 tags:
   - independence_war
-year: "[[NF 061]]"
-month: 12 December
-day: "26"
+short: The self elected speaker of DisCity is assassinated, sparking the first armed resistance
+N.F.: 61
+month: 12
+day: 26
 state: tagged
 content: incident
 ---

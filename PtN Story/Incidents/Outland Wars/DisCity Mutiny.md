@@ -2,9 +2,10 @@
 tags:
   - discity
   - independence_war
-year: "[[NF 066]]"
-month: 08 August
-day: "27"
+short: The DisCity army openly rebels against the Metropoles
+N.F.: 66
+month: 8
+day: 27
 state: tagged
 content: incident
 ---

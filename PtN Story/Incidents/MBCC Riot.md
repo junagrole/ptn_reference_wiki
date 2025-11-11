@@ -1,9 +1,10 @@
 ---
 tags:
   - mbcc
-year: "[[NF 112]]"
-month: 08 August
-day: "12"
+short: An unknown Sinner attacks MBCC and starts a prison riot as cover
+N.F.: 112
+month: 8
+day: 12
 state: tagged
 content: incident
 ---

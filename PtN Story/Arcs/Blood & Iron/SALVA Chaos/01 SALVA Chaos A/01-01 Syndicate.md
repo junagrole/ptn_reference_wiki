@@ -1,5 +1,6 @@
 ---
 tags:
+  - west_district
 pov:
   - Chief
 chapter: "[[SALVA Chaos]]"

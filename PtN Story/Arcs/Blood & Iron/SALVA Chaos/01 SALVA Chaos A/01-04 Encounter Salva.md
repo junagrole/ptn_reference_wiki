@@ -1,5 +1,6 @@
 ---
 tags:
+  - salva
 pov:
   - Chief
 chapter: "[[SALVA Chaos]]"

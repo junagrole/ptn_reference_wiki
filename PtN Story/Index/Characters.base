@@ -31,3 +31,48 @@ views:
       - birthplace
       - gender
       - short
+  - type: table
+    name: Protagonists
+    filters:
+      and:
+        - storyrole == "protagonist"
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Antagonist
+    filters:
+      and:
+        - storyrole == "antagonist"
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Supporting
+    filters:
+      and:
+        - storyrole == "supporting"
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Background
+    filters:
+      and:
+        - storyrole == "background"
+    order:
+      - file.name
+      - birthplace
+      - gender
+      - short
+  - type: table
+    name: Male Characters
+    filters:
+      and:
+        - gender == "Male"

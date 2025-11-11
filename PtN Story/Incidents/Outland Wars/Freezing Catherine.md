@@ -1,9 +1,10 @@
 ---
 tags:
   - independence_war
-year: "[[NF 074]]"
-month: 12 December
-day: "27"
+short: To deal with Catherine's worsening contamination EDGE places her in cryosleep
+N.F.: 74
+month: 12
+day: 27
 state: tagged
 content: incident
 ---
