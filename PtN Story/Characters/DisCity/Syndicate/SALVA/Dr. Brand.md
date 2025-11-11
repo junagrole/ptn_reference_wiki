@@ -8,7 +8,7 @@ sinner: false
 gender: Male
 birthplace:
 storyrole: background
-state: tagged
+state: created
 content: character
 ---
 A doctor at [[SALVA Hospital]]. In [[NF 112]] he led an ambulance into [[Syndicate]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[MBCC]] squad searching for [[Subject R]]. 

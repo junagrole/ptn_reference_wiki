@@ -7,5 +7,5 @@ gender: Male
 birthplace:
 storyrole: background
 content: character
-state: tagged
+state: created
 ---

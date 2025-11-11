@@ -11,7 +11,7 @@ gender: Female
 birthplace:
 storyrole: antagonist
 content: character
-state: tagged
+state: created
 ---
 
 

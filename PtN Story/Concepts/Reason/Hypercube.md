@@ -2,6 +2,6 @@
 tags:
   - metaphysics/reason
   - metaphysics/black_ring
-state: tagged
+state: created
 content: topic
 ---

@@ -18,6 +18,6 @@ sinner: false
 gender: Female
 birthplace:
 storyrole: protagonist
-state: tagged
+state: created
 content: character
 ---

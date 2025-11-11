@@ -5,7 +5,7 @@ pov:
 previous:
   - "[[02-11 The Dim End]]"
 next:
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"

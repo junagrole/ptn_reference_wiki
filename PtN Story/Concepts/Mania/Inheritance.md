@@ -2,7 +2,7 @@
 tags:
   - metaphysics/mania
   - metaphysics/corpus
-state: tagged
+state: created
 content: topic
 ---
 A crystal containing a [[Corpus]].

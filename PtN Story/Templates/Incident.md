@@ -4,6 +4,6 @@ short:
 N.F.:
 month:
 day:
-state: tagged
+state: created
 content: incident
 ---

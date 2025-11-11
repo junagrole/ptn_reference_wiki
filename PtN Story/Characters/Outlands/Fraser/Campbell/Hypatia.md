@@ -13,6 +13,6 @@ sinner: true
 gender: Female
 birthplace: "[[Fraser]]"
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---

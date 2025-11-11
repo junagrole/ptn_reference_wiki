@@ -5,6 +5,6 @@ short: Catherine and the Reaper unit intercept a nuclear strike headed for DisCi
 N.F.: 68
 month: 10
 day: 7
-state: tagged
+state: created
 content: incident
 ---

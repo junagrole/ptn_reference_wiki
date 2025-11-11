@@ -5,6 +5,6 @@ tags:
   - expertise/anti_mania
   - paradeisos
   - discity/politics
-state: tagged
+state: created
 content: organisation
 ---

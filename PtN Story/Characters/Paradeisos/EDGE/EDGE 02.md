@@ -9,6 +9,6 @@ sinner: false
 gender: Female
 birthplace:
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---

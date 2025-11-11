@@ -12,6 +12,6 @@ sinner: false
 gender: Male
 birthplace:
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---

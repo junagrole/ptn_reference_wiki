@@ -2,6 +2,6 @@
 tags:
 short:
 type:
-state: tagged
+state: created
 content: organisation
 ---

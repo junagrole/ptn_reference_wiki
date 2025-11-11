@@ -3,6 +3,6 @@ tags:
   - eastside
   - discity/corporation
   - meta/antagonist
-state: tagged
+state: created
 content: organisation
 ---

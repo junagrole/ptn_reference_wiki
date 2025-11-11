@@ -9,7 +9,7 @@ sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
 storyrole: background
-state: tagged
+state: created
 content: character
 ---
 The head nurse at [[SALVA Hospital]].

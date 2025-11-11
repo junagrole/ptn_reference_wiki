@@ -6,7 +6,7 @@ previous:
   - "[[02-09 Dog]]"
 next:
   - "[[02-11 The Dim End]]"
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"

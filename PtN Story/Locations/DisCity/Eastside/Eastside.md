@@ -2,6 +2,6 @@
 tags:
   - discity/district
   - eastside
-state: tagged
+state: created
 content: location
 ---

@@ -2,6 +2,6 @@
 tags:
   - paradeisos
   - metaphysics/reason
-state: tagged
+state: created
 content: topic
 ---

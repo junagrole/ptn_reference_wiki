@@ -5,5 +5,5 @@ tags:
 aliases:
   - West District
 content: location
-state: tagged
+state: created
 ---

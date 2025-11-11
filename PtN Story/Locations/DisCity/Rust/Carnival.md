@@ -4,7 +4,7 @@ tags:
   - expertise/culture
   - metaphysics/black_ring
   - destroyed
-state: tagged
+state: created
 content: location
 short:
 region: "[[DisCity]]"

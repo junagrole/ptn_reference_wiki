@@ -8,6 +8,6 @@ short: The city council chooses to abandon the West District to gang control and
 N.F.: 99
 month:
 day:
-state: tagged
+state: created
 content: incident
 ---

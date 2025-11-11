@@ -2,6 +2,6 @@
 tags:
   - metaphysics/reason
   - meta/mystery
-state: tagged
+state: created
 content: topic
 ---

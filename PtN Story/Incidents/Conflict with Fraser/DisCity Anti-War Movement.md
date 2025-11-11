@@ -7,6 +7,6 @@ short:
 N.F.: 115
 month: 8
 day: 3
-state: tagged
+state: created
 content: incident
 ---

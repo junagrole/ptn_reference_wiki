@@ -1,6 +1,6 @@
 ---
 tags:
   - metaphysics/apostle
-state: tagged
+state: created
 content: topic
 ---

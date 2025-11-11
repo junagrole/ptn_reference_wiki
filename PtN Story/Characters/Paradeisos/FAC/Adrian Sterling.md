@@ -12,7 +12,7 @@ sinner: false
 gender: Male
 birthplace:
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---
 The commanding officer of the [[FAC]]. Took over the post from the previous commander after the [[Eclipse Operation]].
