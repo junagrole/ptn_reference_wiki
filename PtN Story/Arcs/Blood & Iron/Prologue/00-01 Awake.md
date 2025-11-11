@@ -7,16 +7,14 @@ pov:
 state: review
 content: stage
 ---
-[[Chief]] has a dream, standing in a field of [[Crystal Flowers]] while holding one. An unknown
-voice is asking Chief what she remember and telling her they will wait for them. 
-Then Chief regains consciousness amid an intruder alert. She's lying in a recovery pod and a researcher warns her not to leave it before the personality repair program is finished. [[Subject R]] is leaning over her and silences the researcher. Before Subject R can do anything else [[Nightingale]] along with several armed guards storms into the room and immediately opens fire on her. 
+In a dream [[Chief]] finds herself in a field of [[Crystal Flowers]], with one in her hands. Even though she doesn't remember anything, an unseen voice promises to be waiting for her.
+Back in the waking world she is undergoing a personality repair program. Helplessly lying in the recovery pod she can watch a researcher being silenced by a female [[Subject R|intruder]]. But before the looming intruder can take you away [[Nightingale]] along with several armed guards storm in guns blazing. 
 
-Subject R recovers, summons several creatures to buy her time and gets close to Chief again. She
-collects a blood sample from Chief and assumes her appearance and bio signature, lamenting that this will have to do since she can't take you away now. Then she escapes.
-Nightingale helps Chief up and explains the basic situation to the amnesiac Chief. They leave together with a group of guards.
+Her plan thwarted by their arrival she falls back to stealing Chief's appearance and bio signature before making her escape.
+Pressed for time by the prison riot adjutant Nightingale can only dress her superior and explain that Chief is the warden of the [[MBCC]] prison. Therefore the primary target for the most dangerous inmates. She is their biggest obstacle to true freedom.
 
-They arrive at the central cell-block when an alarm warns that the prisoners have escaped. Nightingale explains that the [[MBCC]] is a prison for the most dangerous criminals, that are a threat to the world. And Chief, who is responsible for restraining them, will be their first target.
-Rioters break through the security glass, happy to have found the new Chief.
->[!cite] Rioter: "Don't tell me that one behind is the new... Heh, look at her dumb face. I bet she' still just a loser."
+Their escape is stopped short in the central cell-block by a group of rioters. But the guards, led by the [[036|Guard Captain]] hold them off.
 
-They try to kill Chief to earn their true freedom. But the [[036|Guard Captain]] holds them off.
+>[!cite] Rioter
+>Don't tell me that one behind is the new... Heh, look at her dumb face. I bet she' still just a loser.
+
