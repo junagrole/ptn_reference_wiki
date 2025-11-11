@@ -1,9 +1,9 @@
 ---
 tags:
-  - paradeisos/edge
-  - discity/politics
-  - discity/city_council/councillor
-  - expertise/politics
+  - city_council
+  - politics
+  - paradeisos
+  - edge
 aliases:
   - Bernadette Cavendish
 short: Former speaker candidate, not supervises the city council for EDGE

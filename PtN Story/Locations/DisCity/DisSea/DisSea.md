@@ -1,6 +1,6 @@
 ---
 tags:
-  - discity/district
+  - dissea
 state: stub
 content: location
 ---

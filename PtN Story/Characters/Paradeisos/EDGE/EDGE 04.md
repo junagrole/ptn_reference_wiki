@@ -1,6 +1,8 @@
 ---
 tags:
-  - paradeisos/edge
+  - paradeisos
+  - edge
+  - nirvana
 short: Recommended by Nirvana to the EDGE council
 sinner: false
 gender: Male

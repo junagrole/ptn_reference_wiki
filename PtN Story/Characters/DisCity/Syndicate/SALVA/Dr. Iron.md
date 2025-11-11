@@ -4,7 +4,7 @@ tags:
   - expertise/medicine
   - expertise/anti_mania
   - leadership/hospital
-  - west_district/salva
+  - salva
 short: SALVA medical director, tries to find a treatment for Mania
 sinner: true
 gender: Female

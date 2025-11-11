@@ -2,12 +2,9 @@
 tags:
   - mbcc/staff
   - leadership/agency
-  - expertise/mania
-  - expertise/anti_mania
-  - expertise/apostles
-  - expertise/investigation
-  - meta/mystery
-  - metaphysics/shepherd
+  - mystery
+  - shepherd
+  - mbcc
 aliases:
   - SHP-13
   - Our adorable Shepherd

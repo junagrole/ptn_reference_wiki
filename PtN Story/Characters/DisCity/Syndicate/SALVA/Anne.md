@@ -1,9 +1,8 @@
 ---
 tags:
   - sinner/a_class
-  - west_district/salva
   - expertise/medicine
-  - expertise/mania
+  - salva
 short: A nurse driven by guilt, works at SALVA
 sinner: true
 gender: Female

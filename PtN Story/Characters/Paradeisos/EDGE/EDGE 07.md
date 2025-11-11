@@ -1,8 +1,9 @@
 ---
 tags:
-  - expertise/mania
-  - expertise/science
-  - paradeisos/edge
+  - paradeisos
+  - edge
+  - scientist
+  - ring_research_institute
 short: Represents the Ring Research Institute at EDGE
 sinner: false
 gender:

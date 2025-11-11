@@ -1,8 +1,8 @@
 ---
 tags:
-  - west_district/salva
   - expertise/medicine
   - deceased
+  - salva
 short: SALVA doctor, turned into a Corruptor
 sinner: false
 gender: Male

@@ -1,7 +1,7 @@
 ---
 tags:
-  - metaphysics/shepherd
-  - metaphysics/mania
+  - mania
+  - shepherd
 content: topic
 state: stub
 ---

@@ -1,10 +1,9 @@
 ---
 tags:
-  - expertise/science
-  - expertise/mania
-  - expertise/anti_mania
-  - paradeisos/edge
   - independence_war
+  - edge
+  - paradeisos
+  - scientist
 aliases:
   - EDGE intern
 short: Genius EDGE scientist that invented cryosleep and a cure for balding
