@@ -7,6 +7,6 @@ sinner: true
 gender: Female
 birthplace: "[[Metropoles]]"
 storyrole: protagonist
-state: tagged
+state: created
 content: character
 ---

@@ -4,6 +4,6 @@ pov:
 chapter: "[[Shattered Blade]]"
 previous:
 next:
-state: tagged
+state: created
 content: stage
 ---

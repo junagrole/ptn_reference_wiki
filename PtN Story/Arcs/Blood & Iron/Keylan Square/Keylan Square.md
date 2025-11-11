@@ -7,6 +7,6 @@ arc:
 year: "[[NF 112]]"
 month: 08 August
 day: "20"
-state: tagged
+state: created
 content: chapter
 ---

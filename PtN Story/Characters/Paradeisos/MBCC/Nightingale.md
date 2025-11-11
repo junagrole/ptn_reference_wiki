@@ -9,6 +9,6 @@ sinner: false
 gender: Female
 birthplace: "[[DisCity]]"
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---

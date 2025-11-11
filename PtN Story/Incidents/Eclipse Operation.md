@@ -10,7 +10,7 @@ short: Paradeisos and FAC launch a deep strike on the Lone Island underground ba
 N.F.: 103
 month:
 day:
-state: tagged
+state: created
 content: incident
 ---
 A raid into [[DisSea]] and even further into [[BR000]] itself. All mobilised [[FAC]] squads died during the operation. It was considered a failure and lead to a severe backlash against FAC itself.

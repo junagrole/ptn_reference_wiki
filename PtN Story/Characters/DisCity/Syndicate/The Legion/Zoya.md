@@ -9,7 +9,7 @@ sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
 storyrole: protagonist
-state: tagged
+state: created
 content: character
 ---
 The leader of [[The Legion]], a powerful [[Sinner]] trying to solve [[Syndicate|Syndicate's]] situation with violence.

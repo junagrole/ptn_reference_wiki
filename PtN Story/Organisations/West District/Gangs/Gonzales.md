@@ -1,6 +1,6 @@
 ---
 tags:
   - west_district/gang
-state: tagged
+state: created
 content: organisation
 ---

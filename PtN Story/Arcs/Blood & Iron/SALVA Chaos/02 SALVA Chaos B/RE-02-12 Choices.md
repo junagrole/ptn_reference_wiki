@@ -5,7 +5,7 @@ pov:
 previous:
   - "[[02-12 Salva Chaos]]"
 next:
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"

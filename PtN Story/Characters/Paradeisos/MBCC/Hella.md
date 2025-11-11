@@ -9,6 +9,6 @@ sinner: true
 gender: Female
 birthplace: "[[Syndicate]]"
 storyrole: protagonist
-state: tagged
+state: created
 content: character
 ---

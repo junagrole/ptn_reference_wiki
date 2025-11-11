@@ -7,7 +7,7 @@ short: During the Rustfire riots BR002 broke out a second time with Julien as Co
 N.F.: 114
 month: 3
 day:
-state: tagged
+state: created
 content: incident
 ---
 Second time [[BR002]] broke out.

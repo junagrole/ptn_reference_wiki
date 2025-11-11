@@ -3,6 +3,6 @@ tags:
 short:
 region:
 type:
-state: tagged
+state: created
 content: location
 ---

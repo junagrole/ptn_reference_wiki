@@ -6,6 +6,6 @@ short: The DisCity army openly rebels against the Metropoles
 N.F.: 66
 month: 8
 day: 27
-state: tagged
+state: created
 content: incident
 ---

@@ -3,6 +3,6 @@ tags:
   - discity/fac
   - dissea
   - metaphysics/black_ring
-state: tagged
+state: created
 content: location
 ---

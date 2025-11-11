@@ -2,6 +2,6 @@
 tags:
   - mbcc/facility
   - discity
-state: tagged
+state: created
 content: location
 ---

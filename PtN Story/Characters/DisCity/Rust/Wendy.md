@@ -8,6 +8,6 @@ sinner: true
 gender: Female
 birthplace: "[[Rust]]"
 storyrole: background
-state: tagged
+state: created
 content: character
 ---

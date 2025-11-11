@@ -27,3 +27,18 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
+  - type: table
+    name: Created
+    filters:
+      and:
+        - state == "created"
+    order:
+      - file.name
+      - content
+      - state
+      - tags
+    sort:
+      - property: content
+        direction: ASC
+      - property: file.name
+        direction: ASC

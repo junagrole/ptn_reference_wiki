@@ -8,6 +8,6 @@ sinner: false
 gender: Male
 birthplace: "[[Syndicate]]"
 storyrole: antagonist
-state: tagged
+state: created
 content: character
 ---

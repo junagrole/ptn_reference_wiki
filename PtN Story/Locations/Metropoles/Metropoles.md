@@ -4,6 +4,6 @@ tags:
 short: The five biggest city states after Nightfall.
 region:
 type: Region
-state: tagged
+state: created
 content: location
 ---

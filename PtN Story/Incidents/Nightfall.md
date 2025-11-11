@@ -6,6 +6,6 @@ short: An asteroid strikes the city of Maria, spreading calamities all over the 
 N.F.: 1
 month: 12
 day: 12
-state: tagged
+state: created
 content: incident
 ---

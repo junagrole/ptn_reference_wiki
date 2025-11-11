@@ -6,7 +6,7 @@ previous:
   - "[[02-10 Patient and Nurse]]"
 next:
   - "[[02-12 Salva Chaos]]"
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"

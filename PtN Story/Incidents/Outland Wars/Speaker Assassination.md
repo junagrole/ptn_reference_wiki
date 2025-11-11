@@ -5,7 +5,7 @@ short: The self elected speaker of DisCity is assassinated, sparking the first a
 N.F.: 61
 month: 12
 day: 26
-state: tagged
+state: created
 content: incident
 ---
 >[!cite] Trailer

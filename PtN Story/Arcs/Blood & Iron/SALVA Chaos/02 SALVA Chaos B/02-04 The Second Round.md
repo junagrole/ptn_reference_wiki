@@ -6,7 +6,7 @@ next:
   - "[[02-05 Ted]]"
 pov:
   - Chief
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"

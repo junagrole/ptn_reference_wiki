@@ -2,7 +2,7 @@
 tags:
   - discity
   - destroyed
-state: tagged
+state: created
 content: location
 short:
 region: "[[DisCity]]"

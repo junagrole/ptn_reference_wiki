@@ -9,6 +9,6 @@ sinner: false
 gender: Male
 birthplace: "[[Eastside]]"
 storyrole: supporting
-state: tagged
+state: created
 content: character
 ---

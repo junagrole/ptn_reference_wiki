@@ -6,6 +6,6 @@ short: DisCity official declares independence, Brock dies from radiation poisoni
 N.F.: 72
 month: 12
 day: 26
-state: tagged
+state: created
 content: incident
 ---

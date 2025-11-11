@@ -1,6 +1,6 @@
 ---
 tags:
 short:
-state: tagged
+state: created
 content: topic
 ---

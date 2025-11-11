@@ -6,7 +6,7 @@ previous:
   - "[[02-06 Basement]]"
 next:
   - "[[02-08 Sealed Despair]]"
-state: tagged
+state: created
 content: stage
 short:
 chapter: "[[SALVA Chaos]]"
