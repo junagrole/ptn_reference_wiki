@@ -1,12 +1,17 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/story
+  - core_crisis
+  - legion
+  - fac
+  - west_district
+  - underground
+short: The Keylan Square negotiations led to the outbreak of BR004. Subsequently suppressed by the combined efforts of Fac, Legion, Whitestone and MBCC
 arc:
   - "[[Blood & Iron]]"
-year: "[[NF 112]]"
-month: 08 August
-day: "20"
+type: Main Story
+N.F.: 112
+month: 8
+day: 20
 state: created
 content: chapter
 ---

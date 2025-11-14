@@ -1,12 +1,16 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/story
+  - core_crisis
+  - black_ring
+  - 9th_agency
+  - underground
+short: Accompanied by only Hella and Hecate, Chief investigates and ultimately vanquishes BR001
 arc:
   - "[[Blood & Iron]]"
-year: "[[NF 112]]"
-month: 09 September
-day: "13"
+type: Main Story
+N.F.: 112
+month: 9
+day: 13
 state: created
 content: chapter
 ---

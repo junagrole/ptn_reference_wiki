@@ -1,10 +1,11 @@
 ---
 tags:
+short:
 arc:
-year:
+type:
+N.F.:
 month:
 day:
-short:
 state: created
 content: chapter
 ---

@@ -1,13 +1,16 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/eternal_nightmare
+  - core_crisis
+  - dissea
+  - fac
+short:
 arc:
   - "[[Rustfire]]"
   - "[[Eternal Nightmare]]"
-year: "[[NF 113]]"
-month: 04 April
-day: "20"
+type: Eternal Nightmare
+N.F.: 113
+month: 4
+day: 20
 state: created
 content: chapter
 ---

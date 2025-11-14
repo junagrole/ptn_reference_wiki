@@ -1,11 +1,15 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/story
+  - core_crisis
+  - inner_bay
+  - hush
+  - nirvana
+short:
 arc: "[[Rustfire]]"
-year: "[[NF 113]]"
-month: 03 March
-day: "18"
+type: Main Story
+N.F.: 113
+month: 3
+day: 18
 state: created
 content: chapter
 ---

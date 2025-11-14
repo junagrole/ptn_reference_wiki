@@ -7,12 +7,14 @@ views:
     name: All Chapters
     order:
       - file.name
-      - year
+      - N.F.
       - month
       - day
       - arc
+      - type
+      - short
     sort:
-      - property: year
+      - property: N.F.
         direction: ASC
       - property: month
         direction: ASC
@@ -21,6 +23,8 @@ views:
     columnSize:
       note.month: 138
       note.day: 71
+      note.arc: 149
+      note.type: 145
   - type: table
     name: Core Crisis
     filters:

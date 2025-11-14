@@ -1,13 +1,16 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/eternal_nightmare
+  - core_crisis
+  - apostle
+  - dissea
+short: Joining the ocean exploration team Chief and Pylgia have to face the Abyss again. A piano player and being able to wield the rules pose new mysteries
 arc:
   - "[[Precarious Polis]]"
   - "[[Eternal Nightmare]]"
-year: "[[NF 115]]"
-month: 02 February
-day: "11"
+type: Eternal Nightmare
+N.F.: 115
+month: 2
+day: 11
 state: created
 content: chapter
 ---

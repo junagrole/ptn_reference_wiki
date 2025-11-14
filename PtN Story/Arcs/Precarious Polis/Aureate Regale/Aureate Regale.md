@@ -1,12 +1,17 @@
 ---
 tags:
-  - meta/story
-  - meta/core_crisis
+  - core_crisis
+  - fraser
+  - fac
+  - discorps
+  - black_ring
+short:
 arc:
   - "[[Precarious Polis]]"
-year: "[[NF 115]]"
-month: 05 May
-day: "23"
+type: Main Story
+N.F.: 115
+month: 5
+day: 23
 state: created
 content: chapter
 ---

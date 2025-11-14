@@ -1,13 +1,17 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/event
+  - core_crisis
+  - paradeisos
+  - garden
+  - underground
+  - fac
+short:
 arc:
   - "[[Rustfire]]"
-year: "[[NF 113]]"
-month: 08 August
-day: "08"
+type: Main Event
+N.F.: 113
+month: 7
+day: 8
 state: created
 content: chapter
-short:
 ---

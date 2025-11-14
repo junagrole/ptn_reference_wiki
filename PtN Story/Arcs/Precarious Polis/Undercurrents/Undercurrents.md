@@ -1,12 +1,22 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/story
+  - core_crisis
+  - eastside
+  - city_council
+  - 9th_agency
+  - paradeisos
+  - fraser
+  - apostle
+  - expertise/aurum_secretum
+  - fac
+  - discorps
+short:
 arc:
   - "[[Precarious Polis]]"
-year: "[[NF 114]]"
-month: 11 November
-day: "26"
+type: Main Story
+N.F.: 114
+month: 11
+day: 26
 state: created
 content: chapter
 ---

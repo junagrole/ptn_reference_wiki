@@ -1,12 +1,17 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/story
+  - core_crisis
+  - inner_bay
+  - west_district
+  - paradeisos
+  - underground
+short:
 arc:
   - "[[Rustfire]]"
-year: "[[NF 113]]"
-month: 11 November
-day: "22"
+type: Main Story
+N.F.: 113
+month: 11
+day: 22
 state: created
 content: chapter
 ---

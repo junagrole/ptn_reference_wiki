@@ -1,13 +1,16 @@
 ---
 tags:
-  - meta/core_crisis
-  - meta/eternal_nightmare
+  - core_crisis
+  - paradeisos
+  - dissea
+short: Diving into the abyss reveals a terrifying monster. Goaded by the Illusory Moon, Chief dives into it again to save Pylgia, this time she succeeds
 arc:
   - "[[Precarious Polis]]"
   - "[[Eternal Nightmare]]"
-year: "[[NF 114]]"
-month: 10 October
-day: "24"
+type: Eternal Nightmare
+N.F.: 114
+month: 10
+day: 24
 state: created
 content: chapter
 ---
