@@ -1,14 +1,15 @@
 ---
 tags:
-  - expertise/medicine
   - deceased
   - salva
+  - medical
+  - maniac
 short: SALVA doctor, turned into a Corruptor
 sinner: false
 gender: Male
 birthplace:
 storyrole: background
-state: created
+state: complete
 content: character
 ---
 A doctor at [[SALVA Hospital]]. In N.F. 112 he led an ambulance into [[Syndicate]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[Organisations/Security Forces/MBCC]] squad searching for [[Subject R]]. 
