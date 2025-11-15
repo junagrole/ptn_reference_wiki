@@ -1,9 +1,13 @@
 ---
 tags:
-years:
-  - "[[NF 113]]"
-starting: N.F. 112/11
-ending: N.F. 113/11
+  - inner_bay
+  - black_ring
+  - paradeisos
+  - west_district
+short:
+N.F.: 112
+month: 11
+day:
 state: created
 content: arc
 ---

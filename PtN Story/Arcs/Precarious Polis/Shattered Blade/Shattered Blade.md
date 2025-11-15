@@ -1,14 +1,13 @@
 ---
 tags:
-  - meta/event
-  - meta/core_crisis
+  - core_crisis
+short:
 arc:
   - "[[Precarious Polis]]"
-year: "[[NF 115]]"
+type: Main Event
+N.F.: 115
 month:
 day:
 state: created
 content: chapter
-N.F.: 115
-type: Main Event
 ---

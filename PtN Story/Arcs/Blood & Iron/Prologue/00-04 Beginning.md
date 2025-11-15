@@ -35,7 +35,7 @@ The scene cuts away to the [[FAC]] [[Adrian Sterling]] welcoming you as the new 
 
 The reports notes that the main culprits fled to DisCity and are still at large, while loss assessment and repairs in the bureau are in progress.
 
-A picture of Subject R is shown, giving her the code name R for the first time, her whereabouts unknown.  The date is noted as 12th of August in [[NF 112]]. The CiC notes that MBCC is a subordinate agency under the FAC. 
+A picture of Subject R is shown, giving her the code name R for the first time, her whereabouts unknown.  The date is noted as 12th of August in N.F. 112 The CiC notes that MBCC is a subordinate agency under the FAC. 
 It also states that over 200 severe [[Maniacs|manic patients]] were also kept at the MBCC, of whom roughly 2/3 escaped. The Restricted Zone 0 is beyond repair, with Hella and Hecate as the sole remaining Sinners.
 >[!cite] "I never expected to meet you again under these circumstances" 
 
