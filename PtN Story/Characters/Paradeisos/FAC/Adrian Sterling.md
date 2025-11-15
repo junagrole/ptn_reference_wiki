@@ -1,10 +1,9 @@
 ---
 tags:
-  - discity/fac
-  - leadership/agency
-  - expertise/anti_mania
-  - expertise/military
   - independence_war
+  - military
+  - fac
+  - cyborg
 aliases:
   - Commander in Chief
 short: Stoic battle hardened leader of the FAC, independence war hero

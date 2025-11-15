@@ -1,3 +1,6 @@
+filters:
+  and:
+    - '!file.inFolder("Templates")'
 views:
   - type: table
     name: Review

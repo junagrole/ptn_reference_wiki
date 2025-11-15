@@ -1,8 +1,7 @@
 ---
 tags:
-  - metaphysics/shepherd
-  - leadership/underground
-  - expertise/mania
+  - shepherd
+  - underground
 aliases:
   - Big Sis
 short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder

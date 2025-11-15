@@ -1,8 +1,8 @@
 ---
 tags:
   - sinner/a_class
-  - expertise/medicine
   - salva
+  - medical
 short: A nurse driven by guilt, works at SALVA
 sinner: true
 gender: Female

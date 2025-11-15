@@ -1,8 +1,8 @@
 ---
 tags:
   - sinner/a_class
-  - west_district/legion
-  - expertise/combat
+  - legion
+  - missing
 short: Legion member and later leader. Sister of Earl.
 sinner: true
 gender: Female

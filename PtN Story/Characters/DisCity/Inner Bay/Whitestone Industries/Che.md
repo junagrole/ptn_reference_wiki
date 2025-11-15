@@ -2,9 +2,10 @@
 tags:
   - sinner/b_class
   - underground
-  - west_district/drifter_camp
-  - expertise/vehicles
-  - expertise/mania
+  - whitestone
+  - drifter_camp
+  - driver
+  - mbcc
 short: Whitestone member, defected from the underground
 sinner: true
 gender: Male

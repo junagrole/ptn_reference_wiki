@@ -1,7 +1,5 @@
 ---
 tags:
-  - mbcc/staff
-  - leadership/agency
   - mystery
   - shepherd
   - mbcc

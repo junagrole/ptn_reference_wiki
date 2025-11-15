@@ -1,8 +1,9 @@
 ---
 tags:
   - independence_war
-  - expertise/science
   - deceased
+  - scientist
+  - edge
 short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
 sinner: false
 gender: Female

@@ -1,9 +1,8 @@
 ---
 tags:
   - sinner/b_class
-  - mbcc/sinner
-  - expertise/hospitality
   - cyborg
+  - mbcc
 short: Full cyborg maid
 sinner: true
 gender: Female

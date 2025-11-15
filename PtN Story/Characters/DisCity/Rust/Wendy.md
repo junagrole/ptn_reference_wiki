@@ -1,8 +1,9 @@
 ---
 tags:
   - sinner/a_class
-  - discity/fac
-  - mbcc/sinner
+  - fac
+  - rust
+  - mbcc
 short: Only survivor of the Undertakers, still hunts Corruptors in the Rust
 sinner: true
 gender: Female

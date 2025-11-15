@@ -1,9 +1,10 @@
 ---
 tags:
-  - leadership/gang
   - sinner/s_class
-  - west_district/legion
-  - expertise/combat
+  - legion
+  - missing
+  - black_ring
+  - contaminated
 short: Leader of the Legion and hero of Syndicate
 sinner: true
 gender: Female

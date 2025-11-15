@@ -1,9 +1,6 @@
 ---
 tags:
-  - mbcc/staff
-  - expertise/anti_mania
-  - expertise/investigation
-  - expertise/politics
+  - mbcc
 short: Chief's loyal adjutant, even before Chief lost their memories
 sinner: false
 gender: Female

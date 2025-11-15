@@ -1,6 +1,6 @@
 ---
 tags:
-  - metaphysics/mania
+  - mania
 state: created
 content: creature
 ---

@@ -1,8 +1,7 @@
 ---
 tags:
-  - expertise/criminal
-  - expertise/mania
   - scum
+  - gangster
 short: Total scumbag, hates Sinners, might work with the underground
 sinner: false
 gender: Male

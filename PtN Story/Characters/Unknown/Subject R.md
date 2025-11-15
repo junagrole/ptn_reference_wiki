@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/mystery
-  - expertise/mania
+  - mystery
+  - missing
 short: A mysterious shapeshifter and summoner that attacked the MBCC before vanishing without a trace
 sinner: true
 gender: Female

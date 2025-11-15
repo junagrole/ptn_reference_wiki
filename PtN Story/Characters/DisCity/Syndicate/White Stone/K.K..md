@@ -1,8 +1,9 @@
 ---
 tags:
   - sinner/b_class
-  - west_district/drifter_camp
-  - mbcc/sinner
+  - mbcc
+  - whitestone
+  - drifter_camp
 short: Only hard working member of Whitestone, in the dark about her partners past
 sinner: true
 gender: Female
