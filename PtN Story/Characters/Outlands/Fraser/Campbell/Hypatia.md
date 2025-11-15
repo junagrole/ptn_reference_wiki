@@ -1,10 +1,9 @@
 ---
 tags:
-  - fraser/campbell
-  - expertise/science
-  - expertise/aurum_secretum
-  - expertise/apostles
   - sinner/s_class
+  - fraser
+  - campbell
+  - scientist
 aliases:
   - Hypatia Campbell
   - Hypa
@@ -12,7 +11,7 @@ short: The only good Campbell, genius Aurum Secretum researcher, friends with He
 sinner: true
 gender: Female
 birthplace: "[[Fraser]]"
-storyrole: supporting
+storyrole: protagonist
 state: created
 content: character
 ---
