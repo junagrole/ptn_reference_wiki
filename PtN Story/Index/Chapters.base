@@ -5,40 +5,38 @@ filters:
 views:
   - type: table
     name: All Chapters
+    groupBy:
+      property: N.F.
+      direction: ASC
     order:
       - file.name
-      - N.F.
       - month
       - day
-      - arc
       - type
       - short
     sort:
-      - property: N.F.
-        direction: ASC
       - property: month
         direction: ASC
       - property: day
         direction: ASC
     columnSize:
-      note.month: 138
+      note.month: 99
       note.day: 71
-      note.arc: 149
       note.type: 145
   - type: table
     name: Core Crisis
     filters:
       and:
-        - file.tags.contains("meta/core_crisis")
+        - file.tags.contains("core_crisis")
+    groupBy:
+      property: N.F.
+      direction: ASC
     order:
       - file.name
-      - year
       - month
       - day
       - arc
     sort:
-      - property: year
-        direction: ASC
       - property: month
         direction: ASC
       - property: day
@@ -47,13 +45,16 @@ views:
     name: Eternal Nightmare
     filters:
       and:
-        - file.tags.contains("meta/eternal_nightmare")
+        - type == "Eternal Nightmare"
+    groupBy:
+      property: N.F.
+      direction: ASC
     order:
       - file.name
-      - year
+      - N.F.
       - month
       - day
-      - arc
+      - short
     sort:
       - property: year
         direction: ASC

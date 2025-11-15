@@ -4,13 +4,14 @@ views:
     filters:
       and:
         - state == "review"
+    groupBy:
+      property: content
+      direction: ASC
     order:
       - file.name
       - content
       - tags
     sort:
-      - property: content
-        direction: ASC
       - property: file.name
         direction: ASC
   - type: table
@@ -18,13 +19,14 @@ views:
     filters:
       and:
         - state == "stub"
+    groupBy:
+      property: content
+      direction: ASC
     order:
       - file.name
       - content
       - tags
     sort:
-      - property: content
-        direction: ASC
       - property: file.name
         direction: ASC
   - type: table
@@ -32,13 +34,12 @@ views:
     filters:
       and:
         - state == "created"
+    groupBy:
+      property: content
+      direction: ASC
     order:
       - file.name
-      - content
-      - state
       - tags
     sort:
-      - property: content
-        direction: ASC
       - property: file.name
         direction: ASC

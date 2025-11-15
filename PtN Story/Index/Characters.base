@@ -38,6 +38,7 @@ views:
         - storyrole == "protagonist"
     order:
       - file.name
+      - sinner
       - birthplace
       - gender
       - short
