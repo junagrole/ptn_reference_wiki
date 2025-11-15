@@ -1,13 +1,13 @@
 ---
 tags:
-  - discity/rust
-  - expertise/culture
-  - metaphysics/black_ring
   - destroyed
+  - black_ring
+  - rust
+short: Build to celebrate the recovery from the DisSea explosion it's opening festivities became the ground zero for BR001
+region: "[[DisCity]]"
+district: "[[Rust]]"
+type: Facility
 state: created
 content: location
-short:
-region: "[[DisCity]]"
-type: Facility
 ---
 The ground zero of [[BR001]].

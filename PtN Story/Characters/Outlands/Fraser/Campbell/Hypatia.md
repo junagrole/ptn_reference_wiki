@@ -4,6 +4,7 @@ tags:
   - fraser
   - campbell
   - scientist
+  - aurum_secretum
 aliases:
   - Hypatia Campbell
   - Hypa

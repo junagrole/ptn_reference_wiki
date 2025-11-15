@@ -28,7 +28,7 @@ When you ask her who she is, gunfire from Nightingale interrupts the scene. She 
 
 Then the white beast takes flight, carrying her away.
 
-The scene cuts away to the [[FAC]] [[Adrian Sterling]] welcoming you as the new [[Chief]] of the [[MBCC]]. In the background a report about the incident is shown, which becomes standard at the end of a chapter.
+The scene cuts away to the [[FAC]] [[Adrian Sterling]] welcoming you as the new [[Chief]] of the [[Organisations/Security Forces/MBCC]]. In the background a report about the incident is shown, which becomes standard at the end of a chapter.
 >[!cite] "Your response was impeccable, welcome back."  
 
 \- FAC Commander in Chief

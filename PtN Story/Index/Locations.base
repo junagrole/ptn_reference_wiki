@@ -1,0 +1,82 @@
+filters:
+  and:
+    - content == "location"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: All Locations
+    groupBy:
+      property: region
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - short
+    sort:
+      - property: district
+        direction: ASC
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.type: 88
+  - type: table
+    name: DisCity
+    filters:
+      and:
+        - region == link("DisCity")
+    groupBy:
+      property: district
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - short
+    sort:
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Eastside
+    filters:
+      and:
+        - district == link("Eastside")
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - short
+  - type: table
+    name: West District
+    filters:
+      and:
+        - district == link("Syndicate")
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - short
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Settlements
+    filters:
+      and:
+        - type.containsAny("City", "Settlement", "Town")
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - region
+      - short
+    sort:
+      - property: region
+        direction: ASC
+      - property: file.name
+        direction: ASC
