@@ -1,9 +1,9 @@
 ---
 tags:
-starting:
-ending:
-year:
 short:
+N.F.:
+month:
+day:
 state: created
 content: arc
 ---
