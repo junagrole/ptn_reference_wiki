@@ -1,7 +1,7 @@
 ---
 tags:
   - independence_war
-  - paradeisos/edge
+  - edge
 short: The guerrillas secure covert assistance from EDGE scientists Helena and the later EDGE01
 N.F.: 64
 month: 3

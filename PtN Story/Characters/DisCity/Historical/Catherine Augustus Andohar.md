@@ -2,7 +2,7 @@
 tags:
   - independence_war
   - military
-short: Hero of the independence War, now Leader of the DisCorps remains.
+short: Hero of the independence War, now Leader of the DisCorps remains
 sinner: true
 gender: Female
 birthplace: "[[Metropoles]]"

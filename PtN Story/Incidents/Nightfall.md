@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/mystery
-  - metaphysics/calamity
+  - calamity
+  - mystery
 short: An asteroid strikes the city of Maria, spreading calamities all over the world
 N.F.: 1
 month: 12

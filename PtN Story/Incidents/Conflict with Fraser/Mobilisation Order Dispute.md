@@ -1,6 +1,8 @@
 ---
 tags:
-  - discity/city_council
+  - discity
+  - city_council
+  - politics
 short:
 N.F.: 115
 month: 7

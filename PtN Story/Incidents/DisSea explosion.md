@@ -1,7 +1,8 @@
 ---
 tags:
-  - metaphysics/black_ring
-  - meta/mystery
+  - black_ring
+  - mystery
+  - dissea
 short: An explosion in the DisSea contaminates much of the city and reveals BR000
 N.F.: 84
 month: 12

@@ -1,8 +1,8 @@
 ---
 tags:
   - fraser
-  - discity/fac
-  - discity/city_council
+  - discity
+  - fac
 short:
 N.F.: 115
 month: 8

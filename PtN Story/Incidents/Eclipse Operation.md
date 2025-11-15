@@ -1,11 +1,11 @@
 ---
 tags:
-  - paradeisos/operation
-  - meta/mystery
-  - discity/fac
-  - paradeisos/hush
   - dissea
   - black_ring
+  - paradeisos
+  - hush
+  - fac
+  - underground
 short: Paradeisos and FAC launch a deep strike on the Lone Island underground base deep in DisSea
 N.F.: 103
 month:
