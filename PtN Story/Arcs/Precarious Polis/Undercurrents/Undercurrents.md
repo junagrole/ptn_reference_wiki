@@ -7,9 +7,9 @@ tags:
   - paradeisos
   - fraser
   - apostle
-  - expertise/aurum_secretum
   - fac
   - discorps
+  - aurum_secretum
 short:
 arc:
   - "[[Precarious Polis]]"

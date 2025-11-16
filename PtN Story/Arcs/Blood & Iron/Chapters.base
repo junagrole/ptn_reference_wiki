@@ -1,0 +1,63 @@
+filters:
+  and:
+    - content == "chapter"
+    - arc.contains(link("Blood & Iron"))
+views:
+  - type: table
+    name: Overview
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - short
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+  - type: table
+    name: Timeline
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - type
+      - short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.type: 112
+  - type: table
+    name: Details
+    groupBy:
+      property: state
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - N.F.
+      - type
+      - file.ctime
+      - file.mtime
+      - tags
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.type: 112
+      file.ctime: 166
+      file.mtime: 169

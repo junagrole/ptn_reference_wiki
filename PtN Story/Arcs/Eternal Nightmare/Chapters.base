@@ -1,0 +1,65 @@
+filters:
+  and:
+    - content == "chapter"
+    - arc.contains(link("Eternal Nightmare"))
+views:
+  - type: table
+    name: Overview
+    groupBy:
+      property: arc
+      direction: ASC
+    order:
+      - file.name
+      - short
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      file.name: 186
+  - type: table
+    name: Timeline
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      file.name: 186
+      note.day: 72
+      note.type: 112
+  - type: table
+    name: Details
+    groupBy:
+      property: state
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - N.F.
+      - file.ctime
+      - file.mtime
+      - tags
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.type: 112
+      file.ctime: 166
+      file.mtime: 169
