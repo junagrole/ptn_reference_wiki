@@ -1,7 +1,6 @@
 ---
 tags:
-  - meta/lore_heavy
-  - metaphysics/mania
+  - mania
 short:
 previous:
   - "[[02-02 Surgery]]"

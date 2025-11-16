@@ -1,0 +1,42 @@
+filters:
+  and:
+    - chapter == link("SALVA Chaos")
+views:
+  - type: table
+    name: Overview
+    order:
+      - file.name
+      - pov
+      - tags
+      - short
+    columnSize:
+      note.pov: 140
+  - type: table
+    name: PoV
+    groupBy:
+      property: pov
+      direction: ASC
+    order:
+      - file.name
+      - short
+  - type: table
+    name: Navigation
+    order:
+      - file.name
+      - previous
+      - next
+    columnSize:
+      note.previous: 353
+  - type: table
+    name: Meta Infos
+    groupBy:
+      property: state
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.folder
+      - tags
+    columnSize:
+      file.folder: 366

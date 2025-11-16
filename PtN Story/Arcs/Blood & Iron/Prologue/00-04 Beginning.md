@@ -1,7 +1,7 @@
 ---
 tags:
 chapter: "[[Prologue]]"
-next: "[[01-01 Syndicate]]"
+next:
 previous: "[[00-03 White Beast]]"
 pov:
   - Chief
