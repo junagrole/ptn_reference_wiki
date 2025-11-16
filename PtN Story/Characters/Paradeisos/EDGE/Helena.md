@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - independence_war
   - deceased
   - scientist
   - edge
-short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
-sinner: false
-gender: Female
+Short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
+Sinner: false
+Gender: Female
 birthplace:
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

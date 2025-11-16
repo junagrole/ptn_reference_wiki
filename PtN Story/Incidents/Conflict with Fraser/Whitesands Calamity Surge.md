@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - fraser
   - fac
   - apostle
   - white_sands
   - calamity
-short: A weaponized tide of Ashes devastates FAC outposts
+Short: A weaponized tide of Ashes devastates FAC outposts
 N.F.: 115
-month: 8
-day: 5
-state: created
-content: incident
+Month: 8
+Day: 5
+State: created
+Content: incident
 ---

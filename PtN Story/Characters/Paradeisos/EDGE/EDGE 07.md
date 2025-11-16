@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - paradeisos
   - edge
   - scientist
   - ring_research_institute
-short: Represents the Ring Research Institute at EDGE
-sinner: false
-gender:
+Short: Represents the Ring Research Institute at EDGE
+Sinner: false
+Gender:
 birthplace:
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

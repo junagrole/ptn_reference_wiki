@@ -1,12 +1,12 @@
 ---
-tags:
+Tags:
   - fraser
   - discity
   - fac
-short:
+Short:
 N.F.: 115
-month: 8
-day: 3
-state: created
-content: incident
+Month: 8
+Day: 3
+State: created
+Content: incident
 ---

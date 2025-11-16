@@ -1,7 +1,7 @@
 ---
-tags:
+Tags:
   - west_district/legion
   - west_district/gang
-content: organisation
-state: created
+Content: organisation
+State: created
 ---

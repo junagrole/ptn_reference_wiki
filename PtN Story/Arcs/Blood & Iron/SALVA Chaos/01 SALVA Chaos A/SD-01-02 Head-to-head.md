@@ -1,12 +1,12 @@
 ---
-tags:
-pov:
+Tags:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous: "[[SD-01-01 Support]]"
-next:
-state: complete
-content: stage
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[SD-01-01 Support]]"
+Next:
+State: complete
+Content: stage
 ---
 A bit further ahead you find [[EMP]] cornered by gangsters. Being dragged into the conflict when the gangsters recognise [[Ted]] with two Sinners, you make short work of them.
 

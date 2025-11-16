@@ -1,15 +1,15 @@
 ---
-tags:
+Tags:
   - core_crisis
   - mbcc
-short: Waking up without her memories Chief is caught in a riot at MBCC. Reclaiming her Shackles she has to face a mysterious intruder
-arc: "[[Blood & Iron]]"
-type: Main Story
+Short: Waking up without her memories Chief is caught in a riot at MBCC. Reclaiming her Shackles she has to face a mysterious intruder
+Arc: "[[Blood & Iron]]"
+Category: Main Story
 N.F.: 112
-month: 8
-day: 12
-state: created
-content: chapter
+Month: 8
+Day: 12
+State: created
+Content: chapter
 ---
 ## Summary
 

@@ -1,5 +1,5 @@
 ---
-tags:
+Tags:
   - mystery
   - shepherd
   - mbcc
@@ -8,11 +8,11 @@ aliases:
   - Our adorable Shepherd
   - Dummy
   - Little Sister
-short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
-sinner: false
-gender: Female
+Short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
+Sinner: false
+Gender: Female
 birthplace:
-storyrole: protagonist
-state: created
-content: character
+Storyrole: protagonist
+State: created
+Content: character
 ---

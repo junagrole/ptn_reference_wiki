@@ -1,8 +1,8 @@
 ---
-tags:
+Tags:
   - discity/city_council
   - discity/politics
   - expertise/politics
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

@@ -1,11 +1,11 @@
 ---
-tags:
-short:
-arc:
-type:
+Tags:
+Short:
+Arc:
+Category:
 N.F.:
-month:
-day:
-state: created
-content: chapter
+Month:
+Day:
+State: created
+Content: chapter
 ---

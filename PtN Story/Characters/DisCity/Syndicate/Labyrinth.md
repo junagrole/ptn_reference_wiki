@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - sinner/b_class
   - cyborg
   - mbcc
-short: Full cyborg maid
-sinner: true
-gender: Female
+Short: Full cyborg maid
+Sinner: true
+Gender: Female
 birthplace:
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

@@ -1,8 +1,8 @@
 ---
-tags:
+Tags:
   - discity/agency
   - expertise/security
   - expertise/investigation
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

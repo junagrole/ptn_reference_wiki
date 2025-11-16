@@ -1,9 +1,9 @@
 ---
-tags:
+Tags:
   - discity/agency
   - expertise/anti_mania
   - expertise/military
   - paradeisos/supervision
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

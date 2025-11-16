@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - sinner/b_class
   - mbcc
   - whitestone
   - drifter_camp
-short: Only hard working member of Whitestone, in the dark about her partners past
-sinner: true
-gender: Female
+Short: Only hard working member of Whitestone, in the dark about her partners past
+Sinner: true
+Gender: Female
 birthplace: "[[Syndicate]]"
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

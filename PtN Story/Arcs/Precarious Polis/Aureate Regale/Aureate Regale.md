@@ -1,17 +1,17 @@
 ---
-tags:
+Tags:
   - core_crisis
   - fraser
   - fac
   - discorps
   - black_ring
-short:
-arc:
+Short:
+Arc:
   - "[[Precarious Polis]]"
-type: Main Story
+Category: Main Story
 N.F.: 115
-month: 5
-day: 23
-state: created
-content: chapter
+Month: 5
+Day: 23
+State: created
+Content: chapter
 ---

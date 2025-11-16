@@ -1,5 +1,5 @@
 ---
-tags:
+Tags:
   - city_council
   - fraser
   - apostle
@@ -7,10 +7,10 @@ tags:
   - black_ring
   - politics
   - edge
-short:
+Short:
 N.F.: 113
-month: 12
-day:
-state: created
-content: arc
+Month: 12
+Day:
+State: created
+Content: arc
 ---

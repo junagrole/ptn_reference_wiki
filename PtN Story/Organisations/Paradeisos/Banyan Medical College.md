@@ -1,9 +1,9 @@
 ---
-tags:
+Tags:
   - paradeisos
   - expertise/medicine
   - eastside
   - expertise/anti_mania
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

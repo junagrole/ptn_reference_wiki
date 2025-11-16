@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - mania
-short:
-previous:
+Short:
+Previous:
   - "[[02-02 Surgery]]"
-next:
+Next:
   - "[[RE-02-03 Promise]]"
-chapter: "[[SALVA Chaos]]"
-pov:
+Chapter: "[[SALVA Chaos]]"
+Pov:
   - Chief
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 Supported by [[Dr. Iron]] and your Sinners you attempt to use your [[Shackles]] on the [[Maniacs|manic gang member]]. But the attempt fails, Maniacs are fundamentally different from [[Sinner|Sinners]].
 >[!cite] Chief's thoughts

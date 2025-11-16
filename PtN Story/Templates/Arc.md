@@ -1,9 +1,9 @@
 ---
-tags:
-short:
+Tags:
+Short:
 N.F.:
-month:
-day:
-state: created
-content: arc
+Month:
+Day:
+State: created
+Content: arc
 ---

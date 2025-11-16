@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - inner_bay
   - black_ring
   - paradeisos
   - west_district
-short:
+Short:
 N.F.: 112
-month: 11
-day:
-state: created
-content: arc
+Month: 11
+Day:
+State: created
+Content: arc
 ---

@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - sinner/a_class
   - legion
   - missing
-short: Legion member and later leader. Sister of Earl.
-sinner: true
-gender: Female
+Short: Legion member and later leader. Sister of Earl.
+Sinner: true
+Gender: Female
 birthplace: "[[Syndicate]]"
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

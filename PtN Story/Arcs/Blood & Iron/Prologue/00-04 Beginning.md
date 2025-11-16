@@ -1,12 +1,12 @@
 ---
-tags:
-chapter: "[[Prologue]]"
-next:
-previous: "[[00-03 White Beast]]"
-pov:
+Tags:
+Chapter: "[[Prologue]]"
+Next:
+Previous: "[[00-03 White Beast]]"
+Pov:
   - Chief
-state: review
-content: stage
+State: review
+Content: stage
 ---
 You successfully fight off the [[White Beast]] but before you can proceed, the ground cracks and various monsters swarm out, destroying the whole Underground Sinner Experimentation Area. [[Subject R]] returns, lifted by one of them and compliments your group for having survived the fight. [[Nightingale]] reasons that the real aim of her attack was destroying this area and everything else was just a diversion.
 Subject R denies the accusation, stating that she was dying to see you and wanted to give the Sinners freedom as well. But she is surprised [[Hella]] and [[Hecate]] stayed behind and accepted your [[Shackles]]. Asked why she didn't run Hecate just retorts that she doesn't need freedom, which Subject R thinks isn't what a [[Sinner]] should be like. 

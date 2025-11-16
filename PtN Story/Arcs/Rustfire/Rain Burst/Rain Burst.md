@@ -1,17 +1,17 @@
 ---
-tags:
+Tags:
   - core_crisis
   - fac
   - paradeisos
   - garden
   - hush
-short:
-arc:
+Short:
+Arc:
   - "[[Rustfire]]"
-type: Main Event
+Category: Main Event
 N.F.: 113
-month: 7
-day: 19
-state: created
-content: chapter
+Month: 7
+Day: 19
+State: created
+Content: chapter
 ---

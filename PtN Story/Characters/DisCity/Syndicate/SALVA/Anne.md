@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - sinner/a_class
   - salva
   - medical
-short: A nurse driven by guilt, works at SALVA
-sinner: true
-gender: Female
+Short: A nurse driven by guilt, works at SALVA
+Sinner: true
+Gender: Female
 birthplace: "[[Syndicate]]"
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---
 The head nurse at [[SALVA Hospital]].

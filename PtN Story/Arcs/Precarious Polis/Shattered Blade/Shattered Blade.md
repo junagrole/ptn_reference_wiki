@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - core_crisis
-short:
-arc:
+Short:
+Arc:
   - "[[Precarious Polis]]"
-type: Main Event
+Category: Main Event
 N.F.: 115
-month:
-day:
-state: created
-content: chapter
+Month:
+Day:
+State: created
+Content: chapter
 ---

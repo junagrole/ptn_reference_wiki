@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - core_crisis
   - dissea
   - fac
-short:
-arc:
+Short:
+Arc:
   - "[[Rustfire]]"
   - "[[Eternal Nightmare]]"
-type: Eternal Nightmare
+Category: Eternal Nightmare
 N.F.: 113
-month: 4
-day: 20
-state: created
-content: chapter
+Month: 4
+Day: 20
+State: created
+Content: chapter
 ---

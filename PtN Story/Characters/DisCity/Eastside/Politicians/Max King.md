@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - city_council
   - speaker
   - politics
   - business
   - influencer
   - cabinet
-short: The City Council speaker, plays the fool, former tycoon and social media star
-sinner: false
-gender: Male
+Short: The City Council speaker, plays the fool, former tycoon and social media star
+Sinner: false
+Gender: Male
 birthplace: "[[Eastside]]"
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

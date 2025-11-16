@@ -1,11 +1,11 @@
 ---
-tags:
+Tags:
   - rust
   - contaminated
-short: Contaminated riverbed of the grace river, separates West District and Eastside
+Short: Contaminated riverbed of the grace river, separates West District and Eastside
 region: "[[DisCity]]"
 district:
-type: District
-state: created
-content: location
+Category: District
+State: created
+Content: location
 ---

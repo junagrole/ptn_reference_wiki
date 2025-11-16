@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - scum
   - gangster
-short: Total scumbag, hates Sinners, might work with the underground, lobotomised by Iron
-sinner: false
-gender: Male
+Short: Total scumbag, hates Sinners, might work with the underground, lobotomised by Iron
+Sinner: false
+Gender: Male
 birthplace: "[[Syndicate]]"
-storyrole: antagonist
-state: review
-content: character
+Storyrole: antagonist
+State: review
+Content: character
 ---
 ## Background
 Leader of a small gang in [[Syndicate]]. Is quite well recognised by other gangs, but not respected. 

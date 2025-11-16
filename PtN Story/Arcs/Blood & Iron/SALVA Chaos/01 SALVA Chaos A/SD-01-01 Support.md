@@ -1,13 +1,13 @@
 ---
-tags:
-pov:
+Tags:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous: "[[01-02 Assassination]]"
-next:
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-02 Assassination]]"
+Next:
   - "[[SD-01-02 Head-to-head]]"
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 The three of you are cornered by the gang fights and can't break through. [[Nightingale]] calls and promises reinforcements a bit further ahead.
 

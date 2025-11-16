@@ -1,5 +1,5 @@
 ---
-tags:
+Tags:
   - core_crisis
   - eastside
   - city_council
@@ -10,13 +10,13 @@ tags:
   - fac
   - discorps
   - aurum_secretum
-short:
-arc:
+Short:
+Arc:
   - "[[Precarious Polis]]"
-type: Main Story
+Category: Main Story
 N.F.: 114
-month: 11
-day: 26
-state: created
-content: chapter
+Month: 11
+Day: 26
+State: created
+Content: chapter
 ---

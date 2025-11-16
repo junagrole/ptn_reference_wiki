@@ -36,7 +36,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 131
-      note.day: 81
+      note.Day: 81
       note.type: 82
   - type: table
     name: Details
@@ -61,7 +61,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 175
-      note.day: 81
+      note.Day: 81
       note.type: 87
       file.ctime: 166
       file.mtime: 169

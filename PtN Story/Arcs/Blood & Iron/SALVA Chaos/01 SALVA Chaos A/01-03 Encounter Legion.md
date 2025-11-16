@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - legion
-pov:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous: "[[01-02 Assassination]]"
-next: "[[01-04 Encounter Salva]]"
-state: review
-content: stage
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-02 Assassination]]"
+Next: "[[01-04 Encounter Salva]]"
+State: review
+Content: stage
 ---
 In the local security precinct [[Ted]] tries to contact the [[Public Security Bureau]]. You have little time since an organisation of Sinners operating in [[Syndicate]] will soon catch wind of your presence. According to Ted, [[Subject R]] found refuge with one such organisation: [[SALVA Hospital]]. Before you can make plans a heavy tank arrives reducing the building to rubble. The enemy force it led by a powerful Sinner and with the precinct already fallen you have no choice but to retreat.
 

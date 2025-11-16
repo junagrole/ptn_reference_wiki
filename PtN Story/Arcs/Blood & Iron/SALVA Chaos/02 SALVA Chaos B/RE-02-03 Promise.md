@@ -1,15 +1,15 @@
 ---
-tags:
-short:
-pov:
+Tags:
+Short:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous:
+Chapter: "[[SALVA Chaos]]"
+Previous:
   - "[[02-03 Mania and the Doctor]]"
-next:
+Next:
   - "[[02-04 The Second Round]]"
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 Back up in the ward the [[Gray-haired Girl]] is having a mania flare up, opening her wounds again and causing her great pain. [[Anne]] does her best to calm her down, while [[Dr. Iron]] treats her.
 

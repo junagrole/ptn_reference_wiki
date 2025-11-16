@@ -1,11 +1,11 @@
 ---
-tags:
-short:
-character:
-type:
-arc:
-state: created
-content: interrogation
+Tags:
+Short:
+Character:
+Category:
+Arc:
+State: created
+Content: interrogation
 ---
 ## Part 1
 

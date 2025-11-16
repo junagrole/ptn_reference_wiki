@@ -1,5 +1,5 @@
 ---
-tags:
+Tags:
   - west_district
   - black_ring
   - salva
@@ -10,8 +10,8 @@ starting: N.F. 112/08
 ending: N.F. 112/10
 years:
   - "112"
-state: created
-content: arc
+State: created
+Content: arc
 ---
 ## Summary
 

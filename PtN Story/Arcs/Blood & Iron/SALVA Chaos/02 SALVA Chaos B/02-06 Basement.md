@@ -1,15 +1,15 @@
 ---
-tags:
-short:
-pov:
+Tags:
+Short:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous:
+Chapter: "[[SALVA Chaos]]"
+Previous:
   - "[[02-05 Ted]]"
-next:
+Next:
   - "[[02-07 Into the Contamination]]"
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 The gang members successfully delay your for close to 22 minutes, giving [[Ted]] a massive lead in the race to find [[Subject R]].
 

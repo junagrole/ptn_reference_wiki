@@ -1,14 +1,14 @@
 ---
-tags:
+Tags:
   - sinner/a_class
   - fac
   - rust
   - mbcc
-short: Only survivor of the Undertakers, still hunts Corruptors in the Rust
-sinner: true
-gender: Female
+Short: Only survivor of the Undertakers, still hunts Corruptors in the Rust
+Sinner: true
+Gender: Female
 birthplace: "[[Rust]]"
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

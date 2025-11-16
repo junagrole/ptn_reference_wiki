@@ -1,15 +1,15 @@
 ---
-tags:
+Tags:
   - paradeisos
   - edge
   - scientist
   - sinner
   - hush
-short: Senior EDGE scientist, specialises in Sinners and human modifications
-sinner: false
-gender: Female
+Short: Senior EDGE scientist, specialises in Sinners and human modifications
+Sinner: false
+Gender: Female
 birthplace:
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

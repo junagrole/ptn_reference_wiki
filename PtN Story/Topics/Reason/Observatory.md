@@ -1,9 +1,9 @@
 ---
-tags:
+Tags:
   - paradeisos
   - metaphysics/reason
   - metaphysics/black_ring
-state: created
-content: topic
+State: created
+Content: topic
 ---
 Used to observe [[Deep Mania]]

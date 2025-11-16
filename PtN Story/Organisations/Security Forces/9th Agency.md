@@ -1,9 +1,9 @@
 ---
-tags:
+Tags:
   - paradeisos/supervision
   - discity/agency
   - discity/politics
   - expertise/investigation
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

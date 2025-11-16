@@ -1,11 +1,11 @@
 ---
-tags:
+Tags:
   - mbcc
-short: Chief's loyal adjutant, even before Chief lost their memories
-sinner: false
-gender: Female
+Short: Chief's loyal adjutant, even before Chief lost their memories
+Sinner: false
+Gender: Female
 birthplace: "[[DisCity]]"
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

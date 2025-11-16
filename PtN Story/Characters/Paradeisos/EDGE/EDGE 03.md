@@ -1,12 +1,12 @@
 ---
-tags:
+Tags:
   - paradeisos
   - edge
-short: EDGE member, it's unknown what he does
-sinner: false
-gender: Male
+Short: EDGE member, it's unknown what he does
+Sinner: false
+Gender: Male
 birthplace:
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

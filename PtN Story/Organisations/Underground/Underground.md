@@ -1,8 +1,8 @@
 ---
-tags:
+Tags:
   - underground
   - expertise/mania
   - meta/antagonist
-state: created
-content: organisation
+State: created
+Content: organisation
 ---

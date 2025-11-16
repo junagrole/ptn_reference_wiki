@@ -1,7 +1,7 @@
 ---
-tags:
-short:
-type:
-state: created
-content: organisation
+Tags:
+Short:
+Category:
+State: created
+Content: organisation
 ---

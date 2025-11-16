@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - fac
   - paradeisos
   - edge
-short: Liaison to the FAC for EDGE
-sinner: false
-gender:
+Short: Liaison to the FAC for EDGE
+Sinner: false
+Gender:
 birthplace:
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

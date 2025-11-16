@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - core_crisis
   - dissea
   - paradeisos
-short: Seeking out answers in the DisSea Chief gets trapped in a temporal anomaly with Vanilla. Vanialla, who realises she's just bait, and Schorl return Chief to the present
-arc:
+Short: Seeking out answers in the DisSea Chief gets trapped in a temporal anomaly with Vanilla. Vanialla, who realises she's just bait, and Schorl return Chief to the present
+Arc:
   - "[[Precarious Polis]]"
   - "[[Eternal Nightmare]]"
-type: Eternal Nightmare
+Category: Eternal Nightmare
 N.F.: 114
-month: 1
-day: 9
-state: created
-content: chapter
+Month: 1
+Day: 9
+State: created
+Content: chapter
 ---

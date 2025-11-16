@@ -1,6 +1,6 @@
 ---
-tags:
+Tags:
   - technology/medical
-state: created
-content: topic
+State: created
+Content: topic
 ---

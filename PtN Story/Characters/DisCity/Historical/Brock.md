@@ -1,12 +1,12 @@
 ---
-tags:
+Tags:
   - independence_war
   - military
-short: White Sands Guerrillas founder, instigator of the independence movement
-sinner: false
-gender: Male
+Short: White Sands Guerrillas founder, instigator of the independence movement
+Sinner: false
+Gender: Male
 birthplace: "[[DisCity]]"
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

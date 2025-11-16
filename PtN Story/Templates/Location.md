@@ -1,9 +1,9 @@
 ---
-tags:
-short:
+Tags:
+Short:
 region:
 district:
-type:
-state: created
-content: location
+Category:
+State: created
+Content: location
 ---

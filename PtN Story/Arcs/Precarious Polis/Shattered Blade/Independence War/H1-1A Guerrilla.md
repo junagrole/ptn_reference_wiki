@@ -1,9 +1,9 @@
 ---
-tags:
-pov:
-chapter: "[[Shattered Blade]]"
-previous:
-next:
-state: created
-content: stage
+Tags:
+Pov:
+Chapter: "[[Shattered Blade]]"
+Previous:
+Next:
+State: created
+Content: stage
 ---

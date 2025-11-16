@@ -1,10 +1,10 @@
 ---
-tags:
+Tags:
   - discity
-short: Smaller settlements surrounding DisCity, under the cities jurisdiction
+Short: Smaller settlements surrounding DisCity, under the cities jurisdiction
 region: "[[White Sands]]"
 district:
-type: District
-state: created
-content: location
+Category: District
+State: created
+Content: location
 ---

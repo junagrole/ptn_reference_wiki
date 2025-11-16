@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - city_council
   - politics
   - paradeisos
   - edge
 aliases:
   - Bernadette Cavendish
-short: Former speaker candidate, now supervises the city council for EDGE
-sinner: false
-gender: Female
+Short: Former speaker candidate, now supervises the city council for EDGE
+Sinner: false
+Gender: Female
 birthplace: "[[Eastside]]"
-storyrole: supporting
-state: created
-content: character
+Storyrole: supporting
+State: created
+Content: character
 ---

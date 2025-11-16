@@ -1,14 +1,14 @@
 ---
-tags:
-chapter: "[[SALVA Chaos]]"
-previous:
+Tags:
+Chapter: "[[SALVA Chaos]]"
+Previous:
   - "[[02-01 Test]]"
-next:
+Next:
   - "[[02-03 Mania and the Doctor]]"
-pov:
+Pov:
   - Chief
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 With things calming down again [[Dr. Iron]] and [[Anne]] measure the [[M-Value]] of our two Sinners. To their astonishment they are already returning to normal levels, even after the fight.
 Before they can delve deeper into the implications and the nature of the [[Shackles]] an emergency in the isolation ward forces Iron bring everyone along.

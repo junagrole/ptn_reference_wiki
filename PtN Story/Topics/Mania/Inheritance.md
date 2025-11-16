@@ -1,8 +1,8 @@
 ---
-tags:
+Tags:
   - metaphysics/mania
   - metaphysics/corpus
-state: created
-content: topic
+State: created
+Content: topic
 ---
 A crystal containing a [[Corpus]].

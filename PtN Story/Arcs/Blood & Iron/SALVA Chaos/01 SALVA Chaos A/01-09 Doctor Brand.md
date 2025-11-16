@@ -1,12 +1,12 @@
 ---
-tags:
-pov:
+Tags:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous: "[[01-08 The Battle of SALVA]]"
-next: "[[RE-01-09 Reunited at SALVA]]"
-state: complete
-content: stage
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-08 The Battle of SALVA]]"
+Next: "[[RE-01-09 Reunited at SALVA]]"
+State: complete
+Content: stage
 ---
 Facing [[Dr. Brand]] again [[Ted]] promptly shoots the doctor before anyone could stop him. But the bullet is stopped by a black smoke. [[Hecate]] warns you that his power is much stronger than a regular [[Maniacs]].
 

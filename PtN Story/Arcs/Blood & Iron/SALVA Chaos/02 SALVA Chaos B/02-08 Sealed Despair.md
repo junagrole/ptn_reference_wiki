@@ -1,15 +1,15 @@
 ---
-tags:
-short:
-pov:
+Tags:
+Short:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous:
+Chapter: "[[SALVA Chaos]]"
+Previous:
   - "[[02-07 Into the Contamination]]"
-next:
+Next:
   - "[[02-09 Dog]]"
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 The [[SALVA Hospital|basement]] is unexpectedly empty, with only a desk and a journal in the wide empty room. The isolation wards must be separated further in.
 

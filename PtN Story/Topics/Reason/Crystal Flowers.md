@@ -1,7 +1,7 @@
 ---
-tags:
+Tags:
   - metaphysics/reason
   - meta/mystery
-state: created
-content: topic
+State: created
+Content: topic
 ---

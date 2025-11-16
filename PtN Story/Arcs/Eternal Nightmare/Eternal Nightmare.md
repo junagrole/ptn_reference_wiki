@@ -1,11 +1,11 @@
 ---
-tags:
+Tags:
   - dissea
   - expedition
-short:
+Short:
 N.F.: 113
-month: 4
-day: 20
-state: created
-content: arc
+Month: 4
+Day: 20
+State: created
+Content: arc
 ---

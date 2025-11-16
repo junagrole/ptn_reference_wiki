@@ -1,12 +1,12 @@
 ---
-tags:
+Tags:
   - discity
   - city_council
   - politics
-short:
+Short:
 N.F.: 115
-month: 7
-day: 27
-state: created
-content: incident
+Month: 7
+Day: 27
+State: created
+Content: incident
 ---

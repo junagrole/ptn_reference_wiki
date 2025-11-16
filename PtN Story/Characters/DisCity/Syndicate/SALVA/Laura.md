@@ -1,15 +1,15 @@
 ---
-tags:
+Tags:
   - deceased
   - salva
   - medical
-short: SALVA Nurse, tortured by Ted and ultimately died
-sinner: false
-gender: Female
+Short: SALVA Nurse, tortured by Ted and ultimately died
+Sinner: false
+Gender: Female
 birthplace:
-storyrole: background
-state: complete
-content: character
+Storyrole: background
+State: complete
+Content: character
 ---
 A nurse working at [[SALVA Hospital]]. She got injured when [[Ted]] and the MBCC team fought with her medical team. Ted shoots her several times while she is lying on the ground to gather intelligence from [[Dr. Brand]].
 

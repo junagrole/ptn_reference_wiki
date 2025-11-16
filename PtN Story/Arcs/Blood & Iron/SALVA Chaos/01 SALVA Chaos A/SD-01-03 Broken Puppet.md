@@ -1,12 +1,12 @@
 ---
-tags:
-pov:
+Tags:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous: "[[01-07 Hyenas on the Scent]]"
-next:
-state: complete
-content: stage
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-07 Hyenas on the Scent]]"
+Next:
+State: complete
+Content: stage
 ---
 During the battle against the manic gangsters you three need a break. With [[Hella]] reluctantly holding the line, [[Hecate]] unceremoniously tosses you into a dumpster and rejoins Hella in the fight.
 

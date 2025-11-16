@@ -1,10 +1,10 @@
 ---
-tags:
-short:
-pov:
-chapter:
-previous:
-next:
-state: created
-content: stage
+Tags:
+Short:
+Pov:
+Chapter:
+Previous:
+Next:
+State: created
+Content: stage
 ---

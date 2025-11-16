@@ -1,9 +1,9 @@
 ---
-tags:
+Tags:
   - metaphysics/mania
   - meta/antagonist
-state: complete
-content: creature
+State: complete
+Content: creature
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-tags:
+Tags:
   - discity
   - independence_war
-short: The DisCity army openly rebels against the Metropoles
+Short: The DisCity army openly rebels against the Metropoles
 N.F.: 66
-month: 8
-day: 27
-state: created
-content: incident
+Month: 8
+Day: 27
+State: created
+Content: incident
 ---

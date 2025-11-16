@@ -1,11 +1,11 @@
 ---
-tags:
+Tags:
   - deceased
-short: Abused by Ted, she was turned into a weapon. Chief was unable to save her.
-sinner: true
-gender: Female
+Short: Abused by Ted, she was turned into a weapon. Chief was unable to save her.
+Sinner: true
+Gender: Female
 birthplace: "[[Syndicate]]"
-storyrole: antagonist
-state: created
-content: character
+Storyrole: antagonist
+State: created
+Content: character
 ---

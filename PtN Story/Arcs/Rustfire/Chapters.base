@@ -38,7 +38,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 169
-      note.day: 73
+      note.Day: 73
       note.type: 112
   - type: table
     name: Details

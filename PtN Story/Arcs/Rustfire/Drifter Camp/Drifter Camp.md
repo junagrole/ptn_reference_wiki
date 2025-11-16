@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - core_crisis
   - inner_bay
-short:
-arc: "[[Rustfire]]"
-type: Main Story
+Short:
+Arc: "[[Rustfire]]"
+Category: Main Story
 N.F.: 113
-month: 3
-day: 14
-state: created
-content: chapter
+Month: 3
+Day: 14
+State: created
+Content: chapter
 ---

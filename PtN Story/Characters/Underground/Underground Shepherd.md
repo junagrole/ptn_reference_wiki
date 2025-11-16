@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - shepherd
   - underground
 aliases:
   - Big Sis
-short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
-sinner: false
-gender: Female
+Short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
+Sinner: false
+Gender: Female
 birthplace:
-storyrole: antagonist
-content: character
-state: created
+Storyrole: antagonist
+Content: character
+State: created
 ---
 
 

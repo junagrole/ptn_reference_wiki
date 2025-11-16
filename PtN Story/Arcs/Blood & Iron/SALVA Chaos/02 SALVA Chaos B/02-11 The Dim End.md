@@ -1,15 +1,15 @@
 ---
-tags:
-short:
-pov:
+Tags:
+Short:
+Pov:
   - Chief
-chapter: "[[SALVA Chaos]]"
-previous:
+Chapter: "[[SALVA Chaos]]"
+Previous:
   - "[[02-10 Patient and Nurse]]"
-next:
+Next:
   - "[[02-12 Salva Chaos]]"
-state: complete
-content: stage
+State: complete
+Content: stage
 ---
 The [[Gray-haired Girl]] begs [[Anne]] to tell her the truth, is she beyond saving? But actually saying it is too much for Anne and you get a choice.
 

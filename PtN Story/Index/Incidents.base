@@ -37,8 +37,8 @@ views:
       - property: day
         direction: ASC
     columnSize:
-      note.month: 133
-      note.day: 79
+      note.Month: 133
+      note.Day: 79
   - type: table
     name: Black Rings
     filters:
@@ -58,5 +58,5 @@ views:
       - property: day
         direction: ASC
     columnSize:
-      note.month: 133
-      note.day: 79
+      note.Month: 133
+      note.Day: 79

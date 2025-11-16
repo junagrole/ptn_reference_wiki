@@ -1,16 +1,16 @@
 ---
-tags:
+Tags:
   - sinner/b_class
   - underground
   - whitestone
   - drifter_camp
   - driver
   - mbcc
-short: Whitestone member, defected from the underground
-sinner: true
-gender: Male
+Short: Whitestone member, defected from the underground
+Sinner: true
+Gender: Male
 birthplace: "[[Syndicate]]"
-storyrole: background
-state: created
-content: character
+Storyrole: background
+State: created
+Content: character
 ---

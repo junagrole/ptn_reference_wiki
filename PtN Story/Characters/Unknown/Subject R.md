@@ -1,12 +1,12 @@
 ---
-tags:
+Tags:
   - mystery
   - missing
-short: A mysterious shapeshifter and summoner that attacked the MBCC before vanishing without a trace
-sinner: true
-gender: Female
+Short: A mysterious shapeshifter and summoner that attacked the MBCC before vanishing without a trace
+Sinner: true
+Gender: Female
 birthplace:
-storyrole: antagonist
-state: created
-content: character
+Storyrole: antagonist
+State: created
+Content: character
 ---

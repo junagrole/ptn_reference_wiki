@@ -1,10 +1,10 @@
 ---
-tags:
+Tags:
   - independence_war
-short:
+Short:
 N.F.: 66
-month: 7
-day: 22
-state: created
-content: incident
+Month: 7
+Day: 22
+State: created
+Content: incident
 ---

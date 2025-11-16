@@ -10,7 +10,7 @@ views:
       - tags
       - short
     columnSize:
-      note.pov: 140
+      note.Pov: 140
   - type: table
     name: PoV
     groupBy:
@@ -26,7 +26,7 @@ views:
       - previous
       - next
     columnSize:
-      note.previous: 353
+      note.Previous: 353
   - type: table
     name: Meta Infos
     groupBy:

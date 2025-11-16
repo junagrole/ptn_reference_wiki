@@ -1,7 +1,7 @@
 ---
-tags:
+Tags:
   - metaphysics/mania
   - metaphysics/black_ring
-state: created
-content: topic
+State: created
+Content: topic
 ---

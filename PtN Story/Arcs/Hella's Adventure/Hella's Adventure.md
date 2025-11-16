@@ -1,5 +1,5 @@
 ---
-tags:
+Tags:
   - white_sands
   - farlands
   - aurum_secretum
@@ -7,10 +7,10 @@ tags:
   - black_ring
   - legion
   - campbell
-short: To grow stronger and more independent Hella joins a legion convoy, meeting new friends and challenges. Her journey gets abruptly ended by BR005
+Short: To grow stronger and more independent Hella joins a legion convoy, meeting new friends and challenges. Her journey gets abruptly ended by BR005
 N.F.: 114
-month:
-day:
-state: created
-content: arc
+Month:
+Day:
+State: created
+Content: arc
 ---

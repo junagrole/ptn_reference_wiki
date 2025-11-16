@@ -1,12 +1,12 @@
 ---
-tags:
-chapter: "[[Prologue]]"
-next: "[[00-04 Beginning]]"
-previous: "[[00-02 Shadow]]"
-pov:
+Tags:
+Chapter: "[[Prologue]]"
+Next: "[[00-04 Beginning]]"
+Previous: "[[00-02 Shadow]]"
+Pov:
   - Chief
-state: review
-content: stage
+State: review
+Content: stage
 ---
 You find yourself back in the flower field, whispering to someone:
 >[!cite] Chief?

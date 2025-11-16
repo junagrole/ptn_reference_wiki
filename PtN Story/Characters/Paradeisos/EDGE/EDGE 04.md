@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - paradeisos
   - edge
   - nirvana
-short: Recommended by Nirvana to the EDGE council
-sinner: false
-gender: Male
+Short: Recommended by Nirvana to the EDGE council
+Sinner: false
+Gender: Male
 birthplace:
-storyrole: background
-content: character
-state: created
+Storyrole: background
+Content: character
+State: created
 ---

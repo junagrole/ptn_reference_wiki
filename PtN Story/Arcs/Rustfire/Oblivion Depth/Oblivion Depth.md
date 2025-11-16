@@ -1,15 +1,15 @@
 ---
-tags:
+Tags:
   - core_crisis
   - inner_bay
   - hush
   - nirvana
-short:
-arc: "[[Rustfire]]"
-type: Main Story
+Short:
+Arc: "[[Rustfire]]"
+Category: Main Story
 N.F.: 113
-month: 3
-day: 18
-state: created
-content: chapter
+Month: 3
+Day: 18
+State: created
+Content: chapter
 ---

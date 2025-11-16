@@ -20,8 +20,8 @@ views:
       - property: day
         direction: ASC
     columnSize:
-      note.month: 99
-      note.day: 71
+      note.Month: 99
+      note.Day: 71
       note.type: 145
   - type: table
     name: Core Crisis

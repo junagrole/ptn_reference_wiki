@@ -1,6 +1,6 @@
 ---
-tags:
-short:
-state: created
-content: topic
+Tags:
+Short:
+State: created
+Content: topic
 ---

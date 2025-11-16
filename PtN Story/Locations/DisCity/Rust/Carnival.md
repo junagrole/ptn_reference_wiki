@@ -1,13 +1,13 @@
 ---
-tags:
+Tags:
   - destroyed
   - black_ring
   - rust
-short: Build to celebrate the recovery from the DisSea explosion it's opening festivities became the ground zero for BR001
+Short: Build to celebrate the recovery from the DisSea explosion it's opening festivities became the ground zero for BR001
 region: "[[DisCity]]"
 district: "[[Rust]]"
-type: Facility
-state: created
-content: location
+Category: Facility
+State: created
+Content: location
 ---
 The ground zero of [[BR001]].
