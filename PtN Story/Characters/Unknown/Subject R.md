@@ -8,5 +8,6 @@ Gender: Female
 birthplace:
 Storyrole: Antagonist
 State: Created
-Content: character
+Content: Character
+Affiliation: Unknown
 ---

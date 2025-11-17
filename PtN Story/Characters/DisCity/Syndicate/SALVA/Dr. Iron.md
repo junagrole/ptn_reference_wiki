@@ -10,7 +10,8 @@ Gender: Female
 birthplace: "[[Eastside]]"
 Storyrole: Antagonist
 State: Stub
-Content: character
+Content: Character
+Affiliation: SALVA
 ---
 >[!info] Background
 >Born into a prestigious medical family in [[Eastside]], Iron graduates from [[Banyan Medical College]] as a neurosurgeon. She refused all offers and went to treat [[Mania]] in [[Syndicate]].  

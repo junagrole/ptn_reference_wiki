@@ -12,5 +12,6 @@ Gender: Male
 birthplace: "[[Syndicate]]"
 Storyrole: Background
 State: Created
-Content: character
+Content: Character
+Affiliation: Whitestone
 ---

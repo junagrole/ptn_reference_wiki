@@ -7,5 +7,6 @@ Gender: Female
 birthplace: "[[Syndicate]]"
 Storyrole: Antagonist
 State: Created
-Content: character
+Content: Character
+Affiliation: SALVA
 ---

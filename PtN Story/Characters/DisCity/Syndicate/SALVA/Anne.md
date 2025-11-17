@@ -9,6 +9,7 @@ Gender: Female
 birthplace: "[[Syndicate]]"
 Storyrole: Background
 State: Created
-Content: character
+Content: Character
+Affiliation: SALVA
 ---
 The head nurse at [[SALVA Hospital]].

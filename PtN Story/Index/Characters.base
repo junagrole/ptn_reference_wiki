@@ -84,3 +84,6 @@ views:
       - Content
       - State
       - Storyrole
+    columnSize:
+      note.Content: 138
+      note.State: 223

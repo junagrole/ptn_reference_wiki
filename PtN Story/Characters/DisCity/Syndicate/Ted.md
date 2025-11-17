@@ -8,7 +8,8 @@ Gender: Male
 birthplace: "[[Syndicate]]"
 Storyrole: Antagonist
 State: Review
-Content: character
+Content: Character
+Affiliation: Gang
 ---
 ## Background
 Leader of a small gang in [[Syndicate]]. Is quite well recognised by other gangs, but not respected. 

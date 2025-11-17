@@ -1,0 +1,15 @@
+filters:
+  and:
+    - Content == "Character"
+    - Storyrole == "Background"
+views:
+  - type: table
+    name: Overview
+    groupBy:
+      property: Affiliation
+      direction: ASC
+    order:
+      - file.name
+      - Gender
+      - sinner
+      - Short

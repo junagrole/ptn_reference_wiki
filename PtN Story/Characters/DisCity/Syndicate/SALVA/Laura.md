@@ -9,7 +9,8 @@ Gender: Female
 birthplace:
 Storyrole: Background
 State: Complete
-Content: character
+Content: Character
+Affiliation: SALVA
 ---
 A nurse working at [[SALVA Hospital]]. She got injured when [[Ted]] and the MBCC team fought with her medical team. Ted shoots her several times while she is lying on the ground to gather intelligence from [[Dr. Brand]].
 
