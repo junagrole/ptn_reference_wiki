@@ -8,4 +8,6 @@ Month: 6
 Day: 13
 State: created
 Content: incident
+Category: Attack
+Minor: false
 ---

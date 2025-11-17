@@ -11,4 +11,6 @@ Month: 8
 Day: 5
 State: created
 Content: incident
+Category: Calamity
+Minor: false
 ---

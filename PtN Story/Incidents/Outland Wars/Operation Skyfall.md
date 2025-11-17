@@ -7,4 +7,6 @@ Month: 10
 Day: 7
 State: created
 Content: incident
+Category: Operation
+Minor: false
 ---

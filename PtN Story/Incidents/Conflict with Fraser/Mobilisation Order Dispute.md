@@ -9,4 +9,6 @@ Month: 7
 Day: 27
 State: created
 Content: incident
+Category: Politics
+Minor: true
 ---

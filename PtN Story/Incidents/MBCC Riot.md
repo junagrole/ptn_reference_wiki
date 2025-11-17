@@ -7,4 +7,6 @@ Month: 8
 Day: 12
 State: created
 Content: incident
+Category: Attack
+Minor: false
 ---

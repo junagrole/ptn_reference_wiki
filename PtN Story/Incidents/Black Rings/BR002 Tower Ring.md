@@ -9,5 +9,7 @@ Month: 3
 Day:
 State: created
 Content: incident
+Category: Black Ring
+Minor: false
 ---
 Second time [[BR002]] broke out.

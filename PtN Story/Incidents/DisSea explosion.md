@@ -9,6 +9,8 @@ Month: 12
 Day: 22
 State: created
 Content: incident
+Category: Black Ring
+Minor: false
 ---
 In N.F. 84.12.22 an explosion occurred in the [[DisSea]] region. Spreading [[Mania]] across the city. The initial explosion resulted in at least 97,231 [[Maniacs]].
 

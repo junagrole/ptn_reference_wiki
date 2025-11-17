@@ -10,4 +10,6 @@ Month:
 Day:
 State: created
 Content: incident
+Category: Politics
+Minor: false
 ---

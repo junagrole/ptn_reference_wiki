@@ -7,6 +7,8 @@ views:
     name: All Incidents
     order:
       - file.name
+      - Category
+      - Minor
       - N.F.
       - month
       - day
