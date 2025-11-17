@@ -4,13 +4,13 @@ Tags:
   - mystery
   - dissea
 Short: An explosion in the DisSea contaminates much of the city and reveals BR000
+Minor: false
+Kind: Black Ring
 N.F.: 84
 Month: 12
 Day: 22
-State: created
+State: Created
 Content: Incident
-Category: Black Ring
-Minor: false
 ---
 In N.F. 84.12.22 an explosion occurred in the [[DisSea]] region. Spreading [[Mania]] across the city. The initial explosion resulted in at least 97,231 [[Maniacs]].
 

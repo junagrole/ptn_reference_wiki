@@ -14,13 +14,18 @@ views:
       - file.name
       - month
       - day
-      - Category
+      - Kind
       - Short
     sort:
       - property: month
         direction: ASC
       - property: day
         direction: ASC
+    columnSize:
+      file.name: 118
+      note.month: 107
+      note.day: 88
+      note.Kind: 104
   - type: table
     name: Only Major Incidents
     filters:
@@ -33,7 +38,7 @@ views:
       - file.name
       - month
       - day
-      - Category
+      - Kind
       - Short
     sort:
       - property: month
@@ -52,7 +57,7 @@ views:
       - file.name
       - month
       - day
-      - Category
+      - Kind
       - Short
     sort:
       - property: month

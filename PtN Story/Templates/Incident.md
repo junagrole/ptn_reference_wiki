@@ -2,7 +2,7 @@
 Tags:
 Short:
 Minor: false
-Category:
+Kind:
 N.F.:
 Month:
 Day:
