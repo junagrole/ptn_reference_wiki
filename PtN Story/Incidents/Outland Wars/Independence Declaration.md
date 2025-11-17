@@ -7,7 +7,7 @@ N.F.: 72
 Month: 12
 Day: 26
 State: created
-Content: incident
+Content: Incident
 Category: Politics
 Minor: false
 ---

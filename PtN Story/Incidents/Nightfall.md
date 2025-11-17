@@ -7,7 +7,7 @@ N.F.: 1
 Month: 12
 Day: 12
 State: created
-Content: incident
+Content: Incident
 Category: Calamity
 Minor: false
 ---

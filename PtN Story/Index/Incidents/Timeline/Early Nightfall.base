@@ -1,0 +1,61 @@
+filters:
+  and:
+    - '!file.inFolder("Templates")'
+    - Content == "Incident"
+    - note["N.F."] >= 1
+    - note["N.F."] <= 25
+views:
+  - type: table
+    name: All Incidents
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - month
+      - day
+      - Category
+      - Short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+  - type: table
+    name: Only Major Incidents
+    filters:
+      and:
+        - Minor == false
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - month
+      - day
+      - Category
+      - Short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+  - type: table
+    name: Only Minor Incidents
+    filters:
+      and:
+        - Minor == true
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - month
+      - day
+      - Category
+      - Short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
