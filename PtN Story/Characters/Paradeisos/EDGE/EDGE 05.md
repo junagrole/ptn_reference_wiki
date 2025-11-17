@@ -10,7 +10,8 @@ Short: Former speaker candidate, now supervises the city council for EDGE
 Sinner: false
 Gender: Female
 birthplace: "[[Eastside]]"
-Storyrole: supporting
-State: created
-Content: character
+Storyrole: Supporting
+State: Created
+Content: Character
+Affiliation: "[[EDGE]]"
 ---

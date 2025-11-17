@@ -9,8 +9,9 @@ Short: Leader of the Legion and hero of Syndicate
 Sinner: true
 Gender: Female
 birthplace: "[[Syndicate]]"
-Storyrole: protagonist
-State: created
-Content: character
+Storyrole: Protagonist
+State: Created
+Content: Character
+Affiliation: "[[The Legion]]"
 ---
 The leader of [[The Legion]], a powerful [[Sinner]] trying to solve [[Syndicate|Syndicate's]] situation with violence.

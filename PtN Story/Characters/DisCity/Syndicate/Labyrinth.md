@@ -7,7 +7,8 @@ Short: Full cyborg maid
 Sinner: true
 Gender: Female
 birthplace:
-Storyrole: background
-State: created
-Content: character
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 ---

@@ -1,7 +1,9 @@
 ---
 Tags:
+  - discity
+  - discorps
 Short:
-Category:
+Category: Military
 State: Created
 Content: Organisation
 ---

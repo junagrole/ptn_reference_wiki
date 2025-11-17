@@ -4,6 +4,6 @@ Short:
 N.F.:
 Month:
 Day:
-State: created
-Content: arc
+State: Created
+Content: Arc
 ---

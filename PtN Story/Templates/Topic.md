@@ -1,6 +1,6 @@
 ---
 Tags:
 Short:
-State: created
-Content: topic
+State: Created
+Content: Topic
 ---

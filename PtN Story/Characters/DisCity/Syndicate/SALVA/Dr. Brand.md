@@ -8,8 +8,8 @@ Short: SALVA doctor, turned into a Corruptor
 Sinner: false
 Gender: Male
 birthplace:
-Storyrole: background
-State: complete
+Storyrole: Background
+State: Complete
 Content: character
 ---
 A doctor at [[SALVA Hospital]]. In N.F. 112 he led an ambulance into [[Syndicate]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[Organisations/Security Forces/MBCC]] squad searching for [[Subject R]]. 

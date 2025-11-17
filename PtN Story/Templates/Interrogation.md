@@ -4,8 +4,8 @@ Short:
 Character:
 Category:
 Arc:
-State: created
-Content: interrogation
+State: Created
+Content: Interrogation
 ---
 ## Part 1
 

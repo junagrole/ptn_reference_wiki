@@ -4,6 +4,6 @@ Short:
 N.F.:
 Month:
 Day:
-State: created
-Content: incident
+State: Created
+Content: Incident
 ---

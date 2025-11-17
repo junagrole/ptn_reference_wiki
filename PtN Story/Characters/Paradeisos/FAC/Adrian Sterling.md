@@ -10,9 +10,10 @@ Short: Stoic battle hardened leader of the FAC, independence war hero
 Sinner: false
 Gender: Male
 birthplace:
-Storyrole: supporting
-State: created
-Content: character
+Storyrole: Supporting
+State: Created
+Content: Character
+Affiliation: "[[FAC]]"
 ---
 The commanding officer of the [[FAC]]. Took over the post from the previous commander after the [[Eclipse Operation]].
 

@@ -12,8 +12,8 @@ views:
       - file.name
       - month
       - day
-      - type
-      - short
+      - Category
+      - Short
     sort:
       - property: month
         direction: ASC

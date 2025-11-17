@@ -12,7 +12,8 @@ Short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
 Sinner: false
 Gender: Female
 birthplace:
-Storyrole: protagonist
-State: created
-Content: character
+Storyrole: Protagonist
+State: Created
+Content: Character
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 ---

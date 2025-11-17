@@ -7,7 +7,8 @@ Short: Recommended by Nirvana to the EDGE council
 Sinner: false
 Gender: Male
 birthplace:
-Storyrole: background
-Content: character
-State: created
+Storyrole: Background
+Content: Character
+State: Created
+Affiliation: "[[EDGE]]"
 ---

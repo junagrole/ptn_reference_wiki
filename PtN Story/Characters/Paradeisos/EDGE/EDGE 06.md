@@ -7,7 +7,8 @@ Short: Liaison to the FAC for EDGE
 Sinner: false
 Gender:
 birthplace:
-Storyrole: background
-State: created
-Content: character
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[EDGE]]"
 ---

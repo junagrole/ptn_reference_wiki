@@ -11,7 +11,8 @@ Short: Chief's adopted daughter, has a foul mouth, heroic scam artist with a big
 Sinner: true
 Gender: Female
 birthplace: "[[Syndicate]]"
-Storyrole: protagonist
-State: created
-Content: character
+Storyrole: Protagonist
+State: Created
+Content: Character
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 ---

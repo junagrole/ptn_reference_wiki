@@ -8,7 +8,7 @@ Short: Only hard working member of Whitestone, in the dark about her partners pa
 Sinner: true
 Gender: Female
 birthplace: "[[Syndicate]]"
-Storyrole: background
-State: created
+Storyrole: Background
+State: Created
 Content: character
 ---

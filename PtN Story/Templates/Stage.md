@@ -5,6 +5,6 @@ Pov:
 Chapter:
 Previous:
 Next:
-State: created
-Content: stage
+State: Created
+Content: Stage
 ---

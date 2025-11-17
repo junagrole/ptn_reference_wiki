@@ -7,7 +7,8 @@ Short: Overprotective of Chief, she slowly explores her emotions and befriends H
 Sinner: true
 Gender: Female
 birthplace:
-Storyrole: protagonist
-State: created
-Content: character
+Storyrole: Protagonist
+State: Created
+Content: Character
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 ---

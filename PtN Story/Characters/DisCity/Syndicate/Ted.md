@@ -6,8 +6,8 @@ Short: Total scumbag, hates Sinners, might work with the underground, lobotomise
 Sinner: false
 Gender: Male
 birthplace: "[[Syndicate]]"
-Storyrole: antagonist
-State: review
+Storyrole: Antagonist
+State: Review
 Content: character
 ---
 ## Background

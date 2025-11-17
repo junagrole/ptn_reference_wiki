@@ -8,7 +8,6 @@ views:
     order:
       - file.name
       - sinner
-      - birthplace
       - gender
       - short
   - type: table
@@ -77,3 +76,11 @@ views:
     filters:
       and:
         - gender == "Male"
+  - type: table
+    name: Maintenance
+    order:
+      - file.name
+      - Affiliation
+      - Content
+      - State
+      - Storyrole

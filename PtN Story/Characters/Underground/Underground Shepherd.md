@@ -8,9 +8,10 @@ Short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Sh
 Sinner: false
 Gender: Female
 birthplace:
-Storyrole: antagonist
-Content: character
-State: created
+Storyrole: Antagonist
+Content: Character
+State: Created
+Affiliation: "[[Underground]]"
 ---
 
 

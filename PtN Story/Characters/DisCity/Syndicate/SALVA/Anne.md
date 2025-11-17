@@ -7,8 +7,8 @@ Short: A nurse driven by guilt, works at SALVA
 Sinner: true
 Gender: Female
 birthplace: "[[Syndicate]]"
-Storyrole: background
-State: created
+Storyrole: Background
+State: Created
 Content: character
 ---
 The head nurse at [[SALVA Hospital]].

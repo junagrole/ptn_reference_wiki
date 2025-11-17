@@ -8,7 +8,8 @@ Short: Represents the Ring Research Institute at EDGE
 Sinner: false
 Gender:
 birthplace:
-Storyrole: background
-State: created
-Content: character
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[EDGE]]"
 ---

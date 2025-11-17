@@ -8,7 +8,8 @@ Short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the 
 Sinner: false
 Gender: Female
 birthplace:
-Storyrole: background
-State: created
-Content: character
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[EDGE]]"
 ---
