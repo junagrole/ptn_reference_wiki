@@ -2,6 +2,6 @@
 Tags:
   - metaphysics/reason
   - metaphysics/black_ring
-State: created
+State: Created
 Content: topic
 ---

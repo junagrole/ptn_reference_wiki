@@ -11,6 +11,6 @@ Short: To grow stronger and more independent Hella joins a legion convoy, meetin
 N.F.: 114
 Month:
 Day:
-State: created
+State: Created
 Content: arc
 ---

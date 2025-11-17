@@ -2,6 +2,6 @@
 Tags:
   - metaphysics/mania
   - metaphysics/black_ring
-State: created
+State: Created
 Content: topic
 ---

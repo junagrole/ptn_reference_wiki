@@ -2,5 +2,5 @@
 Tags:
   - metaphysics/mania
 Content: topic
-State: created
+State: Created
 ---

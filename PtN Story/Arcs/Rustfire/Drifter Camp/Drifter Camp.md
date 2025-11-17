@@ -8,6 +8,6 @@ Category: Main Story
 N.F.: 113
 Month: 3
 Day: 14
-State: created
+State: Created
 Content: chapter
 ---

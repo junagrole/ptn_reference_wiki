@@ -3,6 +3,6 @@ Tags:
   - discity/city_council
   - discity/politics
   - expertise/politics
-State: created
+State: Created
 Content: organisation
 ---

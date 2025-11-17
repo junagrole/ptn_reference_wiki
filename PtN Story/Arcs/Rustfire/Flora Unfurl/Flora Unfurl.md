@@ -12,6 +12,6 @@ Category: Main Event
 N.F.: 113
 Month: 7
 Day: 8
-State: created
+State: Created
 Content: chapter
 ---

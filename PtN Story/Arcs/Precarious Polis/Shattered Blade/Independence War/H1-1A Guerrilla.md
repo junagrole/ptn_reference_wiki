@@ -4,6 +4,6 @@ Pov:
 Chapter: "[[Shattered Blade]]"
 Previous:
 Next:
-State: created
+State: Created
 Content: stage
 ---

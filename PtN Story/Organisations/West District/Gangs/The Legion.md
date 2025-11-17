@@ -3,5 +3,5 @@ Tags:
   - west_district/legion
   - west_district/gang
 Content: organisation
-State: created
+State: Created
 ---

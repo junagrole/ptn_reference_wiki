@@ -4,6 +4,6 @@ Tags:
   - discity/agency
   - discity/politics
   - expertise/investigation
-State: created
+State: Created
 Content: organisation
 ---
