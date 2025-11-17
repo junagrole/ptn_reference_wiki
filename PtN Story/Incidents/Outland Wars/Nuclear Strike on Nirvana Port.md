@@ -3,7 +3,7 @@ Tags:
   - discity
   - independence_war
 Short: The Metropoles destroy Nirvana Part with a tactical nuclear warhead
-Minor: false
+Major: true
 Kind: Attack
 N.F.: 66
 Month: 6

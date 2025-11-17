@@ -4,7 +4,7 @@ Tags:
   - mystery
   - dissea
 Short: An explosion in the DisSea contaminates much of the city and reveals BR000
-Minor: false
+Major: true
 Kind: Black Ring
 N.F.: 84
 Month: 12

@@ -4,7 +4,7 @@ Tags:
   - discity
   - fac
 Short:
-Minor: true
+Major: false
 Kind: Politics
 N.F.: 115
 Month: 8

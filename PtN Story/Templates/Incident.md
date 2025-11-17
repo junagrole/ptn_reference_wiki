@@ -1,7 +1,7 @@
 ---
 Tags:
 Short:
-Minor: false
+Major: true
 Kind:
 N.F.:
 Month:

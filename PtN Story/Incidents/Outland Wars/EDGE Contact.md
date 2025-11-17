@@ -3,7 +3,7 @@ Tags:
   - independence_war
   - edge
 Short: The guerrillas secure covert assistance from EDGE scientists Helena and the later EDGE01
-Minor: true
+Major: false
 Kind: Personal
 N.F.: 64
 Month: 3

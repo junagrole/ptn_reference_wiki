@@ -4,7 +4,7 @@ Tags:
   - city_council
   - politics
 Short:
-Minor: true
+Major: false
 Kind: Politics
 N.F.: 115
 Month: 7

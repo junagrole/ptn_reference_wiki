@@ -2,7 +2,7 @@
 Tags:
   - independence_war
 Short:
-Minor: false
+Major: true
 Kind: Attack
 N.F.: 66
 Month: 7

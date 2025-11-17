@@ -2,7 +2,7 @@
 Tags:
   - independence_war
 Short: Catherine and the Reaper unit intercept a nuclear strike headed for DisCity
-Minor: false
+Major: true
 Kind: Operation
 N.F.: 68
 Month: 10

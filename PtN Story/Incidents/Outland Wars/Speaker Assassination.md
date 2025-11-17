@@ -2,7 +2,7 @@
 Tags:
   - independence_war
 Short: The self elected speaker of DisCity is assassinated, sparking the first armed resistance
-Minor: false
+Major: true
 Kind: Attack
 N.F.: 61
 Month: 12

@@ -2,7 +2,7 @@
 Tags:
   - mbcc
 Short: An unknown Sinner attacks MBCC and starts a prison riot as cover
-Minor: false
+Major: true
 Kind: Attack
 N.F.: 112
 Month: 8

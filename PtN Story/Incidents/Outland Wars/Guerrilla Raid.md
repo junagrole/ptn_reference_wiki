@@ -2,7 +2,7 @@
 Tags:
   - independence_war
 Short:
-Minor: true
+Major: false
 Kind: Operation
 N.F.: 62
 Month: 12

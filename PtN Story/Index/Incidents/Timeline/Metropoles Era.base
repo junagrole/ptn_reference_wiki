@@ -30,7 +30,7 @@ views:
     name: Only Major Incidents
     filters:
       and:
-        - Minor == false
+        - Major == true
     groupBy:
       property: N.F.
       direction: ASC
@@ -49,7 +49,7 @@ views:
     name: Only Minor Incidents
     filters:
       and:
-        - Minor == true
+        - Major == false
     groupBy:
       property: N.F.
       direction: ASC
