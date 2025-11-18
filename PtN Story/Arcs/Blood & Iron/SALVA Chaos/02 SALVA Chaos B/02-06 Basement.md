@@ -8,8 +8,8 @@ Previous:
   - "[[02-05 Ted]]"
 Next:
   - "[[02-07 Into the Contamination]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 The gang members successfully delay your for close to 22 minutes, giving [[Ted]] a massive lead in the race to find [[Subject R]].
 

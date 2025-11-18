@@ -6,7 +6,6 @@ Tags:
 Short: SALVA Nurse, tortured by Ted and ultimately died
 Sinner: false
 Gender: Female
-birthplace:
 Storyrole: Background
 State: Complete
 Content: Character

@@ -6,5 +6,5 @@ Tags:
   - expertise/mania
   - discity/politics
 State: Created
-Content: organisation
+Content: Organisation
 ---

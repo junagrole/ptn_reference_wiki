@@ -5,5 +5,5 @@ Tags:
   - eastside
   - expertise/anti_mania
 State: Created
-Content: organisation
+Content: Organisation
 ---

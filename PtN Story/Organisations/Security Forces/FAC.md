@@ -5,5 +5,5 @@ Tags:
   - expertise/military
   - paradeisos/supervision
 State: Created
-Content: organisation
+Content: Organisation
 ---

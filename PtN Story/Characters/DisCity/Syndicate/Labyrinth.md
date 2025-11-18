@@ -6,7 +6,6 @@ Tags:
 Short: Full cyborg maid
 Sinner: true
 Gender: Female
-birthplace:
 Storyrole: Background
 State: Created
 Content: Character

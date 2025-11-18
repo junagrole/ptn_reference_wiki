@@ -6,7 +6,6 @@ Tags:
 Short: Overprotective of Chief, she slowly explores her emotions and befriends Hella
 Sinner: true
 Gender: Female
-birthplace:
 Storyrole: Protagonist
 State: Created
 Content: Character

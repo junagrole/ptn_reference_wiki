@@ -8,7 +8,6 @@ Tags:
 Short: Leader of the Legion and hero of Syndicate
 Sinner: true
 Gender: Female
-birthplace: "[[Syndicate]]"
 Storyrole: Protagonist
 State: Created
 Content: Character

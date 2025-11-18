@@ -1,6 +1,6 @@
 ---
 Tags:
   - metaphysics/mania
-Content: topic
+Content: Topic
 State: Created
 ---

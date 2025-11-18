@@ -7,7 +7,6 @@ Tags:
 Short: Represents the Ring Research Institute at EDGE
 Sinner: false
 Gender:
-birthplace:
 Storyrole: Background
 State: Created
 Content: Character

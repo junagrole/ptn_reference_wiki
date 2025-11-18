@@ -6,8 +6,8 @@ Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-09 Doctor Brand]]"
 Next:
   - "[[02-01 Test]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 After being knocked out by [[Dr. Iron]] you regain your sense facing the bright lights of an operating room. Sedated you're barely conscious, while Dr. Iron and a nurse note that your brain function is fine, apart from a damaged memory. 
 

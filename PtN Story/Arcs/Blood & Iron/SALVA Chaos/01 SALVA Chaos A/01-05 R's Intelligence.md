@@ -5,8 +5,8 @@ Pov:
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-04 Encounter Salva]]"
 Next: "[[01-06 Peacemaking]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 After a tough fight [[Ted]] claims that the [[SALVA Hospital|SALVA]] doctors were gangsters before becoming doctors. He shoots an injured [[Laura|nurse]] to force a distraught [[Dr. Brand|doctor]] to give him intelligence about [[Subject R]].
 Panicked the doctor reveals that the head nurse [[Anne]] send the [[Horro|fugitive Sinner]] into the basement at SALVA.

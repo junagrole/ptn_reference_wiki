@@ -8,7 +8,6 @@ Tags:
 Short: Senior EDGE scientist, specialises in Sinners and human modifications
 Sinner: false
 Gender: Female
-birthplace:
 Storyrole: Supporting
 State: Created
 Content: Character

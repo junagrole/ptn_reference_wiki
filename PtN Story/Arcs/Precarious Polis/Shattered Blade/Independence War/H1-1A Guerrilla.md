@@ -5,5 +5,5 @@ Chapter: "[[Shattered Blade]]"
 Previous:
 Next:
 State: Created
-Content: stage
+Content: Stage
 ---

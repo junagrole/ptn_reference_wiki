@@ -4,8 +4,8 @@ Chapter: "[[Prologue]]"
 Next: "[[00-02 Shadow]]"
 Pov:
   - Chief
-State: review
-Content: stage
+State: Review
+Content: Stage
 ---
 Dreaming [[Chief]] finds herself in a field of [[Crystal Flowers]], holding one close. Even though she doesn't remember anything, an unseen voice promises to be waiting for her.
 Though in the waking world she is safely confined in a recovery pod, undergoing a personality repair program. Until an [[Subject R|intruder]] takes out the attending researches and cracks open the pod. But before the beautiful [[Sinner]] can take Chief away adjutant [[Nightingale]] along with several guards storms in guns blazing. 

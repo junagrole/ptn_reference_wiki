@@ -6,5 +6,5 @@ Tags:
   - paradeisos
   - discity/politics
 State: Created
-Content: organisation
+Content: Organisation
 ---

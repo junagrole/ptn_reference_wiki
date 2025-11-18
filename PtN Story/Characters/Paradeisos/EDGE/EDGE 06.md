@@ -6,7 +6,6 @@ Tags:
 Short: Liaison to the FAC for EDGE
 Sinner: false
 Gender:
-birthplace:
 Storyrole: Background
 State: Created
 Content: Character

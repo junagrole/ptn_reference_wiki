@@ -8,8 +8,8 @@ Previous:
   - "[[RE-02-03 Promise]]"
 Next:
   - "[[02-05 Ted]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 Seeing what really happened in [[SALVA Hospital]] you decide to join the hospitals defence. While [[Dr. Iron]] and you fight off the large group of gangsters [[Anne]] evacuates the patients into the basement, worried that the fight will trigger their Mania.
 

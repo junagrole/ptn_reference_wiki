@@ -6,8 +6,8 @@ Pov:
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[00-04 Beginning]]"
 Next: "[[01-02 Assassination]]"
-State: review
-Content: stage
+State: Review
+Content: Stage
 ---
 The chapter starts in Chiefs Office with a flashback to Chief getting briefed [[Nightingale]]. In the aftermath of the [[MBCC Riot]] many of the Sinners fled to [[Syndicate]] which caused major riots. The [[Public Security Bureau]] has confirmed that [[Subject R]] also escaped into Syndicate. They promise assistance and intelligence if the MBCC can deal with the cause of the riot first.
 Chief is to lead a small group of [[Sinner|Sinners]] into Syndicate to arrest the fugitive Sinners. A covert operation is necessary since Syndicate is ruled by gangs. 

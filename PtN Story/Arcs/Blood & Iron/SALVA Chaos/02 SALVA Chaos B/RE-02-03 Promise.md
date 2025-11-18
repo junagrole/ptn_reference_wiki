@@ -8,8 +8,8 @@ Previous:
   - "[[02-03 Mania and the Doctor]]"
 Next:
   - "[[02-04 The Second Round]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 Back up in the ward the [[Gray-haired Girl]] is having a mania flare up, opening her wounds again and causing her great pain. [[Anne]] does her best to calm her down, while [[Dr. Iron]] treats her.
 

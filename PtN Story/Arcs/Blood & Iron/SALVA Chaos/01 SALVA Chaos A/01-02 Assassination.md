@@ -7,8 +7,8 @@ Previous: "[[01-01 Syndicate]]"
 Next:
   - "[[01-03 Encounter Legion]]"
   - "[[SD-01-01 Support]]"
-State: review
-Content: stage
+State: Review
+Content: Stage
 ---
 After the gang members that attacked the MBCC team were subdued. [[Hella]] is really excited about the fight and mocks you for being so guarded around her.  The gang member curses out the Sinners until he's shut up by Hella's pipe. Hella explains that the gangs are always fighting like this. The gangs fight every summer to appoint a "Syndicate Boss", which makes her wonder why they still have so much energy left in them. Hella mockingly warns you to be careful, lest you die on your first mission. Which prompts Hecate to coldly threaten Hella that she better keep you alive or she will deal with her.
 

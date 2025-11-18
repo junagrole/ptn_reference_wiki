@@ -5,8 +5,8 @@ Pov:
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-07 Hyenas on the Scent]]"
 Next: "[[01-09 Doctor Brand]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 Even after the [[Gonzales]] gangsters are beaten, [[Ted|Ted's]] men continue attacking them. They too have become [[Maniacs|infected with Mania]]. [[Hella]] urges him to withdraw them, but to Ted all that matters is that they have become stronger and can storm [[SALVA Hospital]] now.
 

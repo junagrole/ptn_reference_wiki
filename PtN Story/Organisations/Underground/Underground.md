@@ -4,5 +4,5 @@ Tags:
   - expertise/mania
   - meta/antagonist
 State: Created
-Content: organisation
+Content: Organisation
 ---

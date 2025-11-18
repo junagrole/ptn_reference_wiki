@@ -4,5 +4,5 @@ Tags:
   - discity/corporation
   - meta/antagonist
 State: Created
-Content: organisation
+Content: Organisation
 ---
