@@ -5,7 +5,6 @@ Tags:
 Short: Total scumbag, hates Sinners, might work with the underground, lobotomised by Iron
 Sinner: false
 Gender: Male
-birthplace: "[[Syndicate]]"
 Storyrole: Antagonist
 State: Review
 Content: Character

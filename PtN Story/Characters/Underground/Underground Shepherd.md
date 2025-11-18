@@ -7,7 +7,6 @@ aliases:
 Short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
 Sinner: false
 Gender: Female
-birthplace:
 Storyrole: Antagonist
 Content: Character
 State: Created

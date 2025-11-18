@@ -1,0 +1,7 @@
+filters:
+  and:
+    - Content == "Topic"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: Table

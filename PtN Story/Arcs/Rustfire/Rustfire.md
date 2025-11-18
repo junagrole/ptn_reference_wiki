@@ -8,6 +8,6 @@ Short:
 N.F.: 112
 Month: 11
 Day:
-State: created
+State: Created
 Content: arc
 ---

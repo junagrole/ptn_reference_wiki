@@ -1,8 +1,8 @@
 ---
 Tags:
 Short:
-Minor: false
-Category:
+Major: true
+Kind:
 N.F.:
 Month:
 Day:

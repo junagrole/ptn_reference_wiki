@@ -5,8 +5,8 @@ Previous: "[[00-01 Awake]]"
 Next: "[[00-03 White Beast]]"
 Pov:
   - Chief
-State: review
-Content: stage
+State: Review
+Content: Stage
 ---
 After the rioters are dealt with, [[Wendy]] appears screaming that she is on the way home and that Chief and the FAC are in her way again. She is joined by [[EMP]] who taunts and threatens the guard detail. Chiefs protective detail gets overwhelmed by multiple Sinners. [[036]] stays behind to hold the enemy off while [[Nightingale]] uses a force field to escape with Chief. 
 The two flee via a secret passage until they reach an elevator leading to the hidden mezzanine (Intermediate floor). Nightingale is bleeding from a wound on her forehead. 

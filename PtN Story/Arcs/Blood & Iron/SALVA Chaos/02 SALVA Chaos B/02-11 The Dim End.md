@@ -8,8 +8,8 @@ Previous:
   - "[[02-10 Patient and Nurse]]"
 Next:
   - "[[02-12 Salva Chaos]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 The [[Gray-haired Girl]] begs [[Anne]] to tell her the truth, is she beyond saving? But actually saying it is too much for Anne and you get a choice.
 

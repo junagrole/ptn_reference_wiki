@@ -5,8 +5,8 @@ Pov:
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[SD-01-01 Support]]"
 Next:
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 A bit further ahead you find [[EMP]] cornered by gangsters. Being dragged into the conflict when the gangsters recognise [[Ted]] with two Sinners, you make short work of them.
 

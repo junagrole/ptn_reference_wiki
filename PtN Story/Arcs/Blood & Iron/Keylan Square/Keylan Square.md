@@ -12,6 +12,6 @@ Category: Main Story
 N.F.: 112
 Month: 8
 Day: 20
-State: created
+State: Created
 Content: chapter
 ---

@@ -9,7 +9,6 @@ aliases:
 Short: Stoic battle hardened leader of the FAC, independence war hero
 Sinner: false
 Gender: Male
-birthplace:
 Storyrole: Supporting
 State: Created
 Content: Character

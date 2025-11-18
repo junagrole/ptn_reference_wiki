@@ -8,8 +8,8 @@ Previous:
   - "[[02-09 Dog]]"
 Next:
   - "[[02-11 The Dim End]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 Still blocking your way the [[Gray-haired Girl]] is determined to fight you to the end, even though she's slowly turning into a [[Corruptors|Corruptor]]. Despite her own grievous injuries [[Anne]] is only concerned with saving the abused girl.
 

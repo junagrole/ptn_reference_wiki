@@ -4,6 +4,6 @@ Tags:
   - expertise/anti_mania
   - expertise/military
   - paradeisos/supervision
-State: created
-Content: organisation
+State: Created
+Content: Organisation
 ---

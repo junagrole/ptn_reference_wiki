@@ -5,8 +5,8 @@ Next: "[[00-04 Beginning]]"
 Previous: "[[00-02 Shadow]]"
 Pov:
   - Chief
-State: review
-Content: stage
+State: Review
+Content: Stage
 ---
 You find yourself back in the flower field, whispering to someone:
 >[!cite] Chief?

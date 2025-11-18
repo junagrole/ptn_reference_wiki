@@ -7,7 +7,6 @@ Tags:
 Short: SALVA medical director, tries to find a treatment for Mania
 Sinner: true
 Gender: Female
-birthplace: "[[Eastside]]"
 Storyrole: Antagonist
 State: Stub
 Content: Character

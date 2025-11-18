@@ -5,6 +5,6 @@ Tags:
   - expertise/science
   - expertise/mania
   - discity/politics
-State: created
-Content: organisation
+State: Created
+Content: Organisation
 ---

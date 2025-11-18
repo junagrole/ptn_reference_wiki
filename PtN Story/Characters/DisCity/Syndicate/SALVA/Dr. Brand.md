@@ -7,7 +7,6 @@ Tags:
 Short: SALVA doctor, turned into a Corruptor
 Sinner: false
 Gender: Male
-birthplace:
 Storyrole: Background
 State: Complete
 Content: Character

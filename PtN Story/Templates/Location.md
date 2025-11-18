@@ -1,9 +1,8 @@
 ---
 Tags:
 Short:
-region:
-district:
-Category:
+Area:
+Size:
 State: Created
 Content: Location
 ---

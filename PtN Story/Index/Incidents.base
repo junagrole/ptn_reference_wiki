@@ -1,7 +1,10 @@
 filters:
   and:
-    - content == "incident"
+    - content == "Incident"
     - '!file.inFolder("Templates")'
+properties:
+  note.Category:
+    displayName: Kind
 views:
   - type: table
     name: All Incidents
@@ -20,6 +23,8 @@ views:
         direction: ASC
       - property: day
         direction: ASC
+    columnSize:
+      note.Category: 111
   - type: table
     name: Independece War
     filters:

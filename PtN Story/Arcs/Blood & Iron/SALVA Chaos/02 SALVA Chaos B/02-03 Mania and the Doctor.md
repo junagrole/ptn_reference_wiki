@@ -9,8 +9,8 @@ Next:
 Chapter: "[[SALVA Chaos]]"
 Pov:
   - Chief
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 Supported by [[Dr. Iron]] and your Sinners you attempt to use your [[Shackles]] on the [[Maniacs|manic gang member]]. But the attempt fails, Maniacs are fundamentally different from [[Sinner|Sinners]].
 >[!cite] Chief's thoughts

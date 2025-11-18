@@ -2,6 +2,9 @@ filters:
   and:
     - Content == "Character"
     - Storyrole == "Antagonist"
+properties:
+  note.sinner:
+    displayName: Sinner
 views:
   - type: table
     name: Overview
@@ -13,3 +16,5 @@ views:
       - Gender
       - sinner
       - Short
+    columnSize:
+      note.Affiliation: 115

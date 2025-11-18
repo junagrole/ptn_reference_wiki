@@ -4,11 +4,11 @@ Tags:
   - city_council
   - politics
 Short:
+Major: false
+Kind: Politics
 N.F.: 115
 Month: 7
 Day: 27
-State: created
-Content: incident
-Category: Politics
-Minor: true
+State: Created
+Content: Incident
 ---

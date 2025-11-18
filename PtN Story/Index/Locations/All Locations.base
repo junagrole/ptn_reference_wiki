@@ -1,0 +1,56 @@
+filters:
+  and:
+    - Content == "Location"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: By surroundings
+    groupBy:
+      property: Area
+      direction: ASC
+    order:
+      - file.name
+      - Size
+      - Short
+    sort:
+      - property: Size
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Size
+    groupBy:
+      property: Size
+      direction: ASC
+    order:
+      - file.name
+      - Area
+      - Short
+    sort:
+      - property: Area
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Maintenanca
+    groupBy:
+      property: State
+      direction: ASC
+    order:
+      - file.name
+      - State
+      - Size
+      - Area
+      - file.ctime
+      - file.mtime
+      - tags
+    sort:
+      - property: file.mtime
+        direction: ASC
+    columnSize:
+      file.name: 168
+      note.State: 81
+      note.Size: 114
+      note.Area: 139
+      file.ctime: 164
+      file.mtime: 168

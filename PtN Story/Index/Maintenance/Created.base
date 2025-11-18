@@ -1,0 +1,24 @@
+filters:
+  and:
+    - State == "Created"
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: Tags
+    groupBy:
+      property: Content
+      direction: ASC
+    order:
+      - file.name
+      - tags
+  - type: table
+    name: Meta Info
+    groupBy:
+      property: Content
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+      - file.ctime
+      - file.mtime
+      - aliases

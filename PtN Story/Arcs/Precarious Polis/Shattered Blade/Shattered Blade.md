@@ -8,6 +8,6 @@ Category: Main Event
 N.F.: 115
 Month:
 Day:
-State: created
+State: Created
 Content: chapter
 ---

@@ -7,8 +7,8 @@ Chapter: "[[SALVA Chaos]]"
 Previous:
   - "[[02-11 The Dim End]]"
 Next:
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 As the [[Gray-haired Girl]] reaches her limit and explosively falls apart, [[Anne]] rushes into the danger still intent to save the girl. Severely injured she cradles the dead girl in her arms, fruitlessly injecting Serum into her frozen body. But it is far to late, the lower part of her body has completely disintegrated. 
 

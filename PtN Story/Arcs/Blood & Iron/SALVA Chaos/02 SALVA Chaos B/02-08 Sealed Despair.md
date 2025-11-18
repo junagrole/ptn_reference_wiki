@@ -8,8 +8,8 @@ Previous:
   - "[[02-07 Into the Contamination]]"
 Next:
   - "[[02-09 Dog]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 The [[SALVA Hospital|basement]] is unexpectedly empty, with only a desk and a journal in the wide empty room. The isolation wards must be separated further in.
 

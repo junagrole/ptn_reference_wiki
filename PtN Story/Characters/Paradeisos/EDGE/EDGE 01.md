@@ -9,7 +9,6 @@ aliases:
 Short: Genius EDGE scientist that invented cryosleep and a cure for balding
 Sinner: false
 Gender: Male
-birthplace:
 Storyrole: Supporting
 State: Created
 Content: Character

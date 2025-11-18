@@ -6,7 +6,6 @@ Tags:
 Short: A nurse driven by guilt, works at SALVA
 Sinner: true
 Gender: Female
-birthplace: "[[Syndicate]]"
 Storyrole: Background
 State: Created
 Content: Character

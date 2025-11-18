@@ -5,8 +5,8 @@ Pov:
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-06 Peacemaking]]"
 Next: "[[01-07 Hyenas on the Scent]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 [[Ted]] brings you to his stronghold where you're greeted by his men. Their attitude soon turns hostile when they learn the two "pretty gals" are [[Sinner|Sinners]].
 

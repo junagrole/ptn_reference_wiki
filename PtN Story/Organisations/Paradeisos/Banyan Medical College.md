@@ -4,6 +4,6 @@ Tags:
   - expertise/medicine
   - eastside
   - expertise/anti_mania
-State: created
-Content: organisation
+State: Created
+Content: Organisation
 ---

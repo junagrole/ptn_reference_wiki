@@ -6,6 +6,6 @@ Tags:
   - expertise/anti_mania
   - mbcc
   - expertise/investigation
-State: created
-Content: organisation
+State: Created
+Content: Organisation
 ---

@@ -6,8 +6,8 @@ Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-02 Assassination]]"
 Next:
   - "[[SD-01-02 Head-to-head]]"
-State: complete
-Content: stage
+State: Complete
+Content: Stage
 ---
 The three of you are cornered by the gang fights and can't break through. [[Nightingale]] calls and promises reinforcements a bit further ahead.
 

@@ -11,6 +11,6 @@ Category: Eternal Nightmare
 N.F.: 114
 Month: 5
 Day: 30
-State: created
+State: Created
 Content: chapter
 ---
