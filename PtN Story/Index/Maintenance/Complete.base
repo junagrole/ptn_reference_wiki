@@ -11,6 +11,8 @@ views:
     order:
       - file.name
       - tags
+    columnSize:
+      file.name: 245
   - type: table
     name: Meta Info
     groupBy:

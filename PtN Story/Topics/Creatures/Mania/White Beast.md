@@ -3,7 +3,7 @@ Tags:
   - metaphysics/mania
   - meta/antagonist
 State: Complete
-Content: creature
+Content: Creature
 ---
 
 
