@@ -6,7 +6,7 @@ views:
     name: Review
     filters:
       and:
-        - state == "review"
+        - state == "Review"
     groupBy:
       property: content
       direction: ASC
@@ -21,7 +21,7 @@ views:
     name: Stub
     filters:
       and:
-        - state == "stub"
+        - state == "Stub"
     groupBy:
       property: content
       direction: ASC
@@ -36,7 +36,7 @@ views:
     name: Created
     filters:
       and:
-        - state == "created"
+        - state == "Created"
     groupBy:
       property: content
       direction: ASC
