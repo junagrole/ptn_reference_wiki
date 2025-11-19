@@ -1,12 +1,12 @@
 filters:
   and:
-    - content == "chapter"
+    - content == "Chapter"
     - arc.contains(link("Rustfire"))
 views:
   - type: table
     name: Overview
     groupBy:
-      property: type
+      property: Category
       direction: ASC
     order:
       - file.name
@@ -50,7 +50,7 @@ views:
       - day
       - month
       - N.F.
-      - type
+      - Category
       - file.ctime
       - file.mtime
       - tags
@@ -62,6 +62,8 @@ views:
       - property: day
         direction: ASC
     columnSize:
+      file.name: 169
+      note.N.F.: 73
       note.type: 112
       file.ctime: 166
       file.mtime: 169

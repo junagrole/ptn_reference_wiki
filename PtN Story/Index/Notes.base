@@ -17,6 +17,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.Content: 108
   - type: table
     name: Stub
     filters:

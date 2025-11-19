@@ -1,11 +1,16 @@
 ---
 Tags:
-  - discity/agency
-  - paradeisos/supervision
-  - expertise/mania
-  - expertise/anti_mania
   - mbcc
-  - expertise/investigation
+  - sinner
+  - 9th_agency
+  - fac
+  - discity
+  - shepherd
+Short:
+Structure: Agency
+Purpose: Anti Mania
+Leadership: "[[Chief]]"
+Headquarters: "[[DisCity]]"
 State: Created
 Content: Organisation
 ---
