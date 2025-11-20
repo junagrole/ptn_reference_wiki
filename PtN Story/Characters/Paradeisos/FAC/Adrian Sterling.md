@@ -6,7 +6,8 @@ Tags:
   - cyborg
 aliases:
   - Commander in Chief
-Short: Stoic battle hardened leader of the FAC, independence war hero
+  - EDGE 06
+Short: Stoic battle hardened leader of the FAC, independence war hero, EDGE 06
 Sinner: false
 Gender: Male
 Storyrole: Supporting

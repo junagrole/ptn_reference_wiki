@@ -1,9 +1,13 @@
 ---
 Tags:
   - paradeisos
-  - expertise/medicine
   - eastside
-  - expertise/anti_mania
+  - medical
+Short: Primary and prestigious medical school of DisCity
+Structure: University
+Purpose: Hospital
+Leadership: Dean
+Headquarters: "[[Eastside]]"
 State: Created
 Content: Organisation
 ---

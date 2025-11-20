@@ -6,7 +6,7 @@ views:
     name: Review
     filters:
       and:
-        - state == "review"
+        - state == "Review"
     groupBy:
       property: content
       direction: ASC
@@ -17,11 +17,13 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.Content: 108
   - type: table
     name: Stub
     filters:
       and:
-        - state == "stub"
+        - state == "Stub"
     groupBy:
       property: content
       direction: ASC
@@ -36,7 +38,7 @@ views:
     name: Created
     filters:
       and:
-        - state == "created"
+        - state == "Created"
     groupBy:
       property: content
       direction: ASC

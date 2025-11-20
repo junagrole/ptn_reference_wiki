@@ -1,6 +1,6 @@
 filters:
   and:
-    - content == "chapter"
+    - content == "Chapter"
     - arc.contains(link("Eternal Nightmare"))
 views:
   - type: table
@@ -37,8 +37,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 186
-      note.Day: 72
-      note.type: 112
+      note.month: 96
   - type: table
     name: Details
     groupBy:
@@ -60,6 +59,8 @@ views:
       - property: day
         direction: ASC
     columnSize:
-      note.type: 112
+      file.name: 186
+      note.month: 96
+      note.N.F.: 76
       file.ctime: 166
       file.mtime: 169

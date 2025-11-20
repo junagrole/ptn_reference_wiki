@@ -1,12 +1,12 @@
 filters:
   and:
-    - content == "chapter"
+    - content == "Chapter"
     - arc.contains(link("Blood & Iron"))
 views:
   - type: table
     name: Overview
     groupBy:
-      property: type
+      property: Category
       direction: ASC
     order:
       - file.name
@@ -27,8 +27,8 @@ views:
       - file.name
       - day
       - month
-      - type
-      - short
+      - Category
+      - Short
     sort:
       - property: month
         direction: ASC
@@ -46,7 +46,7 @@ views:
       - day
       - month
       - N.F.
-      - type
+      - Category
       - file.ctime
       - file.mtime
       - tags

@@ -3,7 +3,10 @@ Tags:
   - discity
   - discorps
 Short:
-Category: Military
+Structure: Military
+Purpose: War
+Leadership: "[[Catherine Augustus Andohar]]"
+Headquarters: "[[Nirvana Port]]"
 State: Created
 Content: Organisation
 ---

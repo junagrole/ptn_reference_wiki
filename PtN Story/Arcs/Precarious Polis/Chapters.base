@@ -1,12 +1,12 @@
 filters:
   and:
-    - content == "chapter"
+    - content == "Chapter"
     - arc.contains(link("Precarious Polis"))
 views:
   - type: table
     name: Overview
     groupBy:
-      property: type
+      property: Category
       direction: ASC
     order:
       - file.name
@@ -29,8 +29,8 @@ views:
       - file.name
       - day
       - month
-      - type
-      - short
+      - Category
+      - Short
     sort:
       - property: month
         direction: ASC
@@ -38,8 +38,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 188
-      note.Day: 76
-      note.type: 144
+      note.Category: 164
   - type: table
     name: Details
     groupBy:
@@ -50,7 +49,7 @@ views:
       - day
       - month
       - N.F.
-      - type
+      - Category
       - file.ctime
       - file.mtime
       - tags
@@ -63,8 +62,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 188
-      note.Day: 76
-      note.N.F.: 56
-      note.type: 112
+      note.N.F.: 82
+      note.Category: 164
       file.ctime: 166
       file.mtime: 169

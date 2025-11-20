@@ -1,10 +1,16 @@
 ---
 Tags:
-  - paradeisos/edge
-  - expertise/anti_mania
-  - expertise/science
-  - expertise/mania
-  - discity/politics
+  - edge
+  - paradeisos
+  - research
+  - politics
+  - mania
+  - reason
+Short:
+Structure: Secret Society
+Purpose: Anti Mania
+Leadership: Committee
+Headquarters: "[[DisCity]]"
 State: Created
 Content: Organisation
 ---
