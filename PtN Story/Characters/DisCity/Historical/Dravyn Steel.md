@@ -5,11 +5,12 @@ Tags:
   - fac
   - politics
   - speaker
+  - military
 Short:
 Sinner: false
 Gender: Male
 Affiliation: "[[DisCity]]"
-Storyrole: Background
+Storyrole: Historical
 State: Created
 Content: Character
 ---
