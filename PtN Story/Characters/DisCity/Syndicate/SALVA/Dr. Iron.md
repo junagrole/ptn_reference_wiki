@@ -7,10 +7,10 @@ Tags:
 Short: SALVA medical director, tries to find a treatment for Mania
 Sinner: true
 Gender: Female
+Affiliation: SALVA
 Storyrole: Antagonist
 State: Stub
 Content: Character
-Affiliation: SALVA
 ---
 >[!info] Background
 >Born into a prestigious medical family in [[Eastside]], Iron graduates from [[Banyan Medical College]] as a neurosurgeon. She refused all offers and went to treat [[Mania]] in [[Syndicate]].  

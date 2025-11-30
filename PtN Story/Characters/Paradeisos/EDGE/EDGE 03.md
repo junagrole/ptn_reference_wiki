@@ -5,8 +5,8 @@ Tags:
 Short: EDGE member, it's unknown what he does
 Sinner: false
 Gender: Male
+Affiliation: "[[EDGE]]"
 Storyrole: Supporting
 State: Created
 Content: Character
-Affiliation: "[[EDGE]]"
 ---

@@ -6,10 +6,11 @@ Tags:
   - politics
   - speaker
   - military
+  - deceased
 Short:
 Sinner: false
 Gender: Male
-Affiliation: "[[DisCity]]"
+Affiliation: "[[FAC]]"
 Storyrole: Historical
 State: Created
 Content: Character

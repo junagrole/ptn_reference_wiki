@@ -10,7 +10,7 @@ aliases:
 Short: Hero of the independence War, now Leader of the DisCorps remains and EDGE 08
 Sinner: true
 Gender: Female
-Affiliation: "[[DisCorps]]"
+Affiliation: "[[EDGE]]"
 Storyrole: Protagonist
 State: Created
 Content: Character

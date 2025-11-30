@@ -11,8 +11,8 @@ aliases:
 Short: The only good Campbell, genius Aurum Secretum researcher, friends with Hella
 Sinner: true
 Gender: Female
+Affiliation: "[[Fraser]]"
 Storyrole: Protagonist
 State: Created
 Content: Character
-Affiliation: "[[Fraser]]"
 ---

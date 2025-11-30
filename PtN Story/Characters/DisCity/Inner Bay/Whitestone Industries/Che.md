@@ -9,8 +9,8 @@ Tags:
 Short: Whitestone member, defected from the underground
 Sinner: true
 Gender: Male
+Affiliation: Whitestone
 Storyrole: Background
 State: Created
 Content: Character
-Affiliation: Whitestone
 ---
