@@ -4,7 +4,7 @@ Pov:
   - Chief
 Chapter: "[[SALVA Chaos]]"
 Previous: "[[01-08 The Battle of SALVA]]"
-Next: "[[RE-01-09 Reunited at SALVA]]"
+Next: "[[01-09-RE Reunited at SALVA]]"
 State: Complete
 Content: Stage
 ---

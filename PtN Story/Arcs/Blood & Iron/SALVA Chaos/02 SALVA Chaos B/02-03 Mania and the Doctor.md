@@ -5,7 +5,7 @@ Short:
 Previous:
   - "[[02-02 Surgery]]"
 Next:
-  - "[[RE-02-03 Promise]]"
+  - "[[02-03-RE Promise]]"
 Chapter: "[[SALVA Chaos]]"
 Pov:
   - Chief

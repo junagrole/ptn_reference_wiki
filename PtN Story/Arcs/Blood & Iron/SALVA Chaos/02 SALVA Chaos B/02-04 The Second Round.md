@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[SALVA Chaos]]"
 Previous:
-  - "[[RE-02-03 Promise]]"
+  - "[[02-03-RE Promise]]"
 Next:
   - "[[02-05 Ted]]"
 State: Complete

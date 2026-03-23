@@ -25,7 +25,7 @@ Content: Chapter
 - [[01-07 Hyenas on the Scent]]
 - [[01-08 The Battle of SALVA]]
 - [[01-09 Doctor Brand]]
-- [[RE-01-09 Reunited at SALVA]]
+- [[01-09-RE Reunited at SALVA]]
 - [[SD-01-01 Support]]
 - [[SD-01-02 Head-to-head]]
 - [[SD-01-03 Broken Puppet]]
@@ -33,6 +33,6 @@ Content: Chapter
 - [[02-01 Test]]
 - [[02-02 Surgery]]
 - [[02-03 Mania and the Doctor]]
-- [[RE-02-03 Promise]]
+- [[02-03-RE Promise]]
 - [[02-04 The Second Round]]
 - 
