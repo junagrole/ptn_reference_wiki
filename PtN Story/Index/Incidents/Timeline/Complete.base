@@ -15,10 +15,17 @@ views:
       - Kind
       - Short
     sort:
+      - property: Day
+        direction: DESC
       - property: month
         direction: ASC
       - property: day
         direction: ASC
+    columnSize:
+      file.name: 277
+      note.Month: 77
+      note.Day: 69
+      note.Kind: 110
   - type: table
     name: Only Major Incidents
     filters:
