@@ -24,5 +24,5 @@ Content: Organisation
 | 04          | [[EDGE 04]]                       |
 | 05          | [[Bernadette Cavendish\|Bernadette Cavendish]] |
 | 06          | [[Adrian Sterling]]               |
-| 07          | [[EDGE 07]]                       |
+| 07          | [[Lemma Herzfeld]]                       |
 | 08          | [[Catherine Augustus Andohar]]    |
