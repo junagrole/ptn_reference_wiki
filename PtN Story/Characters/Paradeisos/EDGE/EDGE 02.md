@@ -5,7 +5,7 @@ Tags:
   - scientist
   - sinner
   - hush
-Short: Senior EDGE scientist, specialises in Sinners and human modifications
+Short: Senior EDGE scientist, expert in human consciousness studies
 Sinner: false
 Gender: Female
 Affiliation: "[[EDGE]]"

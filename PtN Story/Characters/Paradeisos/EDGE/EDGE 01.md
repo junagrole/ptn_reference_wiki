@@ -6,7 +6,8 @@ Tags:
   - scientist
 aliases:
   - EDGE intern
-Short: Genius EDGE scientist that invented cryosleep and a cure for balding
+  - Baldie
+Short: Senior EDGE scientist, instrumental in DisCities independence. At a later date underwent a procedure to remove emotions
 Sinner: false
 Gender: Male
 Affiliation: "[[EDGE]]"

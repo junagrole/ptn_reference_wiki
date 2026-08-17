@@ -2,7 +2,7 @@
 Tags:
   - paradeisos
   - edge
-Short: EDGE member, it's unknown what he does
+Short: Senior EDGE member, only senior member without a science background, often takes over administrative duties
 Sinner: false
 Gender: Male
 Affiliation: "[[EDGE]]"
