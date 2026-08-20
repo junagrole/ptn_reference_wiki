@@ -11,3 +11,4 @@ Headquarters:
 State: Created
 Content: Organisation
 ---
+By N.F. 84 the Underground developed the operational doctrine of "Mania Insurrectionism"
