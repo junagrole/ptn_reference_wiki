@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-03-RE Interrogation]]"
-Next:
+Next: "[[03-05 Feast of Violence]]"
 State: Created
 Content: Stage
 ---
