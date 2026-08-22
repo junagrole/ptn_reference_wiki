@@ -5,8 +5,8 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-04 Shackles In Hostage]]"
-Next:
-State: Created
+Next: "[[03-06 Mania Weapon]]"
+State: Review
 Content: Stage
 ---
 While slowly advancing into the gang occupied building complex [[Earl]] gives Chief a short history lesson about the [[Syndicate|West District]]. The conversation is cut short by a contamination trap.

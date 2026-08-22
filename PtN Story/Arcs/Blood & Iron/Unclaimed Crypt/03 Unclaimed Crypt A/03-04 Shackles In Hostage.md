@@ -6,7 +6,7 @@ Pov:
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-03-RE Interrogation]]"
 Next: "[[03-05 Feast of Violence]]"
-State: Created
+State: Review
 Content: Stage
 ---
 [[The Legion]] convoy arrives at the [[Crypt]] to claim the [[Inheritance]]. While the excavation site of the crypt is fortified by the remaining major Syndicate gangs [[Earl]] is more worried about the mania contamination inside the crypt. But [[Zoya]] forces the reluctant MBCC Chief to shackle her, so she can withstand the intense mania field. Only seeing Hecate and Hella threatened does Chief give in to her demands.
