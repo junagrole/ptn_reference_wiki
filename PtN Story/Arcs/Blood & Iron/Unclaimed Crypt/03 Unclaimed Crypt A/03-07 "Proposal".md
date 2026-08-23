@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-06 Mania Weapon]]"
-Next:
+Next: "[[03-08 Struggle of the Abandoned]]"
 State: Review
 Content: Stage
 ---
