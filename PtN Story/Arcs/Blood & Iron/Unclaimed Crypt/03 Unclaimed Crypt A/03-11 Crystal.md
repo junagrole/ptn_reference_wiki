@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-10 Sense]]"
-Next:
+Next: "[[03-12 Type-99]]"
 State: Review
 Content: Stage
 ---
@@ -13,7 +13,7 @@ With [[Zoya]] being underground and Chief temporarily safe [[Hecate]] proposes t
 
 One of the weapon containers also holds a jar filled with a blood red liquid.
 > [!cite] Label
-> Parma Type 99
+> PARMA-Type 99
 
 [[Hella]] recognises it, not a mania crystal extracted from a Sinners body, but a product of the experiments she had undergone. Before Chief can ask questions the mania fluid reacts with the Inheritance to produce countless contamination spikes from underground. The floor gives way and the team finds itself in a cellar filled with more **P** marked weapon crates. All leaking their contamination as well.
 
