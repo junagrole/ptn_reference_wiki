@@ -5,8 +5,8 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-05 Feast of Violence]]"
-Next:
-State: Created
+Next: '[[03-07 "Proposal"]]'
+State: Review
 Content: Stage
 ---
 While [[Zoya]] handles the gang ambush the MBCC team examines the [[Mania Weapon]] [[Thou Voodoo]] was using. A cane with a [[Mania Crystal]] embedded in it's head.
