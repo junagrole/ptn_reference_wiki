@@ -1,5 +1,6 @@
 ---
 Tags:
+  - kidnapping
 Pov:
   - Chief
 Chapter: "[[SALVA Chaos]]"

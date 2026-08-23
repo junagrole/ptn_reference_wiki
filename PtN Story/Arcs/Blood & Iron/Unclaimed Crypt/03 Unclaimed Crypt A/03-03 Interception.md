@@ -1,5 +1,6 @@
 ---
 Tags:
+  - kidnapping
 Short: Barely escaping Ninenty-Nine the team gets captured by Zoya personally
 Pov:
   - Chief

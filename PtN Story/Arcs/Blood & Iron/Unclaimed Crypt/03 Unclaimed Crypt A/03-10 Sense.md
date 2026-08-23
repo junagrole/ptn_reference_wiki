@@ -5,8 +5,8 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-09 Script of The Weak]]"
-Next:
-State: Created
+Next: "[[03-11 Crystal]]"
+State: Review
 Content: Stage
 ---
 While Chief is lying on the ground as the obedient hostage, waiting for her Sinners to get to the warehouse the remaining gang members are looking for a way out of the situation.
