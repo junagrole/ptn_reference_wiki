@@ -6,7 +6,7 @@ Tags:
 Short:
 Structure: Gang
 Purpose: Resistance Group
-Leadership: "[[Horro]]"
+Leadership: "[[Horo]]"
 Headquarters: "[[Syndicate]]"
 Content: Organisation
 State: Created

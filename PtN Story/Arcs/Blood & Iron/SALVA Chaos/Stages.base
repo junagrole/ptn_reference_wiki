@@ -4,11 +4,17 @@ filters:
 views:
   - type: table
     name: Overview
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - pov
       - tags
       - short
+    sort:
+      - property: Short
+        direction: ASC
     columnSize:
       note.Pov: 140
   - type: table

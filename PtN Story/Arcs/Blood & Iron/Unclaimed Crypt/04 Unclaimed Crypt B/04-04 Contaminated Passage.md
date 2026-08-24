@@ -5,8 +5,8 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-03 Message]]"
-Next:
-State: Created
+Next: "[[04-05 Abyssal Sarcophagus]]"
+State: Review
 Content: Stage
 ---
 The [[Inheritance]] is resonating with both the [[Corruptors]] and the [[Mania Weapon]] bringing forth extremely powerful contamination.
