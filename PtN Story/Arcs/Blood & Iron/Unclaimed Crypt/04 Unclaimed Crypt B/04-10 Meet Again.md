@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-09 Trap]]"
-Next:
+Next: "[[04-10-RE Bewitchment]]"
 State: Review
 Content: Stage
 ---

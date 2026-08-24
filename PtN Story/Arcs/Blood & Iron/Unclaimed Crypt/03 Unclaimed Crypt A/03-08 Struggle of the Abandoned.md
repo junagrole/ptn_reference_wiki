@@ -4,7 +4,7 @@ Short:
 Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
-Previous: '[[03-07 "Proposal"]]'
+Previous: "[[03-07 Proposal]]"
 Next: "[[03-09 Script of The Weak]]"
 State: Review
 Content: Stage

@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-05 Feast of Violence]]"
-Next: '[[03-07 "Proposal"]]'
+Next: "[[03-07 Proposal]]"
 State: Review
 Content: Stage
 ---
