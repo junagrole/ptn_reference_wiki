@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[03-01 Speed Chase]]"
-Next:
+Next: "[[03-03 Interception]]"
 State: Complete
 Content: Stage
 ---

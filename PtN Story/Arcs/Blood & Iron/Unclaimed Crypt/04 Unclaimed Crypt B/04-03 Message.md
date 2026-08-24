@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-02 Weightless]]"
-Next:
+Next: "[[04-04 Contaminated Passage]]"
 State: Review
 Content: Stage
 ---

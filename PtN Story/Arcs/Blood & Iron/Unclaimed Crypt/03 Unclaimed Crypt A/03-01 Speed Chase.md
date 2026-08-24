@@ -7,7 +7,7 @@ Pov:
 Chapter: "[[Unclaimed Crypt]]"
 Previous:
   - "[[02-12-RE Choices]]"
-Next:
+Next: "[[03-02 Highway Battle]]"
 State: Review
 Content: Stage
 ---
