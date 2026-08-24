@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-06 Deception]]"
-Next:
+Next: '[[04-08 "Legion Commander"]]'
 State: Review
 Content: Stage
 ---
