@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-05 Abyssal Sarcophagus]]"
-Next:
+Next: "[[04-07 Questioning]]"
 State: Review
 Content: Stage
 ---
