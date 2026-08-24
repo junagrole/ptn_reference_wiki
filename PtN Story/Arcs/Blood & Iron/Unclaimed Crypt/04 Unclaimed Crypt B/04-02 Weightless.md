@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-01 To The Abyss]]"
-Next:
+Next: "[[04-03 Message]]"
 State: Review
 Content: Stage
 ---
