@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.mtime > now() - "1 week"
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - State
+    cardSize: 230
+    indentProperties: false
