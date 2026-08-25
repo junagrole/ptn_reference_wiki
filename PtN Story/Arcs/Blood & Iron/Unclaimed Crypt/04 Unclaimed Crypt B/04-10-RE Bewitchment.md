@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-10 Meet Again]]"
-Next:
+Next: "[[04-11 Shackles Sinner]]"
 State: Review
 Content: Stage
 ---
