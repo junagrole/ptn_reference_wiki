@@ -5,7 +5,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-11 Shackles Sinner]]"
-Next:
+Next: "[[04-12-RE It will be a blaze of fire next time]]"
 State: Review
 Content: Stage
 ---
