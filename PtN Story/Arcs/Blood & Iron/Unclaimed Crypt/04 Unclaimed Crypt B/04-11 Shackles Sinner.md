@@ -7,7 +7,7 @@ Pov:
   - Chief
 Chapter: "[[Unclaimed Crypt]]"
 Previous: "[[04-10-RE Bewitchment]]"
-Next:
+Next: "[[04-12 The Dark Feast]]"
 State: Review
 Content: Stage
 ---
