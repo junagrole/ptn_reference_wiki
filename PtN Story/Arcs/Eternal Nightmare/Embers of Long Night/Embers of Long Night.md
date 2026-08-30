@@ -8,7 +8,7 @@ Arc:
   - "[[Precarious Polis]]"
   - "[[Eternal Nightmare]]"
 Category: Eternal Nightmare
-N.F.: 114
+NF: 114
 Month: 5
 Day: 30
 State: Created

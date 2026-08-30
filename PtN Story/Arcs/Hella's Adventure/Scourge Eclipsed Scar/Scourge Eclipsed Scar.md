@@ -9,7 +9,7 @@ Arc:
   - "[[Precarious Polis]]"
   - "[[Hella's Adventure]]"
 Category: Event
-N.F.: 115
+NF: 115
 Month:
 Day:
 State: Created

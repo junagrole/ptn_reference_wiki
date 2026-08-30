@@ -3,7 +3,7 @@ Tags:
 Short:
 Major: true
 Kind:
-N.F.:
+NF:
 Month:
 Day:
 State: Created

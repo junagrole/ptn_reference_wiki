@@ -5,7 +5,7 @@ Tags:
 Short: Waking up without her memories Chief is caught in a riot at MBCC. Reclaiming her Shackles she has to face a mysterious intruder
 Arc: "[[Blood & Iron]]"
 Category: Main Story
-N.F.: 112
+NF: 112
 Month: 8
 Day: 12
 State: Created

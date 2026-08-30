@@ -1,6 +1,6 @@
 filters:
   and:
-    - chapter == link("Prologue")
+    - Chapter == link("Prologue")
 views:
   - type: table
     name: Overview

@@ -4,7 +4,7 @@ Tags:
 Short: The self elected speaker of DisCity is assassinated, sparking the first armed resistance
 Major: true
 Kind: Attack
-N.F.: 61
+NF: 61
 Month: 12
 Day: 26
 State: Created

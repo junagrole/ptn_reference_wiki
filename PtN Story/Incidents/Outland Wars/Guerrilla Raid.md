@@ -4,7 +4,7 @@ Tags:
 Short:
 Major: false
 Kind: Operation
-N.F.: 62
+NF: 62
 Month: 12
 Day: 23
 State: Created

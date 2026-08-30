@@ -5,7 +5,7 @@ Tags:
   - paradeisos
   - west_district
 Short:
-N.F.: 112
+NF: 112
 Month: 11
 Day:
 State: Created

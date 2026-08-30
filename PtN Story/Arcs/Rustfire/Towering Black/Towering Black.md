@@ -9,7 +9,7 @@ Short:
 Arc:
   - "[[Rustfire]]"
 Category: Main Story
-N.F.: 113
+NF: 113
 Month: 11
 Day: 22
 State: Created

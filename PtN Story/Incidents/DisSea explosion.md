@@ -6,7 +6,7 @@ Tags:
 Short: An explosion in the DisSea contaminates much of the city and reveals BR000
 Major: true
 Kind: Black Ring
-N.F.: 84
+NF: 84
 Month: 12
 Day: 22
 State: Created

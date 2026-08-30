@@ -6,7 +6,7 @@ Tags:
 Short: The trail of the fugitive Subject R leads to SALVA in Syndicate. Betrayed by their  ally Chief has to come to terms with not being able to save a young Sinner
 Arc: "[[Blood & Iron]]"
 Category: Main Story
-N.F.: 112
+NF: 112
 Month: 8
 Day: 12
 State: Created

@@ -1,7 +1,7 @@
 filters:
   and:
-    - content == "Chapter"
-    - arc.contains(link("Eternal Nightmare"))
+    - Content == "Chapter"
+    - Arc.contains(link("Eternal Nightmare"))
 views:
   - type: table
     name: Overview
@@ -12,7 +12,7 @@ views:
       - file.name
       - short
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -23,7 +23,7 @@ views:
   - type: table
     name: Timeline
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -52,7 +52,7 @@ views:
       - file.mtime
       - tags
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -61,6 +61,6 @@ views:
     columnSize:
       file.name: 186
       note.month: 96
-      note.N.F.: 76
+      note.NF: 76
       file.ctime: 166
       file.mtime: 169

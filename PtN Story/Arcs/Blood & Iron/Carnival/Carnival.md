@@ -8,7 +8,7 @@ Short: Accompanied by only Hella and Hecate, Chief investigates and ultimately v
 Arc:
   - "[[Blood & Iron]]"
 Category: Main Story
-N.F.: 112
+NF: 112
 Month: 9
 Day: 13
 State: Created

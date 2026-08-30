@@ -1,6 +1,6 @@
 filters:
   and:
-    - chapter == link("SALVA Chaos")
+    - Chapter == link("SALVA Chaos")
 views:
   - type: table
     name: Overview

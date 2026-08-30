@@ -8,12 +8,12 @@ views:
   - type: table
     name: All Incidents
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:
@@ -30,12 +30,12 @@ views:
       and:
         - Major == true
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:
@@ -49,12 +49,12 @@ views:
       and:
         - Major == false
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:

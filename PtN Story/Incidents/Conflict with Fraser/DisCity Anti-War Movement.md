@@ -6,7 +6,7 @@ Tags:
 Short:
 Major: false
 Kind: Politics
-N.F.: 115
+NF: 115
 Month: 8
 Day: 3
 State: Created

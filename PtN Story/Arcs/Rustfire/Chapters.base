@@ -1,7 +1,7 @@
 filters:
   and:
-    - content == "Chapter"
-    - arc.contains(link("Rustfire"))
+    - Content == "Chapter"
+    - Arc.contains(link("Rustfire"))
 views:
   - type: table
     name: Overview
@@ -12,7 +12,7 @@ views:
       - file.name
       - short
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -23,7 +23,7 @@ views:
   - type: table
     name: Timeline
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -55,7 +55,7 @@ views:
       - file.mtime
       - tags
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -63,7 +63,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 169
-      note.N.F.: 73
+      note.NF: 73
       note.type: 112
       file.ctime: 166
       file.mtime: 169

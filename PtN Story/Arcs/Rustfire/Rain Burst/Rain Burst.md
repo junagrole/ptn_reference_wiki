@@ -9,7 +9,7 @@ Short:
 Arc:
   - "[[Rustfire]]"
 Category: Main Event
-N.F.: 113
+NF: 113
 Month: 7
 Day: 19
 State: Created

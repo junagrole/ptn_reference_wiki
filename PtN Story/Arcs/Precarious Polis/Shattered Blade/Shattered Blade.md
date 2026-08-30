@@ -5,7 +5,7 @@ Short:
 Arc:
   - "[[Precarious Polis]]"
 Category: Main Event
-N.F.: 115
+NF: 115
 Month:
 Day:
 State: Created

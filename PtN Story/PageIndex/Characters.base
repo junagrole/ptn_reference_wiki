@@ -1,81 +1,93 @@
 filters:
   and:
-    - content == "character"
+    - Content == "Character"
     - '!file.inFolder("Templates")'
 views:
   - type: table
     name: All characters
     order:
       - file.name
-      - sinner
-      - gender
-      - short
+      - Sinner
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Sinners
     filters:
       and:
-        - sinner == true
+        - Sinner == true
     order:
       - file.name
-      - birthplace
-      - gender
-      - short
+      - Gender
+      - Affiliation
+      - Short
+    sort: []
+    columnSize:
+      note.Affiliation: 128
   - type: table
     name: Non Sinners
     filters:
       and:
-        - sinner == false
+        - Sinner == false
     order:
       - file.name
-      - birthplace
-      - gender
-      - short
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Protagonists
     filters:
       and:
-        - storyrole == "protagonist"
+        - Storyrole == "Protagonist"
     order:
       - file.name
-      - sinner
-      - birthplace
-      - gender
-      - short
+      - Sinner
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Antagonist
     filters:
       and:
-        - storyrole == "antagonist"
+        - Storyrole == "Antagonist"
     order:
       - file.name
-      - birthplace
-      - gender
-      - short
+      - Sinner
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Supporting
     filters:
       and:
-        - storyrole == "supporting"
+        - Storyrole == "Supporting"
     order:
       - file.name
-      - birthplace
-      - gender
-      - short
+      - Sinner
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Background
     filters:
       and:
-        - storyrole == "background"
+        - Storyrole == "Background"
     order:
       - file.name
-      - birthplace
-      - gender
-      - short
+      - Sinner
+      - Gender
+      - Affiliation
+      - Short
   - type: table
     name: Male Characters
     filters:
       and:
-        - gender == "Male"
+        - Gender == "Male"
+    order:
+      - file.name
+      - Sinner
+      - Affiliation
+      - Short
   - type: table
     name: Maintenance
     order:

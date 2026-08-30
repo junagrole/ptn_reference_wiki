@@ -8,7 +8,7 @@ Tags:
   - politics
   - edge
 Short:
-N.F.: 113
+NF: 113
 Month: 12
 Day:
 State: Created

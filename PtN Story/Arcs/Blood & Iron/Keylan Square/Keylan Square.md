@@ -9,7 +9,7 @@ Short: The Keylan Square negotiations led to the outbreak of BR004. Subsequently
 Arc:
   - "[[Blood & Iron]]"
 Category: Main Story
-N.F.: 112
+NF: 112
 Month: 8
 Day: 20
 State: Created

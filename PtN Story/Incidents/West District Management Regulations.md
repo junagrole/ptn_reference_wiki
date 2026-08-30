@@ -7,7 +7,7 @@ Tags:
 Short: The city council chooses to abandon the West District to gang control and takes away their citizen rights
 Major: true
 Kind: Politics
-N.F.: 99
+NF: 99
 Month:
 Day:
 State: Created

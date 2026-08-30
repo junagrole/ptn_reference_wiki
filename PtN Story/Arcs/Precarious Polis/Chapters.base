@@ -1,7 +1,7 @@
 filters:
   and:
-    - content == "Chapter"
-    - arc.contains(link("Precarious Polis"))
+    - Content == "Chapter"
+    - Arc.contains(link("Precarious Polis"))
 views:
   - type: table
     name: Overview
@@ -12,7 +12,7 @@ views:
       - file.name
       - short
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -23,7 +23,7 @@ views:
   - type: table
     name: Timeline
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -54,7 +54,7 @@ views:
       - file.mtime
       - tags
     sort:
-      - property: N.F.
+      - property: NF
         direction: ASC
       - property: month
         direction: ASC
@@ -62,7 +62,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 188
-      note.N.F.: 82
+      note.NF: 82
       note.Category: 164
       file.ctime: 166
       file.mtime: 169

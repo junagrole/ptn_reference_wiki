@@ -1,20 +1,18 @@
 filters:
   and:
-    - '!file.inFolder("Templates")'
-    - Content == "Incident"
-    - note["N.F."] >= 26
-    - note["N.F."] <= 60
+    - Content == "Chapter"
+    - file.folder != "Templates"
 views:
   - type: table
-    name: All Incidents
+    name: All Chapters
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
-      - Kind
+      - Month
+      - Day
+      - Arc
       - Short
     sort:
       - property: month
@@ -22,23 +20,22 @@ views:
       - property: day
         direction: ASC
     columnSize:
-      file.name: 118
-      note.month: 107
-      note.day: 88
-      note.Kind: 104
+      note.Month: 99
+      note.Day: 71
+      note.type: 145
   - type: table
-    name: Only Major Incidents
+    name: Core Crisis
     filters:
       and:
-        - Major == true
+        - file.tags.contains("core_crisis")
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
-      - Kind
+      - Month
+      - Day
+      - Arc
       - Short
     sort:
       - property: month
@@ -46,20 +43,21 @@ views:
       - property: day
         direction: ASC
   - type: table
-    name: Only Minor Incidents
+    name: Eternal Nightmare
     filters:
       and:
-        - Major == false
+        - Arc.contains("Eternal Nightmare")
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
-      - month
-      - day
-      - Kind
+      - Month
+      - Day
       - Short
     sort:
+      - property: year
+        direction: ASC
       - property: month
         direction: ASC
       - property: day

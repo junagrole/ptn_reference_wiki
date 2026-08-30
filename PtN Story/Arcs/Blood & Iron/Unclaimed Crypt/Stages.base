@@ -1,6 +1,6 @@
 filters:
   and:
-    - chapter == link("Unclaimed Crypt")
+    - Chapter == link("Unclaimed Crypt")
 views:
   - type: table
     name: Overview

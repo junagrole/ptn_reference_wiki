@@ -1,7 +1,7 @@
 ---
 Tags:
 Short:
-N.F.:
+NF:
 Month:
 Day:
 State: Created

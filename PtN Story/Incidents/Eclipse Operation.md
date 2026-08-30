@@ -9,7 +9,7 @@ Tags:
 Short: Paradeisos and FAC launch a deep strike on the Lone Island underground base deep in DisSea
 Major: true
 Kind: Operation
-N.F.: 103
+NF: 103
 Month:
 Day:
 State: Created

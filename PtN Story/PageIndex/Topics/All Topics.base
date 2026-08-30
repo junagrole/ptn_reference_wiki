@@ -5,3 +5,9 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - file.tags
+      - Short
+    columnSize:
+      file.tags: 408

@@ -5,7 +5,7 @@ Tags:
 Short: The guerrillas secure covert assistance from EDGE scientists Helena and the later EDGE01
 Major: false
 Kind: Personal
-N.F.: 64
+NF: 64
 Month: 3
 Day: 17
 State: Created

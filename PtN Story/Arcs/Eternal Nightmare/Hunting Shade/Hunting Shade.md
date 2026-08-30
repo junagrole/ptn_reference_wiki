@@ -9,7 +9,7 @@ Arc:
   - "[[Rustfire]]"
   - "[[Eternal Nightmare]]"
 Category: Eternal Nightmare
-N.F.: 113
+NF: 113
 Month: 9
 Day: 8
 State: Created

@@ -9,7 +9,7 @@ Short:
 Arc:
   - "[[Precarious Polis]]"
 Category: Main Story
-N.F.: 115
+NF: 115
 Month: 5
 Day: 23
 State: Created

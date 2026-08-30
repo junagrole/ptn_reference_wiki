@@ -3,7 +3,7 @@ Tags:
   - dissea
   - expedition
 Short:
-N.F.: 113
+NF: 113
 Month: 4
 Day: 20
 State: Created

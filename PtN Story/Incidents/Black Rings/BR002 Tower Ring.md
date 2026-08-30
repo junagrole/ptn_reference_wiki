@@ -6,7 +6,7 @@ Tags:
 Short: During the Rustfire riots BR002 broke out a second time with Julien as Corpseborn
 Major: true
 Kind: Black Ring
-N.F.: 114
+NF: 114
 Month: 3
 Day:
 State: Created
