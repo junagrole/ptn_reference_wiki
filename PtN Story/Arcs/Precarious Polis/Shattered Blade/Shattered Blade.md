@@ -6,8 +6,8 @@ Arc:
   - "[[Precarious Polis]]"
 Category: Main Event
 NF: 115
-Month:
-Day:
+Month: 8
+Day: 7
 State: Created
 Content: Chapter
 ---

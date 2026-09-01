@@ -15,9 +15,11 @@ views:
       - Arc
       - Short
     sort:
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       note.Month: 99
@@ -38,9 +40,11 @@ views:
       - Arc
       - Short
     sort:
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
   - type: table
     name: Eternal Nightmare
@@ -58,7 +62,9 @@ views:
     sort:
       - property: year
         direction: ASC
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC

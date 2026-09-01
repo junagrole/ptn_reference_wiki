@@ -15,11 +15,11 @@ views:
       - Kind
       - Short
     sort:
-      - property: Day
-        direction: DESC
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       file.name: 277
@@ -41,9 +41,11 @@ views:
       - Kind
       - Short
     sort:
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       note.Kind: 113
@@ -62,7 +64,9 @@ views:
       - Kind
       - Short
     sort:
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC

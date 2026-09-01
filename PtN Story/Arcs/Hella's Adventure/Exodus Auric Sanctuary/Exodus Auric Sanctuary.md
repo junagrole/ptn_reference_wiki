@@ -6,14 +6,15 @@ Tags:
   - fraser
   - campbell
   - refugees
+  - core_crisis
 Short: Hella follows the trace of the inheritance to Furor, Together with her new Friend Hypatia Campbell she defeats an Apostle of Ashes
 Arc:
   - "[[Precarious Polis]]"
   - "[[Hella's Adventure]]"
 Category: Event
 NF: 115
-Month:
-Day:
+Month: 2
+Day: 21
 State: Created
 Content: Chapter
 ---

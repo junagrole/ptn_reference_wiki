@@ -14,9 +14,11 @@ views:
     sort:
       - property: NF
         direction: ASC
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       file.name: 186
@@ -31,9 +33,11 @@ views:
       - month
       - short
     sort:
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       file.name: 186
@@ -54,9 +58,11 @@ views:
     sort:
       - property: NF
         direction: ASC
-      - property: month
+      - property: NF
         direction: ASC
-      - property: day
+      - property: Month
+        direction: ASC
+      - property: Day
         direction: ASC
     columnSize:
       file.name: 186
