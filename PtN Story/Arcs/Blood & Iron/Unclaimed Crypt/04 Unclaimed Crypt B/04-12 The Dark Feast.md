@@ -9,7 +9,7 @@ Next: "[[04-12-RE It will be a blaze of fire next time]]"
 State: Review
 Content: Stage
 ---
-Far from being under control the awakening [[Inheritance]] draws the gang members [[Zoya]] defeated on her way down to it. Frenzied to reach it, the gang members have been thoroughly contaminated by their [[Mania Weapon]]. While [[Hecate]] still tries to figure out why, the gang members are pierced trough by contamination spikes and sucked into the coffin.
+Far from being under control the awakening [[Inheritance]] draws the gang members [[Characters/DisCity/Syndicate/Zoya]] defeated on her way down to it. Frenzied to reach it, the gang members have been thoroughly contaminated by their [[Mania Weapon]]. While [[Hecate]] still tries to figure out why, the gang members are pierced trough by contamination spikes and sucked into the coffin.
 
 > [!cite] Vague Voice
 > Almost there... [[Black Ring|Ring]]... Almost there...
@@ -26,7 +26,7 @@ Even with the monster destroyed, the [[Mania]] does not dissipate and the voice 
 In the effort to trap Zoya with its tentacles the Inheritance reveals a burning red core, the true Inheritance. Protecting by the invigorated [[Shackles]] Zoya rams a blinding white light directly into the core sealing the core into a [[White Cube]]. 
 The shackles didn't react at all to the white light, it was not Zoyas power.  Hecate confirms that it is an external seal, trapping the Inheritance alongside the Mania contamination.
 
-With the altar in ruins and bereft of the Inheritances mania field even the [[Mania Crystal]] crumble. [[Earl]] makes his way down, collecting his unconscious sister along the way.
+With the altar in ruins and bereft of the Inheritances mania field even the [[Mania Crystal]] crumble. [[Characters/DisCity/Syndicate/Earl]] makes his way down, collecting his unconscious sister along the way.
 Announcing their victory, Zoya leads everyone back to the surface.
 
 

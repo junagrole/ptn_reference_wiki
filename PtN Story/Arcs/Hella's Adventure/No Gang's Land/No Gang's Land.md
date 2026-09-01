@@ -4,9 +4,7 @@ Tags:
   - legion
   - core_crisis
 Short: Hella gets kidnapped by Korryn and gets entangled with the moving town of Tuco. Together they take down a corrupt DisCity patrol ship
-Arc:
-  - "[[Precarious Polis]]"
-  - "[[Hella's Adventure]]"
+Arc: "[[Arcs/Hella's Adventure/Hella's Adventure|Hella's Adventure]]"
 Category: Event
 NF: 114
 Month: 8

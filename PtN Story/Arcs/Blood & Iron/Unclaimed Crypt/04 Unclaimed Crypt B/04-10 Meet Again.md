@@ -9,11 +9,11 @@ Next: "[[04-10-RE Bewitchment]]"
 State: Review
 Content: Stage
 ---
-Fighting the gang members [[Horo]] loses herself, her Mania getting out of control. The [[Inheritance]] resonates with the [[Mania]] around it, activating and strengthening it. In return [[Maniacs]] and [[Sinner]] losing control furthers the awakening of the Inheritance. A positive feedback loop that will end in disaster. The mastermind behind the [[Mania Weapon]] used gang members for this very purpose, creating a trap to cultivate the Inheritance.
+Fighting the gang members [[Characters/DisCity/Syndicate/Horo]] loses herself, her Mania getting out of control. The [[Inheritance]] resonates with the [[Mania]] around it, activating and strengthening it. In return [[Maniacs]] and [[Sinner]] losing control furthers the awakening of the Inheritance. A positive feedback loop that will end in disaster. The mastermind behind the [[Mania Weapon]] used gang members for this very purpose, creating a trap to cultivate the Inheritance.
 
 Nearing her limit Horo is looking more and more like a demon than a person. Seeing the girl on verge of turning into a [[Corruptors|Corruptor]], [[Chief]] is getting flashbacks to the [[Gray-haired Girl]] they couldn't save. Swearing that this time, they will save her.
 
-But the battle is only interrupted when a body smashes into the altar, thrown across the pit with the force of a canon ball. The frightening aura of an S class Sinner freezes everyone in place. [[Zoya]] has arrived.
+But the battle is only interrupted when a body smashes into the altar, thrown across the pit with the force of a canon ball. The frightening aura of an S class Sinner freezes everyone in place. [[Characters/DisCity/Syndicate/Zoya]] has arrived.
 
 Snapped out of their daze the gang members throw everything they have at her, but to no avail. The battle has ended, but the Mania is still looking for release, prey to vent Anger on.
 

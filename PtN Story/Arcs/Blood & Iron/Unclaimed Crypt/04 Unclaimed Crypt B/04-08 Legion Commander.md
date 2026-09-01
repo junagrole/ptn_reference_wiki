@@ -11,8 +11,8 @@ Next: "[[04-09 Trap]]"
 State: Review
 Content: Stage
 ---
-Bickering with [[Hella]] about [[Zoya]] gets [[Horo]] to open up about her commander. Before they became [[The Legion]] they were a mercenary fleet, taking commissions and avoiding fights. 
-They lacked the strength to take on the injustice they encountered and experienced. [[Earl]] invited Zoya to increase their fighting power, shattering Horos self confidence.
+Bickering with [[Hella]] about [[Characters/DisCity/Syndicate/Zoya]] gets [[Characters/DisCity/Syndicate/Horo]] to open up about her commander. Before they became [[Organisations/Gangs/The Legion]] they were a mercenary fleet, taking commissions and avoiding fights. 
+They lacked the strength to take on the injustice they encountered and experienced. [[Characters/DisCity/Syndicate/Earl]] invited Zoya to increase their fighting power, shattering Horos self confidence.
 
 Trying to prove herself Horo picked fights with gangsters and duelled Zoya. On one such excursion she got infected by Mania. Seeking one last fight she challenged Zoya again, who beat her into the ground before encouraging her not to give up. 
 Horo came out of that ordeal as a [[Sinner]] and with boundless admiration for her boss.

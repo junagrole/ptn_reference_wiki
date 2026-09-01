@@ -8,7 +8,7 @@ Next: "[[01-09 Doctor Brand]]"
 State: Complete
 Content: Stage
 ---
-Even after the [[Gonzales]] gangsters are beaten, [[Ted|Ted's]] men continue attacking them. They too have become [[Maniacs|infected with Mania]]. [[Hella]] urges him to withdraw them, but to Ted all that matters is that they have become stronger and can storm [[SALVA Hospital]] now.
+Even after the [[Organisations/Gangs/Gonzales]] gangsters are beaten, [[Ted|Ted's]] men continue attacking them. They too have become [[Maniacs|infected with Mania]]. [[Hella]] urges him to withdraw them, but to Ted all that matters is that they have become stronger and can storm [[SALVA Hospital]] now.
 
 A group of armed doctors leave the hospital ready to subdue the gangsters for treatment. With the two Sinners at your side you claim victory. The lead doctor, a former member of Teds gang, scolds Ted for letting his men get infected with Mania. But Ted just calls him a traitor and proceeds to go to SALVA.
 

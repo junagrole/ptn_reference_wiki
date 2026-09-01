@@ -6,7 +6,7 @@ Tags:
 Short: Legion member and later leader. Sister of Earl.
 Sinner: true
 Gender: Female
-Affiliation: "[[The Legion]]"
+Affiliation: "[[Organisations/Gangs/The Legion]]"
 Storyrole: Supporting
 State: Created
 Content: Character

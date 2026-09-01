@@ -6,8 +6,8 @@ Tags:
 Short:
 Structure: Parliament
 Purpose: Government
-Leadership: "[[Max King]]"
-Headquarters: "[[Eastside]]"
+Leadership: "[[Characters/DisCity/Eastside/Max King]]"
+Headquarters: "[[Locations/DisCity/Eastside/Eastside]]"
 State: Created
 Content: Organisation
 ---

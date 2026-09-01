@@ -1,8 +1,7 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Blood & Iron]]"
+Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Event
 NF: 113
 Month:

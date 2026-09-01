@@ -9,7 +9,7 @@ Next: "[[04-11 Shackles Sinner]]"
 State: Review
 Content: Stage
 ---
-Upon being reunited with [[Zoya]] [[Horo]] tells her how much she looks up to her, that she guarded the altar sure her boss would come. But the [[Inheritance]] uses that wish to tempt Zoya into taking up the the eldritch power for herself. To use it to destroy [[Syndicate]] and create a new home.
+Upon being reunited with [[Characters/DisCity/Syndicate/Zoya]] [[Characters/DisCity/Syndicate/Horo]] tells her how much she looks up to her, that she guarded the altar sure her boss would come. But the [[Inheritance]] uses that wish to tempt Zoya into taking up the the eldritch power for herself. To use it to destroy [[Locations/DisCity/West District/West District]] and create a new home.
 
 Immobilised by the contamination the team can only watch. But Zoya just asks the manic girl, before punching her with full force.
 > [!cite] Zoya

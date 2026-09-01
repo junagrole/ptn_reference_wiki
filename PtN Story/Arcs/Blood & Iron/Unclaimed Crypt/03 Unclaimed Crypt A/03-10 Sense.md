@@ -10,7 +10,7 @@ State: Review
 Content: Stage
 ---
 While Chief is lying on the ground as the obedient hostage, waiting for her Sinners to get to the warehouse the remaining gang members are looking for a way out of the situation.
-[[Red Falcon]] wants to abandon the plan, [[Yagyu]] wants to use the hostage and [[Thou Voodoo]] wants to to use the [[Inheritance]]. They can't go back on the plan, since the client for this gig are **them**, their suppliers of [[Mania Weapon]]. *Probably the Underground trough Parma.*
+[[Organisations/Gangs/Red Falcon]] wants to abandon the plan, [[Organisations/Gangs/Yagyu]] wants to use the hostage and [[Organisations/Gangs/Thou Voodoo]] wants to to use the [[Inheritance]]. They can't go back on the plan, since the client for this gig are **them**, their suppliers of [[Mania Weapon]]. *Probably the Underground trough Parma.*
 
 > [!cite] Yagyu Remnanat
 > This is a job from **them**, and your only option is to get it done! We must destroy the Legion! 

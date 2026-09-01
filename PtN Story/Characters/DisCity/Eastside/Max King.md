@@ -9,7 +9,7 @@ Tags:
 Short: The City Council speaker, plays the fool, former tycoon and social media star
 Sinner: false
 Gender: Male
-Affiliation: "[[City Council]]"
+Affiliation: "[[Organisations/Political/City Council]]"
 Storyrole: Supporting
 State: Created
 Content: Character

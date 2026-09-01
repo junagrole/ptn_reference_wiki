@@ -16,7 +16,7 @@ But you're not alone in the dumpster besides you is the Sinner [[Labyrinth]]. Mo
 > Protect... Ma... Mary... Ma... ry...
 > I'm... so... rry...
 
-After the reboot is complete she goes into AI Maid mode and offers to serve you before helping out in the battle. Hella is confused why there is a robot in a [[Syndicate]] back alley.
+After the reboot is complete she goes into AI Maid mode and offers to serve you before helping out in the battle. Hella is confused why there is a robot in a [[Locations/DisCity/West District/West District]] back alley.
 
 > [!cite] Hecate
 > [[Sinner|Sinners]] can only be human.

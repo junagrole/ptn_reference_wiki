@@ -7,7 +7,7 @@ Short:
 Structure: Company
 Purpose: Business
 Leadership: Unknown
-Headquarters: "[[Eastside]]"
+Headquarters: "[[Locations/DisCity/Eastside/Eastside]]"
 State: Created
 Content: Organisation
 ---

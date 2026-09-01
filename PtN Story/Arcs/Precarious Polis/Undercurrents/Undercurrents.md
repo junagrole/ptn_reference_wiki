@@ -11,8 +11,7 @@ Tags:
   - discorps
   - aurum_secretum
 Short:
-Arc:
-  - "[[Precarious Polis]]"
+Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Story
 NF: 114
 Month: 11

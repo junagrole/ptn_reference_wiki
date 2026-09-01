@@ -5,9 +5,7 @@ Tags:
   - fac
   - apostle
 Short:
-Arc:
-  - "[[Rustfire]]"
-  - "[[Eternal Nightmare]]"
+Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 113
 Month: 9

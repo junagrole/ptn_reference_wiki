@@ -9,11 +9,11 @@ Next: "[[03-04 Shackles In Hostage]]"
 State: Review
 Content: Stage
 ---
-Waking up inside a moving [[The Legion|Legion]] truck, Chief finds herself confronted by [[Zoya]], the leader of the Legion.  Zoya is well informed about Chief and the MBCC and immediately demands them to abandon their pursuit of the Sinner, one of her own crew.
+Waking up inside a moving [[Organisations/Gangs/The Legion|Legion]] truck, Chief finds herself confronted by [[Characters/DisCity/Syndicate/Zoya]], the leader of the Legion.  Zoya is well informed about Chief and the MBCC and immediately demands them to abandon their pursuit of the Sinner, one of her own crew.
 
 From Zoya we learn that [[Chief]] is genuinely new in her role and even she has no idea about our background. Still she has enough access to know about the [[Shackles]]. Now she wants to get the details on how they work.
 
-Chiefs refusal is rendered irrelevant when [[Earl]] cuts in via phone with the intel he gathered. While the MBCC themselves don't know much about the Shackles, either, they do use three abilities of them to control Sinners.
+Chiefs refusal is rendered irrelevant when [[Characters/DisCity/Syndicate/Earl]] cuts in via phone with the intel he gathered. While the MBCC themselves don't know much about the Shackles, either, they do use three abilities of them to control Sinners.
 
 - Combat ability enhancement
 - Weak sense tracking

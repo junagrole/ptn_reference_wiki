@@ -6,8 +6,7 @@ Tags:
   - garden
   - hush
 Short:
-Arc:
-  - "[[Rustfire]]"
+Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Main Event
 NF: 113
 Month: 7

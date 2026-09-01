@@ -5,7 +5,7 @@ Tags:
 Short: Horros older brother and Zoya second in command. Sacrificed himself to give Zoya a chance to escape from BR004
 Sinner: true
 Gender: Male
-Affiliation: "[[The Legion]]"
+Affiliation: "[[Organisations/Gangs/The Legion]]"
 Storyrole: Supporting
 State: Created
 Content: Character

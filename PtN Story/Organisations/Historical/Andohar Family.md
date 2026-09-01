@@ -4,7 +4,7 @@ Short: Arms dealers from the Metropoles. sided with DisCity when they started wi
 Structure: Family
 Purpose: Business
 Leadership: "[[Catherine Augustus Andohar]]"
-Headquarters: "[[Eastside]]"
+Headquarters: "[[Locations/DisCity/Eastside/Eastside]]"
 State: Created
 Content: Organisation
 ---

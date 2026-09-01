@@ -4,9 +4,7 @@ Tags:
   - apostle
   - dissea
 Short: Joining the ocean exploration team Chief and Pylgia have to face the Abyss again. A piano player and being able to wield the rules pose new mysteries
-Arc:
-  - "[[Precarious Polis]]"
-  - "[[Eternal Nightmare]]"
+Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 115
 Month: 2

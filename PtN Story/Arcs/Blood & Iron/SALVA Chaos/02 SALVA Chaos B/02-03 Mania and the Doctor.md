@@ -26,7 +26,7 @@ While [[Hecate]] pleads with you not to try that again you're sick enough to thr
 
 You finally have the chance to discuss the situation with her. While she doesn't confirm the patient to be [[Subject R]], she does admit to taking in an injured Sinner. But insists that you wait until she recovers before investigating further.
 
-Dismissing [[Ted|Ted's]] accusations, Iron explains to you that Mania is not caused by Sinners. Though the exact case remains unknown. But she suspects that the red vial plays a role in the [[Syndicate]] outbreak.
+Dismissing [[Ted|Ted's]] accusations, Iron explains to you that Mania is not caused by Sinners. Though the exact case remains unknown. But she suspects that the red vial plays a role in the [[Locations/DisCity/West District/West District]] outbreak.
 >[!cite] Dr. Iron
 >[[Mania Crystal]]. Liquid. Unknown composition. It triggers Mania and accelerates mutation once injected into the human body.
 

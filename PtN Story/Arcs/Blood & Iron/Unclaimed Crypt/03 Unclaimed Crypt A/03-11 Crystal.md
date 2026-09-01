@@ -9,7 +9,7 @@ Next: "[[03-12 Type-99]]"
 State: Review
 Content: Stage
 ---
-With [[Zoya]] being underground and Chief temporarily safe [[Hecate]] proposes to return to the MBCC to remove [[Earl|Earls]] bomb. But Chief wants to continue the search for [[Subject R]] and find clues about the [[Inheritance]] and the producer of the [[Mania Weapon]].
+With [[Characters/DisCity/Syndicate/Zoya]] being underground and Chief temporarily safe [[Hecate]] proposes to return to the MBCC to remove [[Characters/DisCity/Syndicate/Earl|Earls]] bomb. But Chief wants to continue the search for [[Subject R]] and find clues about the [[Inheritance]] and the producer of the [[Mania Weapon]].
 
 One of the weapon containers also holds a jar filled with a blood red liquid.
 > [!cite] Label

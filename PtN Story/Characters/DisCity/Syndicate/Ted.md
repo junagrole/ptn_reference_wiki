@@ -11,7 +11,7 @@ Content: Character
 Affiliation: Gang
 ---
 ## Background
-Leader of a small gang in [[Syndicate]]. Is quite well recognised by other gangs, but not respected. 
+Leader of a small gang in [[Locations/DisCity/West District/West District]]. Is quite well recognised by other gangs, but not respected. 
 
 He lost his eye and got infected by Mania in a gang fight, but was treated by [[Dr. Iron]]. Along with the artificial eye came the inability to use a [[Mania Crystal]]. Denied the power of Mania he developed a burning hatred for Sinners. Fearing their powers but also desiring it.
 

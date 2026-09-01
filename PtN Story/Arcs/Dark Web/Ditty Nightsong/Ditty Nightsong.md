@@ -1,8 +1,7 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Dark Web]]"
+Arc: "[[Arcs/Dark Web/Dark Web|Dark Web]]"
 Category: Event
 NF: 114
 Month:

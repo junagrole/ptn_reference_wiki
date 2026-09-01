@@ -2,7 +2,7 @@
 Tags:
   - research
 Short: DisCities most prestigious university
-Area: "[[Eastside]]"
+Area: "[[Locations/DisCity/Eastside/Eastside]]"
 Size: Facility
 State: Created
 Content: Location

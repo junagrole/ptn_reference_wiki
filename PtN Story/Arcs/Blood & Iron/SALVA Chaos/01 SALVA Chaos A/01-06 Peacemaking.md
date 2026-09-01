@@ -14,6 +14,6 @@ But you being able to restrain them with your [[Shackles]] earns their approval.
 
 Meanwhile inside the gangsters insulting [[Hella]] has led to a fight. [[Hecate]] reports one of the now downed men hit Hella with a stick first. Hearing that you side with the dumbfounded Hella. Since Ted refuses to solve the problem you decide to solve it by beating them all up. 
 
-Soon after Hella is happy and the gangsters are crying for mercy. Unmoved by their pleas Ted just pistol whips one and apologies to you. He appreciates you settling the argument in good [[Syndicate]] tradition.
+Soon after Hella is happy and the gangsters are crying for mercy. Unmoved by their pleas Ted just pistol whips one and apologies to you. He appreciates you settling the argument in good [[Locations/DisCity/West District/West District]] tradition.
 
 Hella comes over to warn you about Teds insincerity and tease you about the two of them being that important to you. Brushing away your explanation she nevertheless appreciates you standing up for her before leaving.

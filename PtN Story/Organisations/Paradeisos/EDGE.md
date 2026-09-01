@@ -22,7 +22,7 @@ Content: Organisation
 | 02          | [[EDGE 02]]                                    | ?                 |
 | 03          | [[EDGE 03]]                                    | ?                 |
 | 04          | [[EDGE 04]]                                    | ?                 |
-| 05          | [[Bernadette Cavendish\|Bernadette Cavendish]] | NF 115, January   |
+| 05          | [[Characters/DisCity/Eastside/Bernadette Cavendish\|Bernadette Cavendish]] | NF 115, January   |
 | 06          | [[Adrian Sterling]]                            | ? (NF 103?)       |
 | 07          | [[Lemma Herzfeld]]                             | NF 113, May       |
 | 08          | [[Catherine Augustus Andohar]]                 | NF 115, September |

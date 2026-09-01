@@ -1,10 +1,9 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Blood & Iron]]"
+Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Event
-NF:
+NF: 112
 Month:
 Day:
 State: Created

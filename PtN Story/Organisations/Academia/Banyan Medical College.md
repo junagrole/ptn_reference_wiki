@@ -7,7 +7,7 @@ Short: Primary and prestigious medical school of DisCity
 Structure: University
 Purpose: Hospital
 Leadership: Dean
-Headquarters: "[[Eastside]]"
+Headquarters: "[[Locations/DisCity/Eastside/Eastside]]"
 State: Created
 Content: Organisation
 ---

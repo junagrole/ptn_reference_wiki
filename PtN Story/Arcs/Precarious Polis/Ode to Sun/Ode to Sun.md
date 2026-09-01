@@ -3,8 +3,7 @@ Tags:
   - core_crisis
   - lunar_new_year
 Short:
-Arc:
-  - "[[Precarious Polis]]"
+Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Event
 NF: 114
 Month: 1

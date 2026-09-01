@@ -1,0 +1,16 @@
+filters:
+  and:
+    - Content == "Arc"
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - NF
+      - Month
+      - Day
+      - Short
+    sort:
+      - property: NF
+        direction: ASC

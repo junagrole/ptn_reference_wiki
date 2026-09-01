@@ -13,7 +13,7 @@ Content: Stage
 ---
 The [[SALVA Hospital|basement]] is unexpectedly empty, with only a desk and a journal in the wide empty room. The isolation wards must be separated further in.
 
-[[Anne|Anne's]] journal details her early days with the [[Banyan Medical College|Colleges]] quarantine facility in [[Syndicate]]. Their first use of [[M-Value]] to measure infection. Various infection vectors for [[Mania]] and the threshold before [[Maniacs]] turn into [[Corruptors]]. Gang violence is increasing and with it the spread of Mania soon exceeds the capacity of the facility.
+[[Anne|Anne's]] journal details her early days with the [[Organisations/Academia/Banyan Medical College|Colleges]] quarantine facility in [[Locations/DisCity/West District/West District]]. Their first use of [[M-Value]] to measure infection. Various infection vectors for [[Mania]] and the threshold before [[Maniacs]] turn into [[Corruptors]]. Gang violence is increasing and with it the spread of Mania soon exceeds the capacity of the facility.
 
 Even after the College abandoned the project, Anne refuses to leave. Staying with the patients even as her own M-Value increases. Instead of turning into a Corruptor she becomes a [[Sinner]] but she still lost all her patients leaving her heavily contaminated. Still she refused to give up and vowed to find a way. Obsession is one of the symptoms of being a Sinner. 
 

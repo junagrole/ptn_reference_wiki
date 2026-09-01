@@ -2,8 +2,7 @@
 Tags:
   - core_crisis
 Short:
-Arc:
-  - "[[Overturning Tide]]"
+Arc: "[[Arcs/Overturning Tide/Overturning Tide|Overturning Tide]]"
 Category: Main Story
 NF: 116
 Month: 5

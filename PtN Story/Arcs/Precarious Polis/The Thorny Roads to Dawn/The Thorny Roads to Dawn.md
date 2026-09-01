@@ -1,8 +1,7 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Precarious Polis]]"
+Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Story
 NF: 115
 Month: 9

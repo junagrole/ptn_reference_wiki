@@ -1,8 +1,7 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Rustfire]]"
+Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Event
 NF: 113
 Month:

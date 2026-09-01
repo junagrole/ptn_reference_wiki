@@ -3,8 +3,7 @@ Tags:
   - core_crisis
   - anniversary
 Short:
-Arc:
-  - "[[Dark Web]]"
+Arc: "[[Arcs/Dark Web/Dark Web|Dark Web]]"
 Category: Main Event
 NF: 114
 Month: 7

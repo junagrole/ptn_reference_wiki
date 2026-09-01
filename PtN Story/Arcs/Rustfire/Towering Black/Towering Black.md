@@ -6,8 +6,7 @@ Tags:
   - paradeisos
   - underground
 Short:
-Arc:
-  - "[[Rustfire]]"
+Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Main Story
 NF: 113
 Month: 11

@@ -12,7 +12,7 @@ Storyrole: Background
 State: Complete
 Content: Character
 ---
-A doctor at [[SALVA Hospital]]. In N.F. 112 he led an ambulance into [[Syndicate]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[Organisations/Security Forces/MBCC]] squad searching for [[Subject R]]. 
+A doctor at [[SALVA Hospital]]. In N.F. 112 he led an ambulance into [[Locations/DisCity/West District/West District]] to treat [[Maniacs]] among the gang members. Unfortunately they got into conflict with [[Ted]] and the [[Organisations/Security Forces/MBCC]] squad searching for [[Subject R]]. 
 
 He was interrogated by Ted who threatened his wounded colleague, [[Laura]]. Distraught by her pain and desperately wanting to save her he shared the little he knew about a Sinner being brought in by [[Anne]] and the absence of [[Dr. Iron]].
 

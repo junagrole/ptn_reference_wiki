@@ -11,7 +11,7 @@ Next: "[[03-02 Highway Battle]]"
 State: Review
 Content: Stage
 ---
-Pursued by [[Ninety-Nine]] on a motorbike the group can only speed down the streets of Syndicate to escape. With [[Che]] driving [[Hecate]] and [[Hella]] speculate why the Legion is after them.
+Pursued by [[Ninety-Nine]] on a motorbike the group can only speed down the streets of Syndicate to escape. With [[Characters/DisCity/Inner Bay/Che]] driving [[Hecate]] and [[Hella]] speculate why the Legion is after them.
 The argument and the escape are cut short by a swarm of gangsters fleeing in the opposite direction.
 
 While fighting off the gangsters intent on seizing your car Hella is nearly hit by a grenade. Only a sudden command from the shackles allows her to dodge. While still cursing the Chief out her attitude has softened considerably.

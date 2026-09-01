@@ -4,7 +4,7 @@ Short:
 Structure: Gang
 Purpose: Criminal
 Leadership:
-Headquarters: "[[Syndicate]]"
+Headquarters: "[[Locations/DisCity/West District/West District]]"
 State: Created
 Content: Organisation
 ---

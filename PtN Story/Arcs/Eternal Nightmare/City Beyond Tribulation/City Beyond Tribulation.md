@@ -1,9 +1,7 @@
 ---
 Tags:
 Short:
-Arc:
-  - "[[Eternal Nightmare]]"
-  - "[[Precarious Polis]]"
+Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 115
 Month: 12

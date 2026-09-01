@@ -19,6 +19,6 @@ According to Hecates analysis the Corruptors have been turned a long time ago. B
 > You can sense a strong presence ahead of you, throbbing slowly in the bowels of the crypt. It is radiating strong and murderous malice, nothing human like.
 > It's more like a bewitchment, a curse that goes back a long way to the source.
 
-Assured by [[Hella]] that her injuries won't be a problem the team hurries into the depths. [[Zoya]] is coming down the central elevator shaft and they have to beat her to the Inheritance.
+Assured by [[Hella]] that her injuries won't be a problem the team hurries into the depths. [[Characters/DisCity/Syndicate/Zoya]] is coming down the central elevator shaft and they have to beat her to the Inheritance.
 
 Chiefs wonders why only a narrow passage has opened in the spikes as if welcoming someone. It was neither Hellas nor Hecates power that melted the spikes.

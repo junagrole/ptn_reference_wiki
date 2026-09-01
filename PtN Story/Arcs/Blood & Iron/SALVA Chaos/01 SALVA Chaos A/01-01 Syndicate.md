@@ -9,7 +9,7 @@ Next: "[[01-02 Assassination]]"
 State: Review
 Content: Stage
 ---
-The chapter starts in Chiefs Office with a flashback to Chief getting briefed [[Nightingale]]. In the aftermath of the [[MBCC Riot]] many of the Sinners fled to [[Syndicate]] which caused major riots. The [[Public Security Bureau]] has confirmed that [[Subject R]] also escaped into Syndicate. They promise assistance and intelligence if the MBCC can deal with the cause of the riot first.
+The chapter starts in Chiefs Office with a flashback to Chief getting briefed [[Nightingale]]. In the aftermath of the [[MBCC Riot]] many of the Sinners fled to [[Locations/DisCity/West District/West District]] which caused major riots. The [[Public Security Bureau]] has confirmed that [[Subject R]] also escaped into Syndicate. They promise assistance and intelligence if the MBCC can deal with the cause of the riot first.
 Chief is to lead a small group of [[Sinner|Sinners]] into Syndicate to arrest the fugitive Sinners. A covert operation is necessary since Syndicate is ruled by gangs. 
 
 We return to the present with the MBCC team, Chief, [[Hella]] and [[Hecate]] reached the local security precinct in Syndicate. The riot has already reached it and even breached the gate. Nearly a hundred gangs are involved in a free for all fight and attack the team as well. Hella feels right at home in the chaos and gets ready to fight.
