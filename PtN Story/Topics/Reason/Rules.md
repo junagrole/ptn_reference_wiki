@@ -1,7 +1,8 @@
 ---
 Tags:
   - paradeisos
-  - metaphysics/reason
+  - hypercubes
+Short:
 State: Created
 Content: Topic
 ---

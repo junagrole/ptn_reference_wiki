@@ -10,7 +10,7 @@ Short:
 Structure: Secret Society
 Purpose: Anti Mania
 Leadership: Committee
-Headquarters: "[[DisCity]]"
+Headquarters: "[[Locations/DisCity/DisCity|DisCity]]"
 State: Created
 Content: Organisation
 ---

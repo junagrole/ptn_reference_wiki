@@ -9,6 +9,6 @@ State: Created
 Content: Organisation
 Structure: Military
 Purpose: Resistance Group
-Leadership: "[[Dravyn Steel]]"
-Headquarters: "[[DisCity]]"
+Leadership: "[[Characters/DisCity/Historical/Dravyn Steel|Dravyn Steel]]"
+Headquarters: "[[Locations/DisCity/DisCity|DisCity]]"
 ---

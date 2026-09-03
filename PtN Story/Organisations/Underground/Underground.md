@@ -6,7 +6,7 @@ Tags:
 Short:
 Structure: Secret Society
 Purpose: Mania
-Leadership: "[[Underground Shepherd]]"
+Leadership: "[[Characters/Underground/Underground Shepherd|Underground Shepherd]]"
 Headquarters:
 State: Created
 Content: Organisation

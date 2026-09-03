@@ -1,6 +1,8 @@
 ---
 Tags:
-  - metaphysics/mania
+  - mania
+  - underground
+Short:
 State: Created
 Content: Topic
 ---

@@ -1,11 +1,12 @@
 ---
 Tags:
   - campbell
+  - corporation
 Short: Major DisCity company. It's president and founder is Eirene Campbell.
 Structure: Company
 Purpose: Business
 Leadership: "[[Eirene Campbell]]"
-Headquarters: "[[Locations/DisCity/Eastside/Eastside]]"
+Headquarters: "[[Locations/DisCity/Eastside/Eastside|Eastside]]"
 State: Stub
 Content: Organisation
 ---

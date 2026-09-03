@@ -1,6 +1,6 @@
 ---
 Tags:
-  - sinner/b_class
+  - b_class
 Short:
 Character: Hella
 Category: Event

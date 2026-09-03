@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/a_class
   - mbcc
   - mystery
+  - a_class
 Short: Overprotective of Chief, she slowly explores her emotions and befriends Hella
 Sinner: true
 Gender: Female

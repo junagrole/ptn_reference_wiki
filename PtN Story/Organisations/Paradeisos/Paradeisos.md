@@ -8,8 +8,8 @@ Tags:
 Short:
 Structure: Secret Society
 Purpose: Anti Mania
-Leadership: "[[EDGE]]"
-Headquarters: "[[DisCity]]"
+Leadership: "[[Organisations/Paradeisos/EDGE|EDGE]]"
+Headquarters: "[[Locations/DisCity/DisCity|DisCity]]"
 State: Created
 Content: Organisation
 ---

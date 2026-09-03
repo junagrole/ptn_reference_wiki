@@ -1,9 +1,10 @@
 ---
 Tags:
-  - metaphysics/mania
-  - meta/antagonist
-State: Complete
-Content: Creature
+  - mania
+  - entity
+Short:
+State: Created
+Content: Topic
 ---
 
 

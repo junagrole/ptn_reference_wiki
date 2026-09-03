@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/b_class
   - west_district
   - mbcc
+  - b_class
 Short: The self proclaimed Archer Queen of Syndicate, often fights with Hella
 Sinner: true
 Gender: Female

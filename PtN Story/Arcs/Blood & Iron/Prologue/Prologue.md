@@ -15,7 +15,7 @@ Content: Chapter
 
 
 ## Stages
-- [[00-01 Awake]]
-- [[00-02 Shadow]]
-- [[00-03 White Beast]]
-- [[00-04 Beginning]]
+- [[Arcs/Blood & Iron/Prologue/00-01 Awake|00-01 Awake]]
+- [[Arcs/Blood & Iron/Prologue/00-02 Shadow|00-02 Shadow]]
+- [[Arcs/Blood & Iron/Prologue/00-03 White Beast|00-03 White Beast]]
+- [[Arcs/Blood & Iron/Prologue/00-04 Beginning|00-04 Beginning]]

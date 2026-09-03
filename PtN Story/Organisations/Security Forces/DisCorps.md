@@ -5,8 +5,8 @@ Tags:
 Short:
 Structure: Military
 Purpose: War
-Leadership: "[[Catherine Augustus Andohar]]"
-Headquarters: "[[Nirvana Port]]"
+Leadership: "[[Characters/DisCity/Historical/Catherine Augustus Andohar|Catherine Augustus Andohar]]"
+Headquarters: "[[Locations/White Sands/Nirvana Port|Nirvana Port]]"
 State: Created
 Content: Organisation
 ---

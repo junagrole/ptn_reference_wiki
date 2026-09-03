@@ -1,6 +1,7 @@
 ---
 Tags:
-  - metaphysics/apostle
+  - apostle
+Short:
 State: Created
 Content: Topic
 ---

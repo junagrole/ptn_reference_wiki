@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/a_class
   - salva
   - medical
+  - a_class
 Short: A nurse driven by guilt, works at SALVA
 Sinner: true
 Gender: Female

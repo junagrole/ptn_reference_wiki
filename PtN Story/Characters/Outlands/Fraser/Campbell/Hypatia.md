@@ -1,10 +1,10 @@
 ---
 Tags:
-  - sinner/s_class
   - fraser
   - campbell
   - scientist
   - aurum_secretum
+  - s_class
 aliases:
   - Hypatia Campbell
   - Hypa

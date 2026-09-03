@@ -9,8 +9,8 @@ Tags:
 Short:
 Structure: Agency
 Purpose: Anti Mania
-Leadership: "[[Chief]]"
-Headquarters: "[[DisCity]]"
+Leadership: "[[Characters/Paradeisos/MBCC/Chief|Chief]]"
+Headquarters: "[[Locations/DisCity/DisCity|DisCity]]"
 State: Created
 Content: Organisation
 ---

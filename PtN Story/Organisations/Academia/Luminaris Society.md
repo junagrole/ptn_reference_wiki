@@ -5,7 +5,7 @@ Short:
 Structure: University
 Purpose: Academia
 Leadership:
-Headquarters: "[[Fraser]]"
+Headquarters: "[[Locations/Farlands/Fraser|Fraser]]"
 State: Created
 Content: Organisation
 ---

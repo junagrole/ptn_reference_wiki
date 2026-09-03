@@ -7,7 +7,7 @@ Short:
 Structure: Agency
 Purpose: Intelligence
 Leadership:
-Headquarters: "[[DisCity]]"
+Headquarters: "[[Locations/DisCity/DisCity|DisCity]]"
 State: Created
 Content: Organisation
 ---

@@ -3,17 +3,13 @@ Tags:
   - west_district
 Pov:
   - Chief
-Chapter: "[[SALVA Chaos]]"
-Previous: "[[00-04 Beginning]]"
-Next: "[[01-02 Assassination]]"
-State: Review
+Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"
+Previous: "[[Arcs/Blood & Iron/Prologue/00-04 Beginning|00-04 Beginning]]"
+Next: "[[Arcs/Blood & Iron/SALVA Chaos/01 SALVA Chaos A/01-02 Assassination|01-02 Assassination]]"
+State: Complete
 Content: Stage
 ---
-The chapter starts in Chiefs Office with a flashback to Chief getting briefed [[Nightingale]]. In the aftermath of the [[MBCC Riot]] many of the Sinners fled to [[Locations/DisCity/West District/West District]] which caused major riots. The [[Public Security Bureau]] has confirmed that [[Subject R]] also escaped into Syndicate. They promise assistance and intelligence if the MBCC can deal with the cause of the riot first.
-Chief is to lead a small group of [[Sinner|Sinners]] into Syndicate to arrest the fugitive Sinners. A covert operation is necessary since Syndicate is ruled by gangs. 
+[[Characters/Paradeisos/MBCC/Nightingale|Nightingale]] briefs Chief about the Sinners that fled to [[Locations/DisCity/West District/West District|Syndicate]] after their escape during the [[Incidents/MBCC Riot|MBCC Riot]]. Among them the instigator of the riot [[Characters/Unknown/Subject R|Subject R]]. The [[Organisations/Security Forces/Public Security Bureau|PSB]] did not only provide the intelligence about the fugitive, they also promise further assistance. Several [[Topics/Mania/Sinner|Sinners]] arriving at the same time caused a major gang war to break out. 
+Syndicate is effectively lawless and ruled by gangs after the [[Organisations/Political/City Council|City Council]] abandoned it with the [[Incidents/West District Management Regulations|West District Management Regulations]] 20 years ago. Therefore only a small team will covertly investigate Subject Rs whereabouts.
 
-We return to the present with the MBCC team, Chief, [[Hella]] and [[Hecate]] reached the local security precinct in Syndicate. The riot has already reached it and even breached the gate. Nearly a hundred gangs are involved in a free for all fight and attack the team as well. Hella feels right at home in the chaos and gets ready to fight.
-
-Back to the briefing you learn that Syndicate has been effectively lawless for the past twenty years. The City Council eventually abandoned the whole West District to the gangs when they signed the [[West District Management Regulations]]. Right now Syndicate is de facto ruled by gangs.
-
-In the present Hella taunts a gangster that's about to attack them, clearly enjoying herself. Predictably a fight broke out.
+When the MBCC team, consisting of Chief, [[Characters/Paradeisos/MBCC/Hella|Hella]] and [[Characters/Paradeisos/MBCC/Hecate|Hecate]], reach the local security precinct it has already been breached by Syndicate gangs. Nearly a hundred gangs are involved in the riot and the team is dragged into the carnage. Hella feels right at home in the chaos and taunts the attacking gang members mercilessly.

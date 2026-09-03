@@ -1,5 +1,7 @@
 ---
 Tags:
+  - contaminated
+  - destroyed
 Short: An unearthed crypt in the outskirts of West District, severely contaminated
 Area: "[[Locations/DisCity/West District/West District|West District]]"
 Size: Facility

@@ -6,8 +6,8 @@ Tags:
 Short:
 Structure: Military
 Purpose: Anti Mania
-Leadership: "[[Adrian Sterling]]"
-Headquarters: "[[DisSea]]"
+Leadership: "[[Characters/Paradeisos/FAC/Adrian Sterling|Adrian Sterling]]"
+Headquarters: "[[Locations/DisSea/DisSea|DisSea]]"
 State: Created
 Content: Organisation
 ---

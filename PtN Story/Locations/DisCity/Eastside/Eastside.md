@@ -4,7 +4,7 @@ Tags:
   - discity
   - city_council
 Short: The administrative and cultural centre of DisCity. Very sheltered from Mania and calamities.
-Area: "[[DisCity]]"
+Area: "[[Locations/DisCity/DisCity|DisCity]]"
 Size: District
 State: Created
 Content: Location

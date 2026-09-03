@@ -1,6 +1,7 @@
 ---
 Tags:
-  - metaphysics/black_ring
+  - black_ring
+Short:
 State: Created
 Content: Topic
 ---

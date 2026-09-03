@@ -1,7 +1,8 @@
 ---
 Tags:
-  - metaphysics/reason
-  - meta/mystery
+  - hypercubes
+  - mystery
+Short:
 State: Created
 Content: Topic
 ---

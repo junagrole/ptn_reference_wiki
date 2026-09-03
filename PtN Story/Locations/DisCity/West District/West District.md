@@ -6,7 +6,7 @@ Tags:
 aliases:
   - Syndicate
 Short: Formerly the industrial and mining centre of DisCity, slowly recovering after decades of neglect and gang violence
-Area: "[[DisCity]]"
+Area: "[[Locations/DisCity/DisCity|DisCity]]"
 Size: District
 Content: Location
 State: Stub

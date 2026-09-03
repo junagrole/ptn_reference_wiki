@@ -1,7 +1,9 @@
 ---
 Tags:
-  - metaphysics/mania
-  - metaphysics/black_ring
+  - mania
+  - deep_mania
+  - underground
+Short:
 State: Created
 Content: Topic
 ---

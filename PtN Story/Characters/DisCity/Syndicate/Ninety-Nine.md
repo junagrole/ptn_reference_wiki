@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/a_class
   - contaminated
   - mania_crystal
+  - a_class
 Short: Hellas close friend and fellow victim of Parma, heavily contaminated
 Sinner: true
 Gender: Female

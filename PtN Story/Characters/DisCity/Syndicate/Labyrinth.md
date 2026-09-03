@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/b_class
   - cyborg
   - mbcc
+  - b_class
 Short: Full cyborg maid
 Sinner: true
 Gender: Female

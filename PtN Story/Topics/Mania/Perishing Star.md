@@ -1,7 +1,10 @@
 ---
 Tags:
-  - metaphysics/mania
-  - metaphysics/black_ring
+  - mania
+  - deep_mania
+  - black_ring
+  - dissea
+Short:
 State: Created
 Content: Topic
 ---

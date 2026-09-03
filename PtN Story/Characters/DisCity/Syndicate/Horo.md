@@ -1,8 +1,8 @@
 ---
 Tags:
-  - sinner/a_class
   - legion
   - missing
+  - a_class
 Short: Legion member and later leader. Sister of Earl.
 Sinner: true
 Gender: Female

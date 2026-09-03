@@ -1,10 +1,10 @@
 ---
 Tags:
-  - sinner/s_class
   - legion
   - missing
   - black_ring
   - contaminated
+  - s_class
 Short: Leader of the Legion and hero of Syndicate
 Sinner: true
 Gender: Female

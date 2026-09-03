@@ -1,9 +1,9 @@
 ---
 Tags:
-  - sinner/a_class
   - salva
   - medical
   - banyan_college
+  - a_class
 Short: SALVA medical director, tries to find a treatment for Mania
 Sinner: true
 Gender: Female
