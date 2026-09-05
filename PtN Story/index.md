@@ -1,5 +1,5 @@
 ---
-title: Lore Wiki for Path to Nowhere
+title: The EDGE Archives
 ---
 A fan wiki for Path to Nowhere by AISNO.
 
@@ -12,7 +12,7 @@ Chapter summaries so far:
 - [[Unclaimed Crypt]]
 
 Index:
-- [[PageIndex/PageIndex|PageIndex]]
+- [[PageIndex/PageIndex|Index Folder]]
 - [[Arcs/Arcs.base|Arcs]]
 - [[PageIndex/Incidents/Timeline/Timeline|Timeline]]
 

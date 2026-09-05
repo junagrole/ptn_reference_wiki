@@ -1,6 +1,6 @@
 ---
 Tags:
-  - legion
+Short: Forced to hide in the sewers by the Legion the team discusses their next step. In the end they go with Teds suggestion of go directly after SALVA, where Subject R is supposed to be hiding.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"

@@ -1,5 +1,6 @@
 ---
 Tags:
+Short: Chief is attacked by a young gray haired girl wielding Sinner powers. Saved by Ted, a local PSB informant, they are supposed to work together.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"

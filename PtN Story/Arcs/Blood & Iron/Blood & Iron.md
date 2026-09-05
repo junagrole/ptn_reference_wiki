@@ -20,5 +20,5 @@ Content: Arc
 - [[Prologue]]
 - [[SALVA Chaos]]
 - [[Unclaimed Crypt]]
-- [[Keylan Square]]
+- [[Arcs/Blood & Iron/Keylan Square/Keylan Square]]
 
