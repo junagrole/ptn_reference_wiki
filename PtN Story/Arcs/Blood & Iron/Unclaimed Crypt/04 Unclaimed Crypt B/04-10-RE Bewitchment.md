@@ -3,13 +3,13 @@ Tags:
 Short: The Inheritance is using Horo to tempt Zoya into taking it for herself. At the last moment Chief invokes the Shackles.
 Pov:
   - Chief
-Chapter: "[[Unclaimed Crypt]]"
-Previous: "[[04-10 Meet Again]]"
-Next: "[[04-11 Shackles Sinner]]"
+Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"
+Previous: "[[Arcs/Blood & Iron/Unclaimed Crypt/04 Unclaimed Crypt B/04-10 Meet Again|04-10 Meet Again]]"
+Next: "[[Arcs/Blood & Iron/Unclaimed Crypt/04 Unclaimed Crypt B/04-11 Shackles Sinner|04-11 Shackles Sinner]]"
 State: Review
 Content: Stage
 ---
-Upon being reunited with [[Characters/DisCity/Syndicate/Zoya]] [[Characters/DisCity/Syndicate/Horo]] tells her how much she looks up to her, that she guarded the altar sure her boss would come. But the [[Inheritance]] uses that wish to tempt Zoya into taking up the the eldritch power for herself. To use it to destroy [[Locations/DisCity/West District/West District]] and create a new home.
+Upon being reunited with [[Characters/DisCity/Syndicate/Zoya|Zoya]] [[Characters/DisCity/Syndicate/Horo|Horo]] tells her how much she looks up to her, that she guarded the altar sure her boss would come. But the [[Topics/Mania/Inheritance|Inheritance]] uses that wish to tempt Zoya into taking up the the eldritch power for herself. To use it to destroy [[Locations/DisCity/West District/West District|Syndicate]] and create a new home.
 
 Immobilised by the contamination the team can only watch. But Zoya just asks the manic girl, before punching her with full force.
 > [!cite] Zoya
@@ -18,7 +18,7 @@ Immobilised by the contamination the team can only watch. But Zoya just asks the
 
 Freed from the control for the moment, Horo blurts out that the Inheritance itself is what she fears. How she can't resist its control, how it turns Sinners into monsters in an instant.
 > [!cite] Horo
-> This is the source, the source of [[Mania]], the source of [[Sinner|us]].
+> This is the source, the source of [[Topics/Mania/Mania|Mania]], the source of [[Topics/Mania/Sinner|us]].
 
 Horo is ready to sacrifice anything to prevent her commander falling. Not only her, she is sick of seeing other sacrifice themselves to protect her.
 This heartfelt genuine wish makes Zoya hesitate for a moment, giving the Inheritance the chance to sprout tentacles and reach for Zoya.
