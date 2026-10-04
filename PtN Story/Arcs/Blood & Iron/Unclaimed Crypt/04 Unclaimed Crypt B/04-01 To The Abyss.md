@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Taking the elevator into the depths of the Crypt turns into freefall as attacking Corruptors sever the cable
+description: Taking the elevator into the depths of the Crypt turns into freefall as attacking Corruptors sever the cable
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

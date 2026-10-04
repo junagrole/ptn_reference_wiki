@@ -2,7 +2,7 @@
 Tags:
   - apostle
   - entity
-Short:
+description:
 State: Created
 Content: Topic
 ---

@@ -2,7 +2,7 @@
 Tags:
   - discity
   - independence_war
-Short: The DisCity army openly rebels against the Metropoles
+description: The DisCity army openly rebels against the Metropoles
 Major: true
 Kind: Politics
 NF: 66

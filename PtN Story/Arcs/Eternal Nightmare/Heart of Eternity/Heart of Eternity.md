@@ -3,7 +3,7 @@ Tags:
   - core_crisis
   - dissea
   - paradeisos
-Short: Seeking out answers in the DisSea Chief gets trapped in a temporal anomaly with Vanilla. Vanialla, who realises she's just bait, and Schorl return Chief to the present
+description: Seeking out answers in the DisSea Chief gets trapped in a temporal anomaly with Vanilla. Vanialla, who realises she's just bait, and Schorl return Chief to the present
 Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 114

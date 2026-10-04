@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short: The self elected speaker of DisCity is assassinated, sparking the first armed resistance
+description: The self elected speaker of DisCity is assassinated, sparking the first armed resistance
 Major: true
 Kind: Attack
 NF: 61

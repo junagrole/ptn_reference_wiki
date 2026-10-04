@@ -4,7 +4,7 @@ Tags:
   - black_ring
   - paradeisos
   - west_district
-Short:
+description:
 NF: 112
 Month: 11
 Day:

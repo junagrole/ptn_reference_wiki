@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Betrayed by their own allies the Gonzales get turned into Corruptors by Mania Weapons. The Legions pursuit allows Chief to make contact with Yagyu, one of the smarter gangs.
+description: Betrayed by their own allies the Gonzales get turned into Corruptors by Mania Weapons. The Legions pursuit allows Chief to make contact with Yagyu, one of the smarter gangs.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

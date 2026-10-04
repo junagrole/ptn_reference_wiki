@@ -1,7 +1,7 @@
 ---
 Tags:
   - expedition
-Short: All contact with the DisSea expedition was lost
+description: All contact with the DisSea expedition was lost
 Major: true
 Kind: Operation
 NF: 23

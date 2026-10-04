@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Structure: Gang
 Purpose: Criminal
 Leadership:

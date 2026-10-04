@@ -5,7 +5,7 @@ Tags:
   - eastside
 aliases:
   - PSB
-Short:
+description:
 Structure: Agency
 Purpose: Police
 Leadership: Unknown

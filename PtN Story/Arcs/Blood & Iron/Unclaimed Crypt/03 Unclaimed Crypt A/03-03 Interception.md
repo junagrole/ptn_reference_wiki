@@ -1,7 +1,7 @@
 ---
 Tags:
   - kidnapping
-Short: Barely escaping Ninenty-Nine the team gets captured by Zoya personally
+description: Barely escaping Ninenty-Nine the team gets captured by Zoya personally
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

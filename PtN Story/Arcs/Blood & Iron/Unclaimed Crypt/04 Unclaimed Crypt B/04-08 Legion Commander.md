@@ -2,7 +2,7 @@
 aliases:
   - 04-08 "Legion Commander"
 Tags:
-Short: Horo tells Chief about her past and Zoya before they get interrupted by gang members
+description: Horo tells Chief about her past and Zoya before they get interrupted by gang members
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

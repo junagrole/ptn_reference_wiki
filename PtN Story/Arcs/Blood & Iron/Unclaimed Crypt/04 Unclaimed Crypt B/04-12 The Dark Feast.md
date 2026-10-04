@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Fed by the manic gang members the Inheritance is close to turn into a black ring. But protected by the Shackles Zoya manages to seal it into a white cube, ending the threat for now.
+description: Fed by the manic gang members the Inheritance is close to turn into a black ring. But protected by the Shackles Zoya manages to seal it into a white cube, ending the threat for now.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

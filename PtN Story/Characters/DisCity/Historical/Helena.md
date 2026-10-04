@@ -4,8 +4,8 @@ Tags:
   - deceased
   - scientist
   - edge
-Short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
-Sinner: false
+description: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
+Sinner: No
 Gender: Female
 Affiliation: "[[EDGE]]"
 Storyrole: Background

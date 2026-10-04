@@ -3,7 +3,7 @@ Tags:
   - core_crisis
   - dissea
   - paradeisos
-Short: Chief meets her fellow guide the blind girl Hestia. Guided by her flame they brave the forbidden zone. But only Hestias sacrifice allows Chief to escape again.
+description: Chief meets her fellow guide the blind girl Hestia. Guided by her flame they brave the forbidden zone. But only Hestias sacrifice allows Chief to escape again.
 Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 114

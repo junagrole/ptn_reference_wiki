@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: The Legion closes the trap around the gang members lured out by Chief. Zoya vows to destroy every last one of them, until Syndicate has a future beyond gangs.
+description: The Legion closes the trap around the gang members lured out by Chief. Zoya vows to destroy every last one of them, until Syndicate has a future beyond gangs.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

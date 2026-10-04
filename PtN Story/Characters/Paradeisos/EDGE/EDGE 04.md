@@ -3,8 +3,8 @@ Tags:
   - paradeisos
   - edge
   - nirvana
-Short: Recommended by Nirvana to the EDGE council
-Sinner: false
+description: Recommended by Nirvana to the EDGE council
+Sinner: No
 Gender: Male
 Affiliation: "[[EDGE]]"
 Storyrole: Background

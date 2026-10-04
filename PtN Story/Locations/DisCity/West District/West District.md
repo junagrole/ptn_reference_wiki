@@ -5,7 +5,7 @@ Tags:
   - hypercubes
 aliases:
   - Syndicate
-Short: Formerly the industrial and mining centre of DisCity, slowly recovering after decades of neglect and gang violence
+description: Formerly the industrial and mining centre of DisCity, slowly recovering after decades of neglect and gang violence
 Area: "[[Locations/DisCity/DisCity|DisCity]]"
 Size: District
 Content: Location

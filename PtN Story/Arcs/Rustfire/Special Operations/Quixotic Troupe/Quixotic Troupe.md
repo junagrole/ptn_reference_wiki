@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Event
 NF: 113

@@ -2,7 +2,7 @@
 aliases:
   - 04-12-RE It'll be a blaze of fire next time
 Tags:
-Short: At the Legions base camp MBCC arrives. Zoya agrees to the negotiation offer by the PSB before setting the Crypt on fire. Both parties plan to take on the conspirators behind the Inheritance.
+description: At the Legions base camp MBCC arrives. Zoya agrees to the negotiation offer by the PSB before setting the Crypt on fire. Both parties plan to take on the conspirators behind the Inheritance.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

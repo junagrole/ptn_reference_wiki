@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Horo reveals that the PSB is involved with the Inheritance, which activation means certain death. The PSB intel was false and they lost Subject R.
+description: Horo reveals that the PSB is involved with the Inheritance, which activation means certain death. The PSB intel was false and they lost Subject R.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

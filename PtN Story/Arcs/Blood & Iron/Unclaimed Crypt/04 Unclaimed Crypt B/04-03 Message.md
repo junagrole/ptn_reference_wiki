@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Signs of fighting between Horro and the gangs hint at her being Subject R and Zoyas missing subordinate. Another targeted Corruptor attack tries to stop their advance.
+description: Signs of fighting between Horro and the gangs hint at her being Subject R and Zoyas missing subordinate. Another targeted Corruptor attack tries to stop their advance.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

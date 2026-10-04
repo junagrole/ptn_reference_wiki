@@ -2,9 +2,8 @@
 Tags:
   - cyborg
   - mbcc
-  - b_class
-Short: Full cyborg maid
-Sinner: true
+description: Full cyborg maid
+Sinner: B-Class
 Gender: Female
 Storyrole: Background
 State: Created

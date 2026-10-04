@@ -3,7 +3,7 @@ Tags:
   - eastside
   - corporation
   - scum
-Short:
+description:
 Structure: Company
 Purpose: Business
 Leadership: Unknown

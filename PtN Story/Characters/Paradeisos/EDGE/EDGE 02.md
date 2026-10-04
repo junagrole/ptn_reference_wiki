@@ -3,10 +3,10 @@ Tags:
   - paradeisos
   - edge
   - scientist
-  - sinner
   - hush
-Short: Senior EDGE scientist, expert in human consciousness studies
-Sinner: false
+  - link
+description: Senior EDGE scientist, expert in human consciousness studies
+Sinner: No
 Gender: Female
 Affiliation: "[[EDGE]]"
 Storyrole: Supporting

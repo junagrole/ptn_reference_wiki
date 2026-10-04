@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: The team finds a product of Parmas experiments on Ninenty-Nine in mania weapon crates. Under the influence of the Inheritance the weapons go berserk.
+description: The team finds a product of Parmas experiments on Ninenty-Nine in mania weapon crates. Under the influence of the Inheritance the weapons go berserk.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

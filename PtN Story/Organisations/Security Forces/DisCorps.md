@@ -2,7 +2,7 @@
 Tags:
   - discity
   - discorps
-Short:
+description:
 Structure: Military
 Purpose: War
 Leadership: "[[Characters/DisCity/Historical/Catherine Augustus Andohar|Catherine Augustus Andohar]]"

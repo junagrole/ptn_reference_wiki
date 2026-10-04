@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Character:
 Category:
 Arc:

@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: The Inheritance is using Horo to tempt Zoya into taking it for herself. At the last moment Chief invokes the Shackles.
+description: The Inheritance is using Horo to tempt Zoya into taking it for herself. At the last moment Chief invokes the Shackles.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

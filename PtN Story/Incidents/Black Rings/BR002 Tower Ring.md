@@ -3,7 +3,7 @@ Tags:
   - west_district
   - black_ring
   - destroyed
-Short: During the Rustfire riots BR002 broke out a second time with Julien as Corpseborn
+description: During the Rustfire riots BR002 broke out a second time with Julien as Corpseborn
 Major: true
 Kind: Black Ring
 NF: 114

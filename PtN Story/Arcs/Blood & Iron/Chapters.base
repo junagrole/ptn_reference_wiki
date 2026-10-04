@@ -10,7 +10,7 @@ views:
       direction: ASC
     order:
       - file.name
-      - short
+      - description
     sort:
       - property: NF
         direction: ASC
@@ -30,7 +30,7 @@ views:
       - day
       - month
       - Category
-      - Short
+      - description
     sort:
       - property: NF
         direction: ASC

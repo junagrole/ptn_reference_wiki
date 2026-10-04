@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Event
 NF: 112

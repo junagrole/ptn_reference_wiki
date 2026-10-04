@@ -3,7 +3,7 @@ Tags:
   - discity
   - paradeisos
   - espionage
-Short:
+description:
 Structure: Agency
 Purpose: Intelligence
 Leadership:

@@ -2,8 +2,8 @@
 Tags:
   - scum
   - gangster
-Short: Total scumbag, hates Sinners, might work with the underground, lobotomised by Iron
-Sinner: false
+description: Total scumbag, hates Sinners, might work with the underground, lobotomised by Iron
+Sinner: No
 Gender: Male
 Affiliation: Gang
 Storyrole: Antagonist

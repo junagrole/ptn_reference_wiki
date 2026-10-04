@@ -1,7 +1,7 @@
 ---
 Tags:
   - bald
-Short:
+description:
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Keylan Square/Keylan Square|Keylan Square]]"

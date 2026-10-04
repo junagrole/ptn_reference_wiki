@@ -7,7 +7,7 @@ Tags:
   - black_ring
   - politics
   - edge
-Short:
+description:
 NF: 113
 Month: 12
 Day:

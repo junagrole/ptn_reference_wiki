@@ -1,7 +1,7 @@
 ---
 Tags:
   - research
-Short: DisCities most prestigious university
+description: DisCities most prestigious university
 Area: "[[Locations/DisCity/Eastside/Eastside|Eastside]]"
 Size: Facility
 State: Created

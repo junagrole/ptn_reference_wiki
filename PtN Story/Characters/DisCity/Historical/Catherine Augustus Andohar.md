@@ -7,8 +7,8 @@ aliases:
   - EDGE 08
   - Catherine
   - Augustus
-Short: Hero of the independence War, now Leader of the DisCorps remains and EDGE 08
-Sinner: true
+description: Hero of the independence War, now Leader of the DisCorps remains and EDGE 08
+Sinner: S-Class
 Gender: Female
 Affiliation: "[[EDGE]]"
 Storyrole: Protagonist

@@ -1,7 +1,7 @@
 ---
 Tags:
   - white_sands
-Short: A mobile wild west style town, full of scam artists trying to eek out a living in White Sands
+description: A mobile wild west style town, full of scam artists trying to eek out a living in White Sands
 Area: "[[Locations/White Sands/Tuco|Tuco]]"
 Size: Town
 State: Created

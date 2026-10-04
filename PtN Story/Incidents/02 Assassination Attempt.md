@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Isomer and the Underground attempted to kill EDGE 02, but were stopped by 07, Lemma.
+description: Isomer and the Underground attempted to kill EDGE 02, but were stopped by 07, Lemma.
 Major: true
 Kind: Attack
 NF: 116

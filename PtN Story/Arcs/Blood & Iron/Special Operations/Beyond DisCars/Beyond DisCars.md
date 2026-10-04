@@ -1,7 +1,7 @@
 ---
 Tags:
   - lunar_new_year
-Short:
+description:
 Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Event
 NF: 113

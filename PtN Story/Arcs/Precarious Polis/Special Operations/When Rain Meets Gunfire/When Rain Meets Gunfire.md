@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Sequester
 NF: 115

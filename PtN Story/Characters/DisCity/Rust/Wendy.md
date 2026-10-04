@@ -3,9 +3,8 @@ Tags:
   - fac
   - rust
   - mbcc
-  - a_class
-Short: Only survivor of the Undertakers, still hunts Corruptors in the Rust
-Sinner: true
+description: Only survivor of the Undertakers, still hunts Corruptors in the Rust
+Sinner: A-Class
 Gender: Female
 Affiliation: "[[FAC]]"
 Storyrole: Background

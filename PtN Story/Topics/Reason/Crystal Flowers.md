@@ -2,7 +2,7 @@
 Tags:
   - hypercubes
   - mystery
-Short:
+description:
 State: Created
 Content: Topic
 ---

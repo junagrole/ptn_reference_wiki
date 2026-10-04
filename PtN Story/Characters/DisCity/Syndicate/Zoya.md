@@ -4,11 +4,10 @@ Tags:
   - missing
   - black_ring
   - contaminated
-  - s_class
-Short: Leader of the Legion and hero of Syndicate
-Sinner: true
+description: Leader of the Legion and hero of Syndicate
+Sinner: S-Class
 Gender: Female
-Affiliation: "[[Organisations/Gangs/The Legion]]"
+Affiliation: "[[Organisations/Gangs/The Legion|The Legion]]"
 Storyrole: Protagonist
 State: Created
 Content: Character

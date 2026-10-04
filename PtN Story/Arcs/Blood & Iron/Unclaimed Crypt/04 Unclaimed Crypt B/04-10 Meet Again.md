@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: As Parma intended, the manic battle activates the inheritance. Zoyas arrival puts an end to the battle but the Inheritance is now trying to bewitch the powerful Sinner instead.
+description: As Parma intended, the manic battle activates the inheritance. Zoyas arrival puts an end to the battle but the Inheritance is now trying to bewitch the powerful Sinner instead.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

@@ -2,7 +2,7 @@
 Tags:
   - independence_war
   - edge
-Short: To deal with Catherine's worsening contamination EDGE places her in cryosleep
+description: To deal with Catherine's worsening contamination EDGE places her in cryosleep
 Major: true
 Kind: Personal
 NF: 74

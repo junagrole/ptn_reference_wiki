@@ -2,7 +2,7 @@
 Tags:
   - core_crisis
   - anniversary
-Short:
+description:
 Arc: "[[Arcs/Dark Web/Dark Web|Dark Web]]"
 Category: Main Event
 NF: 114

@@ -2,8 +2,8 @@
 Tags:
   - independence_war
   - military
-Short: White Sands Guerrillas founder, instigator of the independence movement
-Sinner: false
+description: White Sands Guerrillas founder, instigator of the independence movement
+Sinner: No
 Gender: Male
 Affiliation: "[[Independence Army]]"
 Storyrole: Historical

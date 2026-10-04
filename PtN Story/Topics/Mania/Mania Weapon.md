@@ -2,7 +2,7 @@
 Tags:
   - mania
   - technology
-Short: Powerful mass produced weapons that would infect their victims with mania. Developed and distributed in Syndicate by Parma
+description: Powerful mass produced weapons that would infect their victims with mania. Developed and distributed in Syndicate by Parma
 State: Created
 Content: Topic
 ---

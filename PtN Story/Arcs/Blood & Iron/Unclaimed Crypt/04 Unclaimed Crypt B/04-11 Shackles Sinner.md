@@ -2,7 +2,7 @@
 aliases:
   - "04-11 Shackles: Sinner"
 Tags:
-Short: Convinced by Chiefs courage Zoya teams up with the squad and frees all four of them from the contamination. Now they have to face the Inheritance itself.
+description: Convinced by Chiefs courage Zoya teams up with the squad and frees all four of them from the contamination. Now they have to face the Inheritance itself.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

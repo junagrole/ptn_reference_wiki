@@ -6,10 +6,10 @@ Tags:
   - business
   - influencer
   - cabinet
-Short: The City Council speaker, plays the fool, former tycoon and social media star
-Sinner: false
+description: The City Council speaker, plays the fool, former tycoon and social media star
+Sinner: No
 Gender: Male
-Affiliation: "[[Organisations/Political/City Council]]"
+Affiliation: "[[Organisations/Political/City Council|City Council]]"
 Storyrole: Supporting
 State: Created
 Content: Character

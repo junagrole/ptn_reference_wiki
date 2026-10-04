@@ -3,7 +3,7 @@ Tags:
   - underground
   - mania
   - shepherd
-Short:
+description:
 Structure: Secret Society
 Purpose: Mania
 Leadership: "[[Characters/Underground/Underground Shepherd|Underground Shepherd]]"

@@ -3,7 +3,7 @@ Tags:
   - paradeisos
   - mania
   - fac
-Short:
+description:
 Structure: Military
 Purpose: Anti Mania
 Leadership: "[[Characters/Paradeisos/FAC/Adrian Sterling|Adrian Sterling]]"

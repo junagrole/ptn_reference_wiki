@@ -7,8 +7,8 @@ Tags:
 aliases:
   - Commander in Chief
   - EDGE 06
-Short: Stoic battle hardened leader of the FAC, independence war hero, EDGE 06
-Sinner: false
+description: Stoic battle hardened leader of the FAC, independence war hero, EDGE 06
+Sinner: No
 Gender: Male
 Affiliation: "[[FAC]]"
 Storyrole: Supporting

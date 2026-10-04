@@ -5,7 +5,7 @@ Tags:
   - garden
   - underground
   - fac
-Short:
+description: To protect her Garden, the Mentor stages a series of high profile assassination, but gets used by Hush X for her rebellion
 Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Main Event
 NF: 113

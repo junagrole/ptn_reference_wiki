@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Dr. Keylan died of illness. DisCity build the Keylan Square as a memorial to him.
+description: Dr. Keylan died of illness. DisCity build the Keylan Square as a memorial to him.
 Major: true
 Kind: Personal
 NF: 33

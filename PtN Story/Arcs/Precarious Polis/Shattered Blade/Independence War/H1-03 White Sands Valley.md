@@ -4,7 +4,7 @@ Tags:
   - tide_of_ashes
   - calamity
   - battle
-Short:
+description:
 Pov:
   - "[[Brock]]"
 Chapter: "[[Shattered Blade]]"

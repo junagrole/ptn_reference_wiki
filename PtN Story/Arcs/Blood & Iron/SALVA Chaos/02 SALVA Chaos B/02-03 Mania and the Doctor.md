@@ -1,7 +1,7 @@
 ---
 Tags:
   - mania
-Short:
+description:
 Previous:
   - "[[02-02 Surgery]]"
 Next:

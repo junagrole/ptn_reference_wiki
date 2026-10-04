@@ -15,7 +15,7 @@ views:
       - Month
       - Day
       - Kind
-      - Short
+      - description
     sort:
       - property: NF
         direction: ASC
@@ -37,7 +37,7 @@ views:
       - file.name
       - Month
       - Kind
-      - Short
+      - description
       - Day
     sort:
       - property: NF
@@ -59,7 +59,7 @@ views:
       - Month
       - Day
       - Kind
-      - Short
+      - description
     sort:
       - property: NF
         direction: ASC

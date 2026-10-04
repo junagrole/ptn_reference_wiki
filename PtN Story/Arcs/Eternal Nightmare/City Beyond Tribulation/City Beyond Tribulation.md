@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Arc: "[[Arcs/Eternal Nightmare/Eternal Nightmare|Eternal Nightmare]]"
 Category: Eternal Nightmare
 NF: 115

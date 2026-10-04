@@ -4,8 +4,8 @@ Tags:
   - underground
 aliases:
   - Big Sis
-Short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
-Sinner: false
+description: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
+Sinner: No
 Gender: Female
 Affiliation: "[[Underground]]"
 Storyrole: Antagonist

@@ -4,12 +4,12 @@ Tags:
   - campbell
   - scientist
   - aurum_secretum
-  - s_class
+  - farlands
 aliases:
   - Hypatia Campbell
   - Hypa
-Short: The only good Campbell, genius Aurum Secretum researcher, friends with Hella
-Sinner: true
+description: The only good Campbell, genius Aurum Secretum researcher, friends with Hella
+Sinner: S-Class
 Gender: Female
 Affiliation: "[[Fraser]]"
 Storyrole: Protagonist

@@ -2,7 +2,7 @@
 Tags:
   - kidnapping
   - planned_kidnapping
-Short: Chief stages their own abduction by Yagyu to get away from the Legion
+description: Chief stages their own abduction by Yagyu to get away from the Legion
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

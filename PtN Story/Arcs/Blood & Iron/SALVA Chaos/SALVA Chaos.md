@@ -3,7 +3,7 @@ Tags:
   - core_crisis
   - salva
   - west_district
-Short: The trail of the fugitive Subject R leads to SALVA in Syndicate. Betrayed by their  ally Chief has to come to terms with not being able to save a young Sinner
+description: The trail of the fugitive Subject R leads to SALVA in Syndicate. Betrayed by their  ally Chief has to come to terms with not being able to save a young Sinner
 Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Main Story
 NF: 112

@@ -1,7 +1,7 @@
 ---
 Tags:
   - core_crisis
-Short:
+description:
 Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Event
 NF: 115

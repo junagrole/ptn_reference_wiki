@@ -2,7 +2,7 @@
 Tags:
   - discity
   - independence_war
-Short: DisCity official declares independence, Brock dies from radiation poisoning after the speech
+description: DisCity official declares independence, Brock dies from radiation poisoning after the speech
 Major: true
 Kind: Politics
 NF: 72

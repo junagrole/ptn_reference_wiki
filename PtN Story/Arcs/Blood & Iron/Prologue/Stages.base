@@ -8,7 +8,7 @@ views:
       - file.name
       - pov
       - tags
-      - short
+      - description
     columnSize:
       note.Pov: 140
       note.Tags: 250
@@ -19,7 +19,7 @@ views:
       direction: ASC
     order:
       - file.name
-      - short
+      - description
   - type: table
     name: Navigation
     order:

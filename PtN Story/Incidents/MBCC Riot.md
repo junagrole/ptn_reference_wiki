@@ -1,7 +1,7 @@
 ---
 Tags:
   - mbcc
-Short: An unknown Sinner attacks MBCC and starts a prison riot as cover
+description: An unknown Sinner attacks MBCC and starts a prison riot as cover
 Major: true
 Kind: Attack
 NF: 112

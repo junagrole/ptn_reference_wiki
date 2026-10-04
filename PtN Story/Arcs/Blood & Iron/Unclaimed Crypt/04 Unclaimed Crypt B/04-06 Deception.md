@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Convinced by Chiefs story Horo asks them to bring her to Zoya, but collapses soon from her grievous injuries.  Having been treated by SALVA proves that she is indeed the Sinner they have been chasing
+description: Convinced by Chiefs story Horo asks them to bring her to Zoya, but collapses soon from her grievous injuries.  Having been treated by SALVA proves that she is indeed the Sinner they have been chasing
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

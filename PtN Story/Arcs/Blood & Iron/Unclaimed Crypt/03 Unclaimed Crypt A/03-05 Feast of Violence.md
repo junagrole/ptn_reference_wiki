@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: United against Zoya the Syndicate gangs stage an ambush utilising mania weapons. They get crushed.
+description: United against Zoya the Syndicate gangs stage an ambush utilising mania weapons. They get crushed.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

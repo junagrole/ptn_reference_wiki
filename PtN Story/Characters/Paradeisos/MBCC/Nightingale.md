@@ -1,8 +1,8 @@
 ---
 Tags:
   - mbcc
-Short: Chief's loyal adjutant, even before Chief lost their memories
-Sinner: false
+description: Chief's loyal adjutant, even before Chief lost their memories
+Sinner: No
 Gender: Female
 Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 Storyrole: Supporting

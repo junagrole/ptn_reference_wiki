@@ -5,7 +5,7 @@ Tags:
   - politics
   - research
   - reason
-Short:
+description:
 Structure: Secret Society
 Purpose: Anti Mania
 Leadership: "[[Organisations/Paradeisos/EDGE|EDGE]]"

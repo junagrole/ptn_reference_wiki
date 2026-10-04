@@ -7,7 +7,7 @@ Tags:
   - black_ring
   - legion
   - campbell
-Short: To grow stronger and more independent Hella joins a legion convoy, meeting new friends and challenges. Her journey gets abruptly ended by BR005
+description: To grow stronger and more independent Hella joins a legion convoy, meeting new friends and challenges. Her journey gets abruptly ended by BR005
 NF: 114
 Month:
 Day:

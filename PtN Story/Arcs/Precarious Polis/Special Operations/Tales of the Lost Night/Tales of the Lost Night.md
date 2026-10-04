@@ -1,7 +1,7 @@
 ---
 Tags:
   - collab
-Short:
+description:
 Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Event
 NF: 115

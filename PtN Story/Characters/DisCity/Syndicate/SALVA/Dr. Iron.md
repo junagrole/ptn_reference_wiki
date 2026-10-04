@@ -3,9 +3,8 @@ Tags:
   - salva
   - medical
   - banyan_college
-  - a_class
-Short: SALVA medical director, tries to find a treatment for Mania
-Sinner: true
+description: SALVA medical director, tries to find a treatment for Mania
+Sinner: A-Class
 Gender: Female
 Affiliation: SALVA
 Storyrole: Antagonist

@@ -3,7 +3,7 @@ Tags:
   - west_district
   - gang
   - white_sands
-Short:
+description:
 Structure: Gang
 Purpose: Resistance Group
 Leadership: "[[Characters/DisCity/Syndicate/Horo|Horo]]"

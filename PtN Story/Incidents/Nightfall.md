@@ -2,7 +2,7 @@
 Tags:
   - calamity
   - mystery
-Short: An asteroid strikes the city of Maria, spreading calamities all over the world
+description: An asteroid strikes the city of Maria, spreading calamities all over the world
 Major: true
 Kind: Calamity
 NF: 1

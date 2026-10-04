@@ -5,7 +5,7 @@ Tags:
   - fac
   - discorps
   - black_ring
-Short:
+description:
 Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Story
 NF: 115

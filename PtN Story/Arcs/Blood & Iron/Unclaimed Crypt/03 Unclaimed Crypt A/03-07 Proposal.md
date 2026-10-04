@@ -2,7 +2,7 @@
 aliases:
   - 03-07 "Proposal"
 Tags:
-Short: Having lured out the Yagyu members, Chief uses subterfuge to probe them for information
+description: Having lured out the Yagyu members, Chief uses subterfuge to probe them for information
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

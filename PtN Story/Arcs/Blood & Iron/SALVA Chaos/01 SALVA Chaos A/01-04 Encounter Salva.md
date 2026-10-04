@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Encountering a group of SALVA doctors carrying corrupted gang members into their ambulance Ted attacks them to gather intelligence.
+description: Encountering a group of SALVA doctors carrying corrupted gang members into their ambulance Ted attacks them to gather intelligence.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"

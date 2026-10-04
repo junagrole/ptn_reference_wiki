@@ -4,7 +4,7 @@ Tags:
   - mystery
   - sinner
   - destroyed
-Short: Situated in the deepest levels of the MBCC, it got destroyed in the MBCC riot.
+description: Situated in the deepest levels of the MBCC, it got destroyed in the MBCC riot.
 Area: "[[Locations/DisCity/MBCC/MBCC|MBCC]]"
 Size: Facility
 State: Created

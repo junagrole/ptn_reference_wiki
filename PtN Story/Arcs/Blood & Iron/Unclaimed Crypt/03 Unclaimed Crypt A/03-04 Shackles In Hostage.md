@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: To combat the contamination of the inheritance Zoya forces Chief to shackle her. But her second in command, Earl, implant a mania bomb in her head to ensure compliance.
+description: To combat the contamination of the inheritance Zoya forces Chief to shackle her. But her second in command, Earl, implant a mania bomb in her head to ensure compliance.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

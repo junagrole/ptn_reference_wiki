@@ -2,9 +2,8 @@
 Tags:
   - west_district
   - mbcc
-  - b_class
-Short: The self proclaimed Archer Queen of Syndicate, often fights with Hella
-Sinner: true
+description: The self proclaimed Archer Queen of Syndicate, often fights with Hella
+Sinner: B-Class
 Gender: Female
 Storyrole: Background
 State: Created

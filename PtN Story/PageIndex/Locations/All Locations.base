@@ -11,7 +11,7 @@ views:
     order:
       - file.name
       - Size
-      - Short
+      - description
     sort:
       - property: Size
         direction: ASC
@@ -25,14 +25,14 @@ views:
     order:
       - file.name
       - Area
-      - Short
+      - description
     sort:
       - property: Area
         direction: ASC
       - property: file.name
         direction: ASC
   - type: table
-    name: Maintenanca
+    name: Maintenance
     groupBy:
       property: State
       direction: ASC

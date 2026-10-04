@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Finding the Inheritance presented like a showpiece the group gets ambushed by a Mania addled Horo. Only bluffing to be with the Legion gives her pause.
+description: Finding the Inheritance presented like a showpiece the group gets ambushed by a Mania addled Horo. Only bluffing to be with the Legion gives her pause.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

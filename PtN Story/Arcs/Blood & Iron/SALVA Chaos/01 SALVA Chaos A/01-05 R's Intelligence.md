@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Ted tortures a nurse, learning that the fugitive Sinner is indeed at SALVA. Chief has to restrain Hella with the Shackles to prevent a fight with Teds gang.
+description: Ted tortures a nurse, learning that the fugitive Sinner is indeed at SALVA. Chief has to restrain Hella with the Shackles to prevent a fight with Teds gang.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"

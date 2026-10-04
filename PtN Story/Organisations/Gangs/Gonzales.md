@@ -4,7 +4,7 @@ Tags:
   - gang
   - scum
   - destroyed
-Short:
+description:
 Structure: Gang
 Purpose: Criminal
 Leadership:

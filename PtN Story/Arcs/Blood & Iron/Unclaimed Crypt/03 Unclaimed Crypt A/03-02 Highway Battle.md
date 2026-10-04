@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: After barely escaping a fierce battle on the highway ends with the group surrounded by the Legion
+description: After barely escaping a fierce battle on the highway ends with the group surrounded by the Legion
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

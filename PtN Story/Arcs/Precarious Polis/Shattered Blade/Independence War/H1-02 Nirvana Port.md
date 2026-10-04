@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short: Brock meets old friends in Nirvana Port and secures covert support from EDGE
+description: Brock meets old friends in Nirvana Port and secures covert support from EDGE
 Pov:
   - "[[Brock]]"
 Chapter: "[[Shattered Blade]]"

@@ -2,7 +2,7 @@
 Tags:
   - campbell
   - corporation
-Short: Major DisCity company. It's president and founder is Eirene Campbell.
+description: Major DisCity company. It's president and founder is Eirene Campbell.
 Structure: Company
 Purpose: Business
 Leadership: "[[Eirene Campbell]]"

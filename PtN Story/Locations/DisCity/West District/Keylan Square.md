@@ -2,7 +2,7 @@
 Tags:
 aliases:
   - Keylan Statue
-Short: A grand square with a giant statue of Keylan
+description: A grand square with a giant statue of Keylan
 Area: "[[Locations/DisCity/West District/West District|West District]]"
 Size: Facility
 State: Created

@@ -2,7 +2,7 @@
 Tags:
   - core_crisis
   - legion
-Short: Kidnapped by the Legion the team is forced to fight in a brutal gang war. In the mania contaminated crypt MBCC and Legion face the horror of the Inheritance.
+description: Kidnapped by the Legion the team is forced to fight in a brutal gang war. In the mania contaminated crypt MBCC and Legion face the horror of the Inheritance.
 Arc: "[[Arcs/Blood & Iron/Blood & Iron|Blood & Iron]]"
 Category: Main Story
 NF: 112

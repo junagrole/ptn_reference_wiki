@@ -6,7 +6,7 @@ Tags:
   - fac
   - discity
   - shepherd
-Short:
+description:
 Structure: Agency
 Purpose: Anti Mania
 Leadership: "[[Characters/Paradeisos/MBCC/Chief|Chief]]"

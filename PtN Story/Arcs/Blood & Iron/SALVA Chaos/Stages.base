@@ -11,7 +11,7 @@ views:
       - file.name
       - pov
       - tags
-      - short
+      - description
     sort:
       - property: Short
         direction: ASC
@@ -24,7 +24,7 @@ views:
       direction: ASC
     order:
       - file.name
-      - short
+      - description
   - type: table
     name: Navigation
     order:

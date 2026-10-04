@@ -10,7 +10,7 @@ Tags:
   - fac
   - discorps
   - aurum_secretum
-Short:
+description:
 Arc: "[[Arcs/Precarious Polis/Precarious Polis|Precarious Polis]]"
 Category: Main Story
 NF: 114

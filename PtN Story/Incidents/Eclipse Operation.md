@@ -6,7 +6,7 @@ Tags:
   - hush
   - fac
   - underground
-Short: Paradeisos and FAC launch a deep strike on the Lone Island underground base deep in DisSea
+description: Paradeisos and FAC launch a deep strike on the Lone Island underground base deep in DisSea
 Major: true
 Kind: Operation
 NF: 103

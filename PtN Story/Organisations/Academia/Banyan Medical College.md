@@ -3,7 +3,7 @@ Tags:
   - paradeisos
   - eastside
   - medical
-Short: Primary and prestigious medical school of DisCity
+description: Primary and prestigious medical school of DisCity
 Structure: University
 Purpose: Hospital
 Leadership: Dean

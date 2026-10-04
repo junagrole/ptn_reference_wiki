@@ -1,7 +1,7 @@
 ---
 Tags:
   - core_crisis
-Short:
+description:
 Arc: "[[Arcs/Overturning Tide/Overturning Tide|Overturning Tide]]"
 Category: Main Story
 NF: 116

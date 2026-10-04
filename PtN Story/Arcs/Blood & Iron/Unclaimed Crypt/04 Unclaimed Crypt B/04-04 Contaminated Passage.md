@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Reaching the exit, Nightmare collapses it to block the enemies form following. From the edge of a large pit the team can see the stone altar containing the Inheritance in the centre.
+description: Reaching the exit, Nightmare collapses it to block the enemies form following. From the edge of a large pit the team can see the stone altar containing the Inheritance in the centre.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

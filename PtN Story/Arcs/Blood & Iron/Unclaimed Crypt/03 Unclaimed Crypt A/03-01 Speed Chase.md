@@ -1,7 +1,7 @@
 ---
 Tags:
   - divergence
-Short: The MBCC squad is fleeing from Ninenty-Nine and the Legion
+description: The MBCC squad is fleeing from Ninenty-Nine and the Legion
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

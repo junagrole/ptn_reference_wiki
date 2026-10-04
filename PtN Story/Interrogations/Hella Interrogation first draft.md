@@ -1,7 +1,7 @@
 ---
 Tags:
   - b_class
-Short:
+description:
 Character: Hella
 Category: Event
 Arc:

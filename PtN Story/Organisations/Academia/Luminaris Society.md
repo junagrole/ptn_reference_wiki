@@ -1,7 +1,7 @@
 ---
 Tags:
   - aurum_secretum
-Short:
+description:
 Structure: University
 Purpose: Academia
 Leadership:

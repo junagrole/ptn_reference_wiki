@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: In pursuit of "Subject R" Chief, Hella and Hecate infiltrate the gang ruled West District, now known as Syndicate.
+description: In pursuit of "Subject R" Chief, Hella and Hecate infiltrate the gang ruled West District, now known as Syndicate.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/SALVA Chaos/SALVA Chaos|SALVA Chaos]]"

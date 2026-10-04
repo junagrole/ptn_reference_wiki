@@ -1,7 +1,7 @@
 ---
 Tags:
-Short:
-Sinner: false
+description:
+Sinner: No
 Gender:
 Affiliation:
 Storyrole:

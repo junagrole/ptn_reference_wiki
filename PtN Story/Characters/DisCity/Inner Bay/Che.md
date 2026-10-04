@@ -5,9 +5,8 @@ Tags:
   - drifter_camp
   - driver
   - mbcc
-  - b_class
-Short: Whitestone member, defected from the underground
-Sinner: true
+description: Whitestone member, defected from the underground
+Sinner: B-Class
 Gender: Male
 Affiliation: "[[Organisations/Companies/Whitestone Industries|Whitestone Industries]]"
 Storyrole: Background

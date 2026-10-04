@@ -7,8 +7,8 @@ Tags:
 aliases:
   - EDGE intern
   - Baldie
-Short: Senior EDGE scientist, instrumental in DisCities independence. At a later date underwent a procedure to remove emotions
-Sinner: false
+description: Senior EDGE scientist, instrumental in DisCities independence. At a later date underwent a procedure to remove emotions
+Sinner: No
 Gender: Male
 Affiliation: "[[EDGE]]"
 Storyrole: Supporting

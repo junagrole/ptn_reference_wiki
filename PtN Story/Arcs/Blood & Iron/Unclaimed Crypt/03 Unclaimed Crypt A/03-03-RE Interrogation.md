@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: The commander of the Legion Zoya interrogates the captured MBCC Chief
+description: The commander of the Legion Zoya interrogates the captured MBCC Chief
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

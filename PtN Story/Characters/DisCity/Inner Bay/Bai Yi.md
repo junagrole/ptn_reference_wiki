@@ -1,9 +1,8 @@
 ---
 Tags:
-  - s_class
   - underground
-Short:
-Sinner: true
+description:
+Sinner: S-Class
 Gender: Female
 Affiliation: "[[Organisations/Companies/Whitestone Industries|Whitestone Industries]]"
 Storyrole: Supporting

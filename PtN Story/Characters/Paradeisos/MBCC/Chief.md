@@ -8,8 +8,8 @@ aliases:
   - Our adorable Shepherd
   - Dummy
   - Little Sister
-Short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
-Sinner: false
+description: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
+Sinner: No
 Gender: Female
 Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 Storyrole: Protagonist

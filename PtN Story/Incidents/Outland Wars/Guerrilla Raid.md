@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short:
+description:
 Major: false
 Kind: Operation
 NF: 62

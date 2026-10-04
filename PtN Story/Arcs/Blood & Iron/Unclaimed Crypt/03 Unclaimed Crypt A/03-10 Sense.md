@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: To buy enough time for Hecate Chief provokes the gang members into beating her up. Having followed the Shackles, Hecate and Hella rescue her.
+description: To buy enough time for Hecate Chief provokes the gang members into beating her up. Having followed the Shackles, Hecate and Hella rescue her.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

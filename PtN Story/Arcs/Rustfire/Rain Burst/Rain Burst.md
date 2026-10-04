@@ -5,7 +5,7 @@ Tags:
   - paradeisos
   - garden
   - hush
-Short:
+description: Looking for answers, the only survivor of the Eclipse Operation gets involved into a trap set by Hush X for the Garden
 Arc: "[[Arcs/Rustfire/Rustfire|Rustfire]]"
 Category: Main Event
 NF: 113

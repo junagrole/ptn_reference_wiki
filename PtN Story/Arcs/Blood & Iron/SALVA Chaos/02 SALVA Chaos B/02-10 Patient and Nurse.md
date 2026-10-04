@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Chapter: "[[SALVA Chaos]]"
 Pov:
   - Chief

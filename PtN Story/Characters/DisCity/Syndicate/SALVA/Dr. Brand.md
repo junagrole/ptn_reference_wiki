@@ -4,8 +4,8 @@ Tags:
   - salva
   - medical
   - maniac
-Short: SALVA doctor, turned into a Corruptor
-Sinner: false
+description: SALVA doctor, turned into a Corruptor
+Sinner: No
 Gender: Male
 Affiliation: SALVA
 Storyrole: Background

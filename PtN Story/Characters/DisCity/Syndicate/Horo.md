@@ -2,11 +2,10 @@
 Tags:
   - legion
   - missing
-  - a_class
-Short: Legion member and later leader. Sister of Earl.
-Sinner: true
+description: Legion member and later leader. Sister of Earl.
+Sinner: A-Class
 Gender: Female
-Affiliation: "[[Organisations/Gangs/The Legion]]"
+Affiliation: "[[Organisations/Gangs/The Legion|The Legion]]"
 Storyrole: Supporting
 State: Created
 Content: Character

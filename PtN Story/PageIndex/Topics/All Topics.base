@@ -8,6 +8,6 @@ views:
     order:
       - file.name
       - file.tags
-      - Short
+      - description
     columnSize:
       file.tags: 408

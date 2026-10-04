@@ -4,7 +4,7 @@ Tags:
   - politics
   - discity
   - city_council
-Short: The city council chooses to abandon the West District to gang control and takes away their citizen rights
+description: The city council chooses to abandon the West District to gang control and takes away their citizen rights
 Major: true
 Kind: Politics
 NF: 99

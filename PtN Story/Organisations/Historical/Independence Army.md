@@ -3,7 +3,7 @@ Tags:
   - discity
   - independence_war
   - historical
-Short:
+description:
 Category: Military
 State: Created
 Content: Organisation

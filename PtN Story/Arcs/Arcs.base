@@ -10,7 +10,7 @@ views:
       - NF
       - Month
       - Day
-      - Short
+      - description
     sort:
       - property: NF
         direction: ASC

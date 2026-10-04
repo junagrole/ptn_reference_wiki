@@ -5,7 +5,7 @@ Tags:
   - apostle
   - white_sands
   - calamity
-Short: A weaponized tide of Ashes devastates FAC outposts
+description: A weaponized tide of Ashes devastates FAC outposts
 Major: true
 Kind: Calamity
 NF: 115

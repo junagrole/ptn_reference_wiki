@@ -1,8 +1,7 @@
 ---
 Tags:
-  - s_class
-Short:
-Sinner: true
+description:
+Sinner: S-Class
 Gender: Female
 Affiliation:
 Storyrole: Supporting

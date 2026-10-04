@@ -3,8 +3,8 @@ Tags:
   - deceased
   - salva
   - medical
-Short: SALVA Nurse, tortured by Ted and ultimately died
-Sinner: false
+description: SALVA Nurse, tortured by Ted and ultimately died
+Sinner: No
 Gender: Female
 Affiliation: SALVA
 Storyrole: Background

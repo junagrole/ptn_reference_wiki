@@ -1,7 +1,7 @@
 ---
 Tags:
 title: E.D.G.E. Signing
-Short: All surviving cities signed the E.D.G.E. accords, which established DisCity
+description: All surviving cities signed the E.D.G.E. accords, which established DisCity
 Major: true
 Kind: Politics
 NF: 25

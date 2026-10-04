@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short:
+description:
 Major: true
 Kind: Attack
 NF: 66

@@ -1,6 +1,6 @@
 ---
 Tags:
-Short: Narrowly escaping death the team reaches the bottom level. They have to hurry trough the extreme contamination to beat Zoya to the Inheritance.
+description: Narrowly escaping death the team reaches the bottom level. They have to hurry trough the extreme contamination to beat Zoya to the Inheritance.
 Pov:
   - Chief
 Chapter: "[[Arcs/Blood & Iron/Unclaimed Crypt/Unclaimed Crypt|Unclaimed Crypt]]"

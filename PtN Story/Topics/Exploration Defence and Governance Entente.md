@@ -3,7 +3,7 @@ Tags:
 aliases:
   - E.D.G.E.
 title: Exploration, Defence and Governance Entente (E.D.G.E.)
-Short:
+description:
 State: Created
 Content: Topic
 ---

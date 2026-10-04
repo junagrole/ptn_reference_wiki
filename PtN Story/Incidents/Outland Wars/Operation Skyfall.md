@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short: Catherine and the Reaper unit intercept a nuclear strike headed for DisCity
+description: Catherine and the Reaper unit intercept a nuclear strike headed for DisCity
 Major: true
 Kind: Operation
 NF: 68

@@ -3,7 +3,7 @@ Tags:
   - black_ring
   - mystery
   - dissea
-Short: An explosion in the DisSea contaminates much of the city and reveals BR000
+description: An explosion in the DisSea contaminates much of the city and reveals BR000
 Major: true
 Kind: Black Ring
 NF: 84

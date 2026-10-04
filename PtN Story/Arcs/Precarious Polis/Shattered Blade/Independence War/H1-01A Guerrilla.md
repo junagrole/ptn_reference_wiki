@@ -1,7 +1,7 @@
 ---
 Tags:
   - independence_war
-Short:
+description:
 Pov:
   - "[[Brock]]"
 Chapter: "[[Shattered Blade]]"

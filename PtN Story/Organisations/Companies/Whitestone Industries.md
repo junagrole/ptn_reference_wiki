@@ -2,7 +2,7 @@
 Tags:
   - west_district
   - underground
-Short:
+description:
 Structure: Company
 Purpose: Business
 Leadership: "[[Characters/DisCity/Inner Bay/Bai Yi|Bai Yi]]"

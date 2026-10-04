@@ -1,6 +1,6 @@
 ---
 Tags:
-Short:
+description:
 Structure: Team
 Purpose: Anti Mania
 Leadership: "[[Characters/Paradeisos/DisSea Expedition/Keylan|Keylan]]"

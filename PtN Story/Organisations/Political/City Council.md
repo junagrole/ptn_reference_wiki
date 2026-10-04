@@ -3,7 +3,7 @@ Tags:
   - discity
   - city_council
   - politics
-Short:
+description:
 Structure: Parliament
 Purpose: Government
 Leadership: "[[Characters/DisCity/Eastside/Max King|Max King]]"

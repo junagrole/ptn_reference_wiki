@@ -1,7 +1,7 @@
 ---
 Tags:
   - lunar_new_year
-Short:
+description:
 Arc:
 Category: Event
 NF: 116

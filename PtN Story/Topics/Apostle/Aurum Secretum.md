@@ -3,7 +3,7 @@ Tags:
   - apostle
   - technology
   - aurum_secretum
-Short: A technology based on Apostles and Ash Crystals, mainly works as resonance medium
+description: A technology based on Apostles and Ash Crystals, mainly works as resonance medium
 State: Stub
 Content: Topic
 ---

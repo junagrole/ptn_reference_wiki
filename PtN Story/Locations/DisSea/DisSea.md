@@ -4,7 +4,7 @@ Tags:
   - hypercubes
   - black_ring
   - contaminated
-Short: Inland Sea formed in the impact crater of the Perishing Star. Primary source of Hypercubes and heavily contaminated. Site of BR000.
+description: Inland Sea formed in the impact crater of the Perishing Star. Primary source of Hypercubes and heavily contaminated. Site of BR000.
 Area: "[[Locations/White Sands/White Sands|White Sands]]"
 Size: Region
 State: Created

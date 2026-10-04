@@ -2,7 +2,7 @@
 Tags:
   - independence_war
   - edge
-Short: The guerrillas secure covert assistance from EDGE scientists Helena and the later EDGE01
+description: The guerrillas secure covert assistance from EDGE scientists Helena and the later EDGE01
 Major: false
 Kind: Personal
 NF: 64

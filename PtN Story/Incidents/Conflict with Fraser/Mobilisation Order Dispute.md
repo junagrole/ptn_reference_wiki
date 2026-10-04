@@ -3,7 +3,7 @@ Tags:
   - discity
   - city_council
   - politics
-Short:
+description:
 Major: false
 Kind: Politics
 NF: 115

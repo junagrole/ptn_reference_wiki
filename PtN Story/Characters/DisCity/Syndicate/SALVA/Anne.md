@@ -2,9 +2,8 @@
 Tags:
   - salva
   - medical
-  - a_class
-Short: A nurse driven by guilt, works at SALVA
-Sinner: true
+description: A nurse driven by guilt, works at SALVA
+Sinner: A-Class
 Gender: Female
 Affiliation: SALVA
 Storyrole: Background

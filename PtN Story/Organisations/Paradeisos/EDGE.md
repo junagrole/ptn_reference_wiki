@@ -6,7 +6,7 @@ Tags:
   - politics
   - mania
   - reason
-Short:
+description:
 Structure: Secret Society
 Purpose: Anti Mania
 Leadership: Committee
